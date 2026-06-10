@@ -193,6 +193,13 @@ const routes = {
     json(res, 200, upcoming);
   },
 
+  // GET /api/digests → daily auto-generated market recaps
+  "GET /api/digests": (req, res, url) => {
+    const limit = Math.min(parseInt(url.searchParams.get("limit")) || 7, 30);
+    const digests = readJson(path.join(DATA_DIR, "digests.json"), []);
+    json(res, 200, digests.slice(0, limit));
+  },
+
   // POST /api/admin → verify admin key for the dashboard login
   "POST /api/admin": async (req, res) => {
     const { key } = await readBody(req);

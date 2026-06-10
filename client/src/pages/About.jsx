@@ -1,6 +1,13 @@
 import { Link } from "react-router-dom";
+import { useSeo } from "../seo.js";
 
 export default function About() {
+  useSeo({
+    title: "About — Why ChartPulse Exists",
+    description:
+      "ChartPulse publishes every signal with entry, target, stop loss and reasoning — wins and losses stay public. No hype, no paid shilling.",
+    path: "/about",
+  });
   return (
     <article className="post-body">
       <h1>Why ChartPulse exists</h1>

@@ -3,9 +3,23 @@ import { Link } from "react-router-dom";
 import SignalCard from "../components/SignalCard.jsx";
 import WaitlistForm from "../components/WaitlistForm.jsx";
 import { posts } from "../content/posts.js";
+import { useSeo, SITE_URL, SITE_NAME } from "../seo.js";
 
 export default function Home() {
   const [signals, setSignals] = useState([]);
+
+  useSeo({
+    description:
+      "Free BTC/ETH trading signals every 4 hours with entry, target and stop loss. Spot and futures technical analysis plus no-BS trading education.",
+    path: "/",
+    jsonLd: {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      name: SITE_NAME,
+      url: SITE_URL,
+      description: "Crypto trading signals and education platform",
+    },
+  });
 
   useEffect(() => {
     fetch("/api/signals?limit=2")

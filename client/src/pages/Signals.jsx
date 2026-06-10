@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import SignalCard from "../components/SignalCard.jsx";
+import { useSeo } from "../seo.js";
 
 const TABS = [
   { key: "all", label: "All" },
@@ -11,6 +12,13 @@ const TABS = [
 export default function Signals() {
   const [signals, setSignals] = useState(null);
   const [market, setMarket] = useState("all");
+
+  useSeo({
+    title: "Free Crypto Trading Signals (BTC, ETH) — Spot & Futures",
+    description:
+      "Live BTC and ETH trading signals updated every 4 hours: entry zone, target, stop loss and full technical analysis. Separate spot and futures calls, win rate tracked publicly.",
+    path: "/signals",
+  });
 
   useEffect(() => {
     setSignals(null);

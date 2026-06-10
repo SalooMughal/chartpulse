@@ -1,10 +1,28 @@
 import { useParams, Link } from "react-router-dom";
 import { posts } from "../content/posts.js";
 import WaitlistForm from "../components/WaitlistForm.jsx";
+import { useSeo, SITE_URL, SITE_NAME } from "../seo.js";
 
 export default function Post() {
   const { slug } = useParams();
   const post = posts.find((p) => p.slug === slug);
+
+  useSeo({
+    title: post ? post.title : "Post not found",
+    description: post ? post.excerpt : undefined,
+    path: `/education/${slug}`,
+    noindex: !post,
+    jsonLd: post
+      ? {
+          "@context": "https://schema.org",
+          "@type": "Article",
+          headline: post.title,
+          description: post.excerpt,
+          url: `${SITE_URL}/education/${post.slug}`,
+          publisher: { "@type": "Organization", name: SITE_NAME, url: SITE_URL },
+        }
+      : null,
+  });
 
   if (!post) {
     return (

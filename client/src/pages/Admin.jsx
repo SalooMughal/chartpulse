@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { useSeo } from "../seo.js";
 
 const parseNum = (s) => {
   const m = String(s).replace(/,/g, "").match(/[\d.]+/);
@@ -51,6 +52,7 @@ function Login({ onOk }) {
 }
 
 export default function Admin() {
+  useSeo({ title: "Admin", path: "/admin", noindex: true });
   const [authed, setAuthed] = useState(false);
   const [signals, setSignals] = useState(null);
   const [prices, setPrices] = useState({});

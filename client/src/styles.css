@@ -98,6 +98,10 @@ a { color: var(--accent); text-decoration: none; }
 .tag.spot { background: rgba(250, 204, 21, 0.13); color: #facc15; }
 .tag.futures { background: rgba(167, 139, 250, 0.13); color: #a78bfa; }
 
+/* Digest */
+.digest { display: flex; flex-direction: column; gap: 14px; }
+.digest-prices { display: flex; gap: 20px; flex-wrap: wrap; font-size: 14px; color: var(--text-dim); }
+
 /* Tabs */
 .tabs { display: flex; gap: 8px; margin-top: 18px; }
 .tab {

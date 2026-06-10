@@ -1,0 +1,35 @@
+name: Generate daily market recap
+
+on:
+  schedule:
+    - cron: "10 7 * * *" # daily at 07:10 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate daily digest
+        env:
+          # Optional: add ANTHROPIC_API_KEY in repo Settings → Secrets → Actions
+          # to get AI-written summaries. Works fine without it (template mode).
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/generate-digest.mjs
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "chartpulse-bot"
+          git config user.email "actions@github.com"
+          git pull --rebase || true
+          git add api/_digests.json server/data/digests.json
+          git diff --cached --quiet || git commit -m "digest: daily recap $(date -u +'%Y-%m-%d')"
+          git push

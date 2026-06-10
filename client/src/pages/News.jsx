@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { useSeo } from "../seo.js";
 
 const fmtDate = (iso) =>
   new Date(iso).toLocaleDateString("en-US", { month: "short", day: "numeric" });
@@ -14,6 +15,14 @@ const fmtTime = (iso) => {
 export default function News() {
   const [news, setNews] = useState(null);
   const [events, setEvents] = useState(null);
+  const [digest, setDigest] = useState(null);
+
+  useSeo({
+    title: "Crypto Market News & Upcoming Events (FOMC, CPI)",
+    description:
+      "Live crypto headlines from Cointelegraph and CoinDesk plus upcoming high-impact market events — FOMC meetings, CPI releases and more.",
+    path: "/news",
+  });
 
   useEffect(() => {
     fetch("/api/news")
@@ -24,6 +33,10 @@ export default function News() {
       .then((r) => (r.ok ? r.json() : []))
       .then(setEvents)
       .catch(() => setEvents([]));
+    fetch("/api/digests?limit=1")
+      .then((r) => (r.ok ? r.json() : []))
+      .then((d) => setDigest(d[0] || null))
+      .catch(() => {});
   }, []);
 
   return (
@@ -32,6 +45,31 @@ export default function News() {
         <h1>Market News</h1>
         <p>Live headlines + the events that move crypto. Check before you trade.</p>
       </div>
+
+      {digest && (
+        <section className="section" style={{ paddingBottom: 0 }}>
+          <div className="card digest">
+            <div className="signal-head">
+              <h2 style={{ fontSize: 22 }}>{digest.title}</h2>
+              <span className="tag auto">DAILY RECAP</span>
+            </div>
+            <div className="digest-prices">
+              {digest.prices.map((p) => (
+                <span key={p.sym} className="ticker-item">
+                  <strong>{p.sym}</strong> ${p.price.toLocaleString("en-US", { maximumFractionDigits: p.price > 1000 ? 0 : 2 })}{" "}
+                  <span className={p.change >= 0 ? "win-c" : "loss-c"}>
+                    {p.change >= 0 ? "+" : ""}{p.change}%
+                  </span>
+                </span>
+              ))}
+            </div>
+            <p style={{ color: "var(--text-dim)", fontSize: 15 }}>{digest.summary}</p>
+            <span className="news-meta">
+              Auto-generated daily from market data and headlines · {fmtDate(digest.generatedAt)}
+            </span>
+          </div>
+        </section>
+      )}
 
       <section className="section">
         <h2>Upcoming events</h2>

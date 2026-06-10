@@ -1,7 +1,14 @@
 import { Link } from "react-router-dom";
 import { posts } from "../content/posts.js";
+import { useSeo } from "../seo.js";
 
 export default function Education() {
+  useSeo({
+    title: "Crypto Trading Education — Technical Analysis Guides",
+    description:
+      "Free guides on crypto technical analysis, candlestick patterns, futures risk management and trading strategy for BTC and ETH traders.",
+    path: "/education",
+  });
   return (
     <>
       <div className="page-head">

@@ -1,4 +1,5 @@
 import WaitlistForm from "../components/WaitlistForm.jsx";
+import { useSeo } from "../seo.js";
 
 const tiers = [
   {
@@ -33,6 +34,12 @@ const tiers = [
 ];
 
 export default function Waitlist() {
+  useSeo({
+    title: "Premium Crypto Signals — Join the Waitlist",
+    description:
+      "Get real-time BTC/ETH signal alerts, advanced analysis and private Discord access. Waitlist members lock in 30% off launch pricing.",
+    path: "/waitlist",
+  });
   return (
     <>
       <div className="page-head" style={{ textAlign: "center" }}>
