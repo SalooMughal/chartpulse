@@ -2,23 +2,33 @@ import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import SignalCard from "../components/SignalCard.jsx";
 
+const TABS = [
+  { key: "all", label: "All" },
+  { key: "futures", label: "Futures" },
+  { key: "spot", label: "Spot" },
+];
+
 export default function Signals() {
   const [signals, setSignals] = useState(null);
+  const [market, setMarket] = useState("all");
 
   useEffect(() => {
-    fetch("/api/signals")
+    setSignals(null);
+    const q = market === "all" ? "" : `?market=${market}`;
+    fetch(`/api/signals${q}`)
       .then((r) => r.json())
       .then(setSignals)
       .catch(() => setSignals([]));
-  }, []);
+  }, [market]);
 
   return (
     <>
       <div className="page-head">
         <h1>Free Signals</h1>
         <p>
-          New automated technical analysis every 4 hours, plus manual calls from our
-          trader. Premium members get real-time alerts —{" "}
+          New automated technical analysis every 4 hours — futures (long/short,
+          1.8R) and spot (long-only accumulation, 2.5R) tracked separately.
+          Premium members get real-time alerts —{" "}
           <Link to="/waitlist">join the waitlist</Link>.
         </p>
         <p style={{ fontSize: 13, marginTop: 8 }}>
@@ -27,10 +37,23 @@ export default function Signals() {
           by a human. Educational only — not financial advice.
         </p>
       </div>
-      <section className="section">
+
+      <div className="tabs">
+        {TABS.map((t) => (
+          <button
+            key={t.key}
+            className={`tab ${market === t.key ? "active" : ""}`}
+            onClick={() => setMarket(t.key)}
+          >
+            {t.label}
+          </button>
+        ))}
+      </div>
+
+      <section className="section" style={{ paddingTop: 24 }}>
         {!signals && <p className="loading">Loading signals…</p>}
         {signals && signals.length === 0 && (
-          <p className="loading">No signals yet — first one drops today. Check back soon.</p>
+          <p className="loading">No {market !== "all" ? market + " " : ""}signals yet — check back after the next 4H update.</p>
         )}
         {signals && (
           <div className="grid">

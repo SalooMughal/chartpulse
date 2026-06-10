@@ -14,6 +14,8 @@ export default function SignalCard({ s }) {
       <div className="signal-head">
         <span className="sym">{s.symbol}</span>
         <span>
+          {s.market === "spot" && <span className="tag spot">SPOT </span>}
+          {(s.market === "futures" || !s.market) && !isNoTrade && <span className="tag futures">FUTURES </span>}
           {s.generatedBy === "auto" && <span className="tag auto">AUTO TA </span>}
           {s.status === "closed-win" && <span className="tag win">WIN ✓ </span>}
           {s.status === "expired" && <span className="tag expired">EXPIRED </span>}

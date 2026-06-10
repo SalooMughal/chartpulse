@@ -55,9 +55,83 @@ async function getCandles(productId) {
     .map(([t, low, high, , close]) => ({ t, low, high, close }));
 }
 
+// ---- outcome tracking -------------------------------------------------------
+const parseNum = (s) => {
+  const m = String(s).replace(/,/g, "").match(/[\d.]+/);
+  return m ? parseFloat(m[0]) : NaN;
+};
+const entryMid = (entry) => {
+  const nums = String(entry).replace(/,/g, "").match(/[\d.]+/g) || [];
+  if (!nums.length) return NaN;
+  const a = parseFloat(nums[0]), b = nums[1] ? parseFloat(nums[1]) : parseFloat(nums[0]);
+  return (a + b) / 2;
+};
+
+// Resolve open signals against candles since they were posted:
+// LONG: stop hit first = loss, target hit first = win (same candle → conservative loss).
+function resolveOutcomes(signals, candlesBySymbol) {
+  let resolved = 0;
+  for (const s of signals) {
+    if (!["active", "expired"].includes(s.status)) continue;
+    if (s.direction !== "LONG" && s.direction !== "SHORT") continue;
+    const candles = candlesBySymbol[s.symbol];
+    if (!candles) continue;
+    const target = parseNum(s.target), stop = parseNum(s.stopLoss);
+    if (!isFinite(target) || !isFinite(stop)) continue;
+    const postedSec = new Date(s.postedAt).getTime() / 1000;
+    for (const c of candles) {
+      if (c.t <= postedSec) continue;
+      const stopHit = s.direction === "LONG" ? c.low <= stop : c.high >= stop;
+      const targetHit = s.direction === "LONG" ? c.high >= target : c.low <= target;
+      if (stopHit) { s.status = "closed-loss"; }
+      else if (targetHit) { s.status = "closed-win"; }
+      else continue;
+      s.closedAt = new Date(c.t * 1000).toISOString();
+      resolved++;
+      break;
+    }
+  }
+  return resolved;
+}
+
 // ---- strategy -------------------------------------------------------------
 const fmt = (n) => n.toLocaleString("en-US", { maximumFractionDigits: n > 1000 ? 0 : 2 });
 
+// SPOT: long-only (you can't short spot). Buys pullbacks in uptrends with wider
+// stops (24-candle swing) and bigger targets (2.5R) — slower, position-style trades.
+function evaluateSpot(candles, symbol) {
+  const closes = candles.map((c) => c.close);
+  const price = closes.at(-1);
+  const ema20 = ema(closes, 20);
+  const ema50 = ema(closes, 50);
+  const r = rsi(closes);
+  const swingLow = Math.min(...candles.slice(-24).map((c) => c.low));
+
+  const uptrend = ema20 > ema50 && price > ema50;
+  const pullback = price < ema20 * 1.015; // at or below the value zone
+  if (!uptrend || !pullback || r > 60) {
+    return {
+      direction: null,
+      reason: `${symbol} spot: ${!uptrend ? "no confirmed uptrend — spot buys only in uptrends" : r > 60 ? `RSI ${r.toFixed(0)} too hot for accumulation` : "price extended above the buy zone"}. Waiting.`,
+    };
+  }
+
+  const stop = Math.min(swingLow * 0.995, price * 0.94);
+  const risk = price - stop;
+  const target = price + 2.5 * risk;
+  return {
+    direction: "LONG",
+    entry: `${fmt(price * 0.995)} - ${fmt(price * 1.005)}`,
+    target: fmt(target),
+    stopLoss: fmt(stop),
+    confidence: r < 50 ? "High" : "Medium",
+    analysis:
+      `Automated spot analysis (4H): uptrend intact (price above EMA50 at ${fmt(ema50)}), pullback to the EMA20 value zone, RSI ${r.toFixed(0)}. ` +
+      `Accumulation buy — invalidation below the 24-candle swing low (${fmt(swingLow)}), target 2.5R. No leverage; size as a position, not a trade.`,
+  };
+}
+
+// FUTURES: LONG/SHORT with tight stops and 1.8R targets (leverage-friendly).
 function evaluate(candles, symbol) {
   const closes = candles.map((c) => c.close);
   const price = closes.at(-1);
@@ -117,28 +191,37 @@ const now = new Date();
 const validUntil = new Date(now.getTime() + 4 * 3600_000);
 const newSignals = [];
 const notes = [];
+const candlesBySymbol = {};
 
 for (const p of PRODUCTS) {
   try {
-    const result = evaluate(await getCandles(p.id), p.symbol);
-    if (result.direction) {
-      newSignals.push({
-        id: `auto-${p.id}-${now.getTime().toString(36)}`,
-        symbol: p.symbol,
-        direction: result.direction,
-        entry: result.entry,
-        target: result.target,
-        stopLoss: result.stopLoss,
-        timeframe: "4H",
-        confidence: result.confidence,
-        analysis: result.analysis,
-        postedAt: now.toISOString(),
-        entryValidUntil: validUntil.toISOString(),
-        generatedBy: "auto",
-        status: "active",
-      });
-    } else {
-      notes.push(result.reason);
+    const candles = await getCandles(p.id);
+    candlesBySymbol[p.symbol] = candles;
+    const evals = [
+      { market: "futures", result: evaluate(candles, p.symbol) },
+      { market: "spot", result: evaluateSpot(candles, p.symbol) },
+    ];
+    for (const { market, result } of evals) {
+      if (result.direction) {
+        newSignals.push({
+          id: `auto-${market}-${p.id}-${now.getTime().toString(36)}`,
+          symbol: p.symbol,
+          market,
+          direction: result.direction,
+          entry: result.entry,
+          target: result.target,
+          stopLoss: result.stopLoss,
+          timeframe: "4H",
+          confidence: result.confidence,
+          analysis: result.analysis,
+          postedAt: now.toISOString(),
+          entryValidUntil: validUntil.toISOString(),
+          generatedBy: "auto",
+          status: "active",
+        });
+      } else {
+        notes.push(result.reason);
+      }
     }
   } catch (e) {
     console.error(`Skipping ${p.id}: ${e.message}`);
@@ -150,6 +233,7 @@ if (newSignals.length === 0 && notes.length > 0) {
   newSignals.push({
     id: `auto-notrade-${now.getTime().toString(36)}`,
     symbol: "BTC/USDT + ETH/USDT",
+    market: "all",
     direction: "NO TRADE",
     entry: "—",
     target: "—",
@@ -165,15 +249,19 @@ if (newSignals.length === 0 && notes.length > 0) {
 }
 
 const read = (f) => { try { return JSON.parse(fs.readFileSync(f, "utf8")); } catch { return []; } };
-for (const file of [API_FILE, SERVER_FILE]) {
-  const existing = read(file);
-  // Expire entry windows on old auto signals
-  for (const s of existing) {
-    if (s.generatedBy === "auto" && s.status === "active" && s.entryValidUntil && s.entryValidUntil < now.toISOString()) {
-      s.status = "expired";
-    }
+const existing = read(API_FILE); // canonical history
+// 1. Expire entry windows on old auto signals (trade keeps running until win/loss)
+for (const s of existing) {
+  if (s.generatedBy === "auto" && s.status === "active" && s.entryValidUntil && s.entryValidUntil < now.toISOString()) {
+    s.status = "expired";
   }
-  const merged = [...newSignals, ...existing].slice(0, 30); // keep last 30
+}
+// 2. Resolve outcomes against candles since posting
+const resolved = resolveOutcomes(existing, candlesBySymbol);
+if (resolved) console.log(`Resolved ${resolved} signal outcome(s)`);
+// 3. Prepend new signals, keep last 50
+const merged = [...newSignals, ...existing].slice(0, 50);
+for (const file of [API_FILE, SERVER_FILE]) {
   fs.writeFileSync(file, JSON.stringify(merged, null, 2) + "\n");
 }
 

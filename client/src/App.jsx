@@ -6,6 +6,7 @@ import Post from "./pages/Post.jsx";
 import Waitlist from "./pages/Waitlist.jsx";
 import About from "./pages/About.jsx";
 import News from "./pages/News.jsx";
+import Admin from "./pages/Admin.jsx";
 import PriceTicker from "./components/PriceTicker.jsx";
 
 export default function App() {
@@ -34,6 +35,7 @@ export default function App() {
           <Route path="/education" element={<Education />} />
           <Route path="/education/:slug" element={<Post />} />
           <Route path="/news" element={<News />} />
+          <Route path="/admin" element={<Admin />} />
           <Route path="/waitlist" element={<Waitlist />} />
           <Route path="/about" element={<About />} />
         </Routes>

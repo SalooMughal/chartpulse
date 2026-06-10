@@ -72,7 +72,11 @@ const routes = {
   // GET /api/signals?limit=10 → latest first
   "GET /api/signals": (req, res, url) => {
     const limit = Math.min(parseInt(url.searchParams.get("limit")) || 20, 100);
-    const signals = readJson(SIGNALS_FILE, []);
+    const market = url.searchParams.get("market"); // "spot" | "futures" | null = all
+    let signals = readJson(SIGNALS_FILE, []);
+    if (market === "spot" || market === "futures") {
+      signals = signals.filter((s) => (s.market || "futures") === market || s.market === "all");
+    }
     signals.sort((a, b) => new Date(b.postedAt) - new Date(a.postedAt));
     json(res, 200, signals.slice(0, limit));
   },
@@ -187,6 +191,14 @@ const routes = {
       .filter((e) => e.date >= today)
       .sort((a, b) => a.date.localeCompare(b.date));
     json(res, 200, upcoming);
+  },
+
+  // POST /api/admin → verify admin key for the dashboard login
+  "POST /api/admin": async (req, res) => {
+    const { key } = await readBody(req);
+    const ok = typeof key === "string" && key === (process.env.ADMIN_KEY || "dev-key");
+    if (!ok) return json(res, 401, { ok: false, error: "Wrong admin key" });
+    json(res, 200, { ok: true });
   },
 
   "GET /api/health": (_req, res) => json(res, 200, { ok: true }),
