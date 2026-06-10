@@ -9,6 +9,31 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DATA_DIR = path.join(__dirname, "..", "data");
 const SIGNALS_FILE = path.join(DATA_DIR, "signals.json");
 const WAITLIST_FILE = path.join(DATA_DIR, "waitlist.json");
+const EVENTS_FILE = path.join(DATA_DIR, "events.json");
+
+const NEWS_FEEDS = [
+  { url: "https://cointelegraph.com/rss", source: "Cointelegraph" },
+  { url: "https://www.coindesk.com/arc/outboundfeeds/rss/", source: "CoinDesk" },
+];
+
+function parseRss(xml, source) {
+  const items = [];
+  const itemBlocks = xml.match(/<item[\s\S]*?<\/item>/g) || [];
+  for (const block of itemBlocks.slice(0, 15)) {
+    const get = (tag) => {
+      const m = block.match(new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`));
+      if (!m) return "";
+      return m[1].replace(/<!\[CDATA\[([\s\S]*?)\]\]>/, "$1").trim();
+    };
+    const title = get("title");
+    const link = get("link");
+    const pubDate = get("pubDate");
+    if (title && link) {
+      items.push({ title, link, source, publishedAt: pubDate ? new Date(pubDate).toISOString() : null });
+    }
+  }
+  return items;
+}
 
 // --- helpers -------------------------------------------------------------
 const readJson = (file, fallback) => {
@@ -40,6 +65,7 @@ const readBody = (req) =>
   });
 
 let priceCache = { data: null, at: 0 };
+let newsCache = { data: null, at: 0 };
 
 // --- routes --------------------------------------------------------------
 const routes = {
@@ -125,6 +151,42 @@ const routes = {
       if (priceCache.data) return json(res, 200, priceCache.data);
       json(res, 503, { error: "Price feed unavailable" });
     }
+  },
+
+  // GET /api/news → live headlines from crypto RSS feeds (cached 10 min)
+  "GET /api/news": async (_req, res) => {
+    const now = Date.now();
+    if (newsCache.data && now - newsCache.at < 10 * 60_000) {
+      return json(res, 200, newsCache.data);
+    }
+    try {
+      const results = await Promise.allSettled(
+        NEWS_FEEDS.map(async (f) => {
+          const r = await fetch(f.url, { headers: { "User-Agent": "ChartPulse/1.0" } });
+          return parseRss(await r.text(), f.source);
+        })
+      );
+      const items = results
+        .filter((r) => r.status === "fulfilled")
+        .flatMap((r) => r.value)
+        .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
+        .slice(0, 20);
+      if (items.length === 0) throw new Error("no items");
+      newsCache = { data: items, at: now };
+      json(res, 200, items);
+    } catch {
+      if (newsCache.data) return json(res, 200, newsCache.data);
+      json(res, 503, { error: "News feed unavailable" });
+    }
+  },
+
+  // GET /api/events → curated upcoming market events (edit data/events.json)
+  "GET /api/events": (_req, res) => {
+    const today = new Date().toISOString().slice(0, 10);
+    const upcoming = readJson(EVENTS_FILE, [])
+      .filter((e) => e.date >= today)
+      .sort((a, b) => a.date.localeCompare(b.date));
+    json(res, 200, upcoming);
   },
 
   "GET /api/health": (_req, res) => json(res, 200, { ok: true }),

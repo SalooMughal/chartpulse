@@ -15,6 +15,9 @@ Crypto Trading Signal & Education Platform (Phase 1 MVP from `Crypto_Trading_Sig
   - Data lives in JSON files: `server/data/signals.json` (3 seed signals with realistic prices as of Jun 10, 2026: BTC ~$63K, ETH ~$2.4K, SOL ~$86), `server/data/waitlist.json`
   - `GET /api/prices` — live BTC/ETH/SOL spot prices from Coinbase public API (no key needed), cached 60s, serves stale cache if Coinbase is down
 - **Live price ticker** — `client/src/components/PriceTicker.jsx`, shown at top of every page, auto-refreshes every 60s
+- **News page (/news)** — two parts: (1) live headlines from Cointelegraph + CoinDesk RSS (free, no keys, cached 10 min) via `/api/news`; (2) curated upcoming events (FOMC, CPI dates) via `/api/events` — edit `api/_events.js` (prod) and `server/data/events.json` (local) to update. Remove past events occasionally.
+- **GitHub repo**: https://github.com/SalooMughal/pulse (branch `main`). Deployed on Vercel free tier.
+- **Auto-signal engine** — `scripts/generate-signal.mjs` runs every 4h via GitHub Actions (`.github/workflows/signals.yml`). Fetches real 4H candles from Coinbase, computes EMA20/50 + RSI14 + swing levels, generates LONG/SHORT signals with a 4-hour entry window (`entryValidUntil`), or an honest "NO TRADE" when there's no setup. Commits to `api/_signals.json` + `server/data/signals.json` → Vercel auto-redeploys. Cards show an AUTO TA badge + entry-window banner; disclosure text on /signals. Old auto signals auto-expire. Test locally: `node scripts/generate-signal.mjs --mock`. Trigger manually: GitHub → Actions → "Generate trading signal" → Run workflow. Note: `api/_signals.js` is deprecated, can be `git rm`'d.
 - **Frontend** (`client/`) — React 18 + Vite + React Router, dark theme:
   - Pages: Home (hero + latest signals + waitlist CTA), /signals, /education, /education/:slug, /waitlist (3 pricing tiers), /about
   - 5 starter blog posts in `client/src/content/posts.js` (~600 words each — skeletons, need expanding)

@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2026-06-16",
+    "title": "FOMC Meeting (Day 1 of 2)",
+    "impact": "High",
+    "note": "Fed interest rate decision June 17, 2pm ET, incl. dot plot projections. Expect BTC volatility."
+  },
+  {
+    "date": "2026-06-17",
+    "title": "FOMC Rate Decision + Powell Press Conference",
+    "impact": "High",
+    "note": "Statement 2:00pm ET, presser 2:30pm ET. Avoid opening new positions right before."
+  },
+  {
+    "date": "2026-07-14",
+    "title": "US CPI Release (June data)",
+    "impact": "High",
+    "note": "8:30am ET. Inflation surprise moves crypto sharply — confirm exact date at bls.gov/schedule."
+  },
+  {
+    "date": "2026-07-28",
+    "title": "FOMC Meeting (July, Day 1 of 2)",
+    "impact": "High",
+    "note": "Rate decision July 29, 2pm ET."
+  }
+]
