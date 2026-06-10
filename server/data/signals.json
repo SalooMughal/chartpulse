@@ -1,0 +1,41 @@
+[
+  {
+    "id": "seed1",
+    "symbol": "BTC/USDT",
+    "direction": "LONG",
+    "entry": "62,400 - 62,900",
+    "target": "65,800",
+    "stopLoss": "61,300",
+    "timeframe": "4H",
+    "confidence": "High",
+    "analysis": "Price holding the 62K demand zone after the pullback from 66K. 4H RSI reset to 42 with bullish divergence forming. Reclaim of the 4H 50 EMA above 63,200 confirms the move toward the 65,800 supply.",
+    "postedAt": "2026-06-09T08:00:00.000Z",
+    "status": "active"
+  },
+  {
+    "id": "seed2",
+    "symbol": "ETH/USDT",
+    "direction": "SHORT",
+    "entry": "2,420 - 2,450",
+    "target": "2,280",
+    "stopLoss": "2,510",
+    "timeframe": "1D",
+    "confidence": "Medium",
+    "analysis": "Rejection at the daily supply zone near 2,450 with a bearish engulfing candle. ETH/BTC still in a downtrend, funding flipped positive at resistance. Targeting the daily demand at 2,280.",
+    "postedAt": "2026-06-08T08:00:00.000Z",
+    "status": "active"
+  },
+  {
+    "id": "seed3",
+    "symbol": "SOL/USDT",
+    "direction": "LONG",
+    "entry": "83.50 - 85.00",
+    "target": "92.00",
+    "stopLoss": "80.80",
+    "timeframe": "4H",
+    "confidence": "High",
+    "analysis": "Double bottom on the 4H at the 83.50 weekly level. Hit target in 48 hours for +1.9R.",
+    "postedAt": "2026-06-05T08:00:00.000Z",
+    "status": "closed-win"
+  }
+]

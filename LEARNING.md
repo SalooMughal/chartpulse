@@ -1,0 +1,67 @@
+# LEARNING.md — Project Journal & Resume Point
+
+> Pick up here next session. Last updated: **June 10, 2026**
+
+## What this project is
+
+Crypto Trading Signal & Education Platform (Phase 1 MVP from `Crypto_Trading_Signal_Platform_Roadmap.docx`). Goal: $500/mo by month 3 via ads, affiliates, and a $29/mo premium signal tier. Working brand name: **ChartPulse** (placeholder — no domain bought yet).
+
+## Current status: MVP code complete, not yet run on this machine
+
+### Done ✅
+- **Backend** (`server/`) — zero-dependency Node.js API (no npm install needed). All endpoints tested and passing:
+  - `GET /api/signals` (public), `POST /api/signals` (needs `X-Admin-Key` header, default `dev-key`)
+  - `POST /api/waitlist` (email capture w/ validation + dedupe), `GET /api/waitlist/count`, `GET /api/health`
+  - Data lives in JSON files: `server/data/signals.json` (3 seed signals with realistic prices as of Jun 10, 2026: BTC ~$63K, ETH ~$2.4K, SOL ~$86), `server/data/waitlist.json`
+  - `GET /api/prices` — live BTC/ETH/SOL spot prices from Coinbase public API (no key needed), cached 60s, serves stale cache if Coinbase is down
+- **Live price ticker** — `client/src/components/PriceTicker.jsx`, shown at top of every page, auto-refreshes every 60s
+- **Frontend** (`client/`) — React 18 + Vite + React Router, dark theme:
+  - Pages: Home (hero + latest signals + waitlist CTA), /signals, /education, /education/:slug, /waitlist (3 pricing tiers), /about
+  - 5 starter blog posts in `client/src/content/posts.js` (~600 words each — skeletons, need expanding)
+- **README.md** — run instructions + Railway/Vercel deploy guide
+- **Vercel free deployment prepared** — `api/` folder has serverless versions of the API (signals, prices, waitlist), `vercel.json` configures the build. Full steps in **DEPLOY.md**. Waitlist in prod needs free Upstash Redis (2 clicks in Vercel dashboard). In prod you post signals by editing `api/_signals.js` + git push.
+- Hosting decision: **all-Vercel free for now**; move backend to Railway ($5/mo) + Postgres when git-push publishing gets annoying. Domain: buy a .com (~$11/yr at Porkbun), skip .io ($37+/yr).
+
+### Not done yet ⬜ (in order)
+1. **Deploy**: push to GitHub → import on Vercel → follow DEPLOY.md (incl. Upstash Redis for waitlist)
+2. Pick + register domain (.com ideas: chartpulse.com, getchartpulse.com) → point at Vercel
+3. Google Analytics 4 snippet in `client/index.html`
+5. Resend email integration for waitlist welcome (TODOs marked in `server/src/index.js` and `api/waitlist.js`)
+6. Expand the 5 blog posts to 1,500–2,000 words for SEO
+7. Create Discord server, embed widget on landing page
+8. Add Binance/OKX affiliate links to education posts
+9. Week 6 (per roadmap): Stripe checkout for $29 Premium tier
+10. Later: swap JSON storage → Postgres (Railway/Supabase free tier)
+
+## Key decisions made (and why)
+
+- **React + Node split** (your choice) instead of single Next.js app — matches roadmap's Vercel + Railway plan.
+- **Zero-dependency backend** (plain `node:http`, no Express) — nothing to install, identical deploy, easy to add Express later if wanted.
+- **JSON file storage** for now — fine until real traffic; on Railway add a volume at `server/data` or it wipes on redeploy.
+- **Admin key auth** for posting signals — set a strong `ADMIN_KEY` env var in production (default is `dev-key`!).
+- Every signal carries entry/target/stopLoss/timeframe/confidence/analysis + win/loss status → transparency is the marketing angle.
+
+## How to post a daily signal
+
+```bash
+curl -X POST http://localhost:4000/api/signals \
+  -H "Content-Type: application/json" -H "X-Admin-Key: dev-key" \
+  -d '{"symbol":"BTC/USDT","direction":"LONG","entry":"104,200 - 104,800","target":"108,500","stopLoss":"102,900","timeframe":"4H","confidence":"High","analysis":"reasoning here"}'
+```
+
+## Concepts touched (for learning)
+
+- REST API design, CORS, request body parsing without frameworks
+- React Router v6 routes/params, fetch + useState/useEffect data loading
+- Vite dev proxy (`/api` → :4000) so frontend and backend feel like one app locally
+- Env-var config (`PORT`, `ADMIN_KEY`, `ALLOWED_ORIGIN`)
+
+## Roadmap milestones (from the docx)
+
+| Week | Target |
+|---|---|
+| 1 | Content + infra (blogs, domain, analytics, email) ← **we're here, mid-week** |
+| 2–3 | Build MVP site ← **done early** |
+| 4 | Launch: Reddit/Discord/Twitter push, lead-magnet PDF |
+| 6 | Launch $29 Premium tier (need ~500 visitors/week first) |
+| 12 | ~$700/mo target |
