@@ -1,5 +1,109 @@
 [
   {
+    "id": "digest-2026-06-13",
+    "date": "2026-06-13",
+    "title": "Crypto Market Recap — June 13, 2026",
+    "summary": "Bitcoin is trading at $63,725, up 0.3% over the last 24 hours. Ethereum is trading at $1,673, up 0.4% over the last 24 hours. Solana is trading at $67.41, up 0.9% over the last 24 hours. Looking ahead, traders are watching FOMC Meeting (Day 1 of 2) on June 16 and FOMC Rate Decision + Powell Press Conference on June 17 and US CPI Release (June data) on July 14. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 63724.59,
+        "change": 0.29
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1672.68,
+        "change": 0.43
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 67.41,
+        "change": 0.93
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "ETH futures flash bearish signal, but stakers’ resilience points to underlying strength",
+        "link": "https://cointelegraph.com/markets/eth-futures-flash-bearish-signal-but-stakers-resilience-points-to-underlying-strength?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Anthropic suspends access to Fable 5, Mythos 5, citing US directive",
+        "link": "https://cointelegraph.com/news/anthropic-suspends-access-to-fable-mythos-citing-us-directive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Major crypto exchanges cancel SpaceX IPO allocations, promising refunds",
+        "link": "https://cointelegraph.com/news/major-crypto-exchanges-cancel-spacex-ipo-allocations-promising-refunds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin’s ‘calm top’ challenges most market bottom estimates: Research",
+        "link": "https://cointelegraph.com/markets/bitcoins-calm-top-challenges-old-bottom-targets-what-traders-need-to-know?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin rally to $70K builds as orderbook structure highlights traders’ confidence",
+        "link": "https://cointelegraph.com/markets/bitcoin-data-points-to-a-relief-rally-as-order-book-demand-targets-70k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Sam Bankman-Fried loses appeal to overturn 25-year prison sentence",
+        "link": "https://cointelegraph.com/news/sam-bankman-fried-loses-appeal-to-overturn-25-year-prison-sentence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin surfs SpaceX IPO at $64K as trader warns key BTC price support may crumble",
+        "link": "https://cointelegraph.com/markets/bitcoin-surfs-spacex-ipo-iran-peace-cues-as-trader-warns-62k-may-crumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [
+      {
+        "date": "2026-06-16",
+        "title": "FOMC Meeting (Day 1 of 2)",
+        "impact": "High",
+        "note": "Fed interest rate decision June 17, 2pm ET, incl. dot plot projections. Expect BTC volatility."
+      },
+      {
+        "date": "2026-06-17",
+        "title": "FOMC Rate Decision + Powell Press Conference",
+        "impact": "High",
+        "note": "Statement 2:00pm ET, presser 2:30pm ET. Avoid opening new positions right before."
+      },
+      {
+        "date": "2026-07-14",
+        "title": "US CPI Release (June data)",
+        "impact": "High",
+        "note": "8:30am ET. Inflation surprise moves crypto sharply — confirm exact date at bls.gov/schedule."
+      }
+    ],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-06-13T10:07:34.504Z"
+  },
+  {
     "id": "digest-2026-06-12",
     "date": "2026-06-12",
     "title": "Crypto Market Recap — June 12, 2026",
