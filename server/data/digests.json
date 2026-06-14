@@ -1,5 +1,109 @@
 [
   {
+    "id": "digest-2026-06-14",
+    "date": "2026-06-14",
+    "title": "Crypto Market Recap — June 14, 2026",
+    "summary": "Bitcoin is trading at $64,564, up 0.2% over the last 24 hours. Ethereum is trading at $1,676, down 0.2% over the last 24 hours. Solana is trading at $68.44, down 0.7% over the last 24 hours. Looking ahead, traders are watching FOMC Meeting (Day 1 of 2) on June 16 and FOMC Rate Decision + Powell Press Conference on June 17 and US CPI Release (June data) on July 14. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 64564,
+        "change": 0.21
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1676.32,
+        "change": -0.24
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 68.44,
+        "change": -0.67
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Trump says Iran peace deal to be signed Sunday, contradicting Tehran",
+        "link": "https://cointelegraph.com/news/trump-says-iran-peace-deal-to-be-signed-sunday-contradicting-tehran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Amazon warning triggered US crackdown on Anthropic AI models: Reports",
+        "link": "https://cointelegraph.com/news/amazon-warning-triggered-us-crackdown-on-anthropic-ai-models-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Anthropic's Mythos AI finds no more 'serious' bugs in Zcash: Wilcox",
+        "link": "https://cointelegraph.com/news/anthropic-mythos-audit-no-serious-bugs-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin sales are necessary for Strategy's digital credit business, Saylor says",
+        "link": "https://cointelegraph.com/news/saylor-strategys-bitcoin-sale-defend-digital-credit-products?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Morpho's $175M raise shows where crypto VC money is flowing",
+        "link": "https://cointelegraph.com/news/morphos-175m-raise-shows-where-the-last-of-the-crypto-vc-money-is-going?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "ETH futures flash bearish signal, but stakers’ resilience points to underlying strength",
+        "link": "https://cointelegraph.com/markets/eth-futures-flash-bearish-signal-but-stakers-resilience-points-to-underlying-strength?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Anthropic suspends access to Fable 5, Mythos 5, citing US directive",
+        "link": "https://cointelegraph.com/news/anthropic-suspends-access-to-fable-mythos-citing-us-directive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [
+      {
+        "date": "2026-06-16",
+        "title": "FOMC Meeting (Day 1 of 2)",
+        "impact": "High",
+        "note": "Fed interest rate decision June 17, 2pm ET, incl. dot plot projections. Expect BTC volatility."
+      },
+      {
+        "date": "2026-06-17",
+        "title": "FOMC Rate Decision + Powell Press Conference",
+        "impact": "High",
+        "note": "Statement 2:00pm ET, presser 2:30pm ET. Avoid opening new positions right before."
+      },
+      {
+        "date": "2026-07-14",
+        "title": "US CPI Release (June data)",
+        "impact": "High",
+        "note": "8:30am ET. Inflation surprise moves crypto sharply — confirm exact date at bls.gov/schedule."
+      }
+    ],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-06-14T10:31:43.435Z"
+  },
+  {
     "id": "digest-2026-06-13",
     "date": "2026-06-13",
     "title": "Crypto Market Recap — June 13, 2026",
