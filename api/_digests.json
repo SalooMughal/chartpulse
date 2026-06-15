@@ -1,5 +1,109 @@
 [
   {
+    "id": "digest-2026-06-15",
+    "date": "2026-06-15",
+    "title": "Crypto Market Recap — June 15, 2026",
+    "summary": "Bitcoin is trading at $66,846, up 1.7% over the last 24 hours. Ethereum is trading at $1,820, up 5.6% over the last 24 hours. Solana is trading at $73.93, up 3.8% over the last 24 hours. Looking ahead, traders are watching FOMC Meeting (Day 1 of 2) on June 16 and FOMC Rate Decision + Powell Press Conference on June 17 and US CPI Release (June data) on July 14. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 66846.01,
+        "change": 1.73
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1820.46,
+        "change": 5.55
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 73.93,
+        "change": 3.78
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Can BTC rebound to $69K as oil price plunges? Five things to know in Bitcoin this week",
+        "link": "https://cointelegraph.com/markets/can-btc-rebound-to-69k-as-oil-price-plunges-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Japan’s Bitbank cracks down on Polymarket-linked transfers",
+        "link": "https://cointelegraph.com/news/bitbank-japan-crackdown-polymarket-linked-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin nears $66K as Trump says US has peace deal with Iran",
+        "link": "https://cointelegraph.com/news/bitcoin-closes-in-on-66k-as-trump-signals-deal-with-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "CFTC sues New Mexico over prediction market jurisdiction",
+        "link": "https://cointelegraph.com/news/cftc-sues-new-mexico-over-prediction-market-jurisdiction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Aztec Connect’s abandoned smart contract exploited for $2.1M",
+        "link": "https://cointelegraph.com/news/aztec-connects-depreciated-smart-contract-exploited-for-2-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin mining difficulty drops 10% in 11th largest downward adjustment",
+        "link": "https://cointelegraph.com/news/bitcoin-mining-difficulty-drops-10-in-11th-largest-downward-adjustment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "StanChart looks for 3 signs of BTC bottom, including Strategy’s Monday news",
+        "link": "https://cointelegraph.com/news/stanchart-looks-for-3-signs-of-btc-bottom-including-strategys-monday-news?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [
+      {
+        "date": "2026-06-16",
+        "title": "FOMC Meeting (Day 1 of 2)",
+        "impact": "High",
+        "note": "Fed interest rate decision June 17, 2pm ET, incl. dot plot projections. Expect BTC volatility."
+      },
+      {
+        "date": "2026-06-17",
+        "title": "FOMC Rate Decision + Powell Press Conference",
+        "impact": "High",
+        "note": "Statement 2:00pm ET, presser 2:30pm ET. Avoid opening new positions right before."
+      },
+      {
+        "date": "2026-07-14",
+        "title": "US CPI Release (June data)",
+        "impact": "High",
+        "note": "8:30am ET. Inflation surprise moves crypto sharply — confirm exact date at bls.gov/schedule."
+      }
+    ],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-06-15T13:26:08.530Z"
+  },
+  {
     "id": "digest-2026-06-14",
     "date": "2026-06-14",
     "title": "Crypto Market Recap — June 14, 2026",
