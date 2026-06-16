@@ -1,5 +1,109 @@
 [
   {
+    "id": "digest-2026-06-16",
+    "date": "2026-06-16",
+    "title": "Crypto Market Recap — June 16, 2026",
+    "summary": "Bitcoin is trading at $66,600, up 0.5% over the last 24 hours. Ethereum is trading at $1,819, up 1.3% over the last 24 hours. Solana is trading at $74.91, up 1.3% over the last 24 hours. Looking ahead, traders are watching FOMC Meeting (Day 1 of 2) on June 16 and FOMC Rate Decision + Powell Press Conference on June 17 and US CPI Release (June data) on July 14. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 66599.73,
+        "change": 0.49
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1819.2,
+        "change": 1.35
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 74.91,
+        "change": 1.33
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Robinhood cuts 10% of workforce as Tenev touts business strength",
+        "link": "https://cointelegraph.com/news/robinhood-cuts-workforce-tenev-strong-business?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Solana treasury firms resist Forward Industries’ consolidation push",
+        "link": "https://cointelegraph.com/news/solana-treasury-firms-reject-forward-industries-offers?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin doesn&apos;t need Ethereum-style yield, says Strategy&apos;s Michael Saylor",
+        "link": "https://cointelegraph.com/news/strategy-saylor-bitcoin-credit-alternative-crypto-yield?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin miner IREN enters Europe with Nostrum acquisition as AI pivot accelerates",
+        "link": "https://cointelegraph.com/news/iren-nostrum-acquisition-europe-ai-cloud?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin recovery rests on US-Iran deal as momentum remains weak",
+        "link": "https://cointelegraph.com/news/bitcoin-price-momentum-remains-weak-despite-reclaiming-67k-swissblock?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "US government watchdog urges FDIC to coordinate on crypto oversight",
+        "link": "https://cointelegraph.com/news/us-government-watchdog-urges-fdic-coordinate-on-crypto-oversight?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Anthropic shutdown makes a strong case for decentralized AI: Grayscale",
+        "link": "https://cointelegraph.com/news/anthropic-shutdown-makes-a-strong-case-for-decentralized-ai-grayscale?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [
+      {
+        "date": "2026-06-16",
+        "title": "FOMC Meeting (Day 1 of 2)",
+        "impact": "High",
+        "note": "Fed interest rate decision June 17, 2pm ET, incl. dot plot projections. Expect BTC volatility."
+      },
+      {
+        "date": "2026-06-17",
+        "title": "FOMC Rate Decision + Powell Press Conference",
+        "impact": "High",
+        "note": "Statement 2:00pm ET, presser 2:30pm ET. Avoid opening new positions right before."
+      },
+      {
+        "date": "2026-07-14",
+        "title": "US CPI Release (June data)",
+        "impact": "High",
+        "note": "8:30am ET. Inflation surprise moves crypto sharply — confirm exact date at bls.gov/schedule."
+      }
+    ],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-06-16T12:21:31.423Z"
+  },
+  {
     "id": "digest-2026-06-15",
     "date": "2026-06-15",
     "title": "Crypto Market Recap — June 15, 2026",
