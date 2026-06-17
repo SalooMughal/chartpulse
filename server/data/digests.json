@@ -1,5 +1,109 @@
 [
   {
+    "id": "digest-2026-06-17",
+    "date": "2026-06-17",
+    "title": "Crypto Market Recap — June 17, 2026",
+    "summary": "Bitcoin is trading at $64,814, down 1.2% over the last 24 hours. Ethereum is trading at $1,765, down 1.5% over the last 24 hours. Solana is trading at $72.09, down 1.9% over the last 24 hours. Looking ahead, traders are watching FOMC Rate Decision + Powell Press Conference on June 17 and US CPI Release (June data) on July 14 and FOMC Meeting (July, Day 1 of 2) on July 28. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 64813.99,
+        "change": -1.22
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1765.19,
+        "change": -1.45
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 72.09,
+        "change": -1.86
+      }
+    ],
+    "headlines": [
+      {
+        "title": "China pays closer attention to stablecoins as cross-border role expands",
+        "link": "https://cointelegraph.com/news/china-central-bank-stablecoins-cross-border-payments?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin is setting up &apos;meaningful floors&apos; in $60K–$70K range: Analyst",
+        "link": "https://cointelegraph.com/markets/bitcoin-is-setting-up-meaningful-floors-in-60k70k-range-analyst?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin trader warns of &apos;bearish reaction&apos; to FOMC with $64K now essential",
+        "link": "https://cointelegraph.com/markets/bitcoin-trader-warns-of-bearish-reaction-to-fomc-with-64k-now-essential?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Hyperliquid&apos;s $10B open interest coincides with growth in equity-linked markets: Talos",
+        "link": "https://cointelegraph.com/news/hyperliquids-10b-open-interest-growth-equities-commodities?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "BitGo courts crypto firms awaiting MiCA approval amid Binance licensing concerns",
+        "link": "https://cointelegraph.com/news/bitgo-mica-vasp-workaround-binance-license-uncertainty?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Congress reaches deal on housing bill with CBDC ban until 2030",
+        "link": "https://cointelegraph.com/news/congress-reaches-deal-on-housing-bill-inclusive-of-cbdc-ban-until-2030?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Strategy’s STRC falls to $91 as investors flinch at latest BTC buying",
+        "link": "https://cointelegraph.com/news/strc-hits-all-time-low-as-latest-btc-purchases-seen-as-unsustainable?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [
+      {
+        "date": "2026-06-17",
+        "title": "FOMC Rate Decision + Powell Press Conference",
+        "impact": "High",
+        "note": "Statement 2:00pm ET, presser 2:30pm ET. Avoid opening new positions right before."
+      },
+      {
+        "date": "2026-07-14",
+        "title": "US CPI Release (June data)",
+        "impact": "High",
+        "note": "8:30am ET. Inflation surprise moves crypto sharply — confirm exact date at bls.gov/schedule."
+      },
+      {
+        "date": "2026-07-28",
+        "title": "FOMC Meeting (July, Day 1 of 2)",
+        "impact": "High",
+        "note": "Rate decision July 29, 2pm ET."
+      }
+    ],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-06-17T11:56:53.679Z"
+  },
+  {
     "id": "digest-2026-06-16",
     "date": "2026-06-16",
     "title": "Crypto Market Recap — June 16, 2026",
