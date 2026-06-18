@@ -1,5 +1,103 @@
 [
   {
+    "id": "digest-2026-06-18",
+    "date": "2026-06-18",
+    "title": "Crypto Market Recap — June 18, 2026",
+    "summary": "Bitcoin is trading at $63,987, down 0.7% over the last 24 hours. Ethereum is trading at $1,744, down 0.3% over the last 24 hours. Solana is trading at $71.06, down 1.3% over the last 24 hours. Looking ahead, traders are watching US CPI Release (June data) on July 14 and FOMC Meeting (July, Day 1 of 2) on July 28. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 63987.3,
+        "change": -0.71
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1743.77,
+        "change": -0.3
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 71.06,
+        "change": -1.28
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Bitcoin market cap rebound to take &apos;5-10 years&apos; after dropping 10 places since mid-2025",
+        "link": "https://cointelegraph.com/markets/bitcoin-market-cap-rebound-to-take-5-10-years-after-dropping-10-places-since-mid-2025?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Aztec hit by second $2.1M exploit in less than a week: SlowMist",
+        "link": "https://cointelegraph.com/news/aztec-exploited-21-million-previous-hack-slowmist?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Grayscale applies traditional finance models to AAVE, sees $175 value",
+        "link": "https://cointelegraph.com/news/grayscale-aave-traditional-finance-defi-token-valuation?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Ryan Salame’s wife to face charges over FTX-funded congressional run",
+        "link": "https://cointelegraph.com/news/ryan-salames-wife-to-face-charges-over-ftx-funded-congressional-run?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Florida man pleads guilty for promoting $1.8B ‘HyperFund’ crypto fraud",
+        "link": "https://cointelegraph.com/news/florida-man-pleads-guilty-to-18b-crypto-fraud-scheme?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Dorsey’s Block says new AI tool handles 15% of code work",
+        "link": "https://cointelegraph.com/news/dorseys-block-says-new-ai-tool-handles-15-of-code-work?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "France to stop certifying products lacking quantum-resistant encryption",
+        "link": "https://cointelegraph.com/news/france-to-stop-certifying-products-lacking-quantum-resistant-encryption?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [
+      {
+        "date": "2026-07-14",
+        "title": "US CPI Release (June data)",
+        "impact": "High",
+        "note": "8:30am ET. Inflation surprise moves crypto sharply — confirm exact date at bls.gov/schedule."
+      },
+      {
+        "date": "2026-07-28",
+        "title": "FOMC Meeting (July, Day 1 of 2)",
+        "impact": "High",
+        "note": "Rate decision July 29, 2pm ET."
+      }
+    ],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-06-18T11:17:03.159Z"
+  },
+  {
     "id": "digest-2026-06-17",
     "date": "2026-06-17",
     "title": "Crypto Market Recap — June 17, 2026",
