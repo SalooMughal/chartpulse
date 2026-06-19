@@ -1,5 +1,103 @@
 [
   {
+    "id": "digest-2026-06-19",
+    "date": "2026-06-19",
+    "title": "Crypto Market Recap — June 19, 2026",
+    "summary": "Bitcoin is trading at $62,564, down 0.5% over the last 24 hours. Ethereum is trading at $1,691, down 1.0% over the last 24 hours. Solana is trading at $68.28, down 1.9% over the last 24 hours. Looking ahead, traders are watching US CPI Release (June data) on July 14 and FOMC Meeting (July, Day 1 of 2) on July 28. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 62563.73,
+        "change": -0.5
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1691.12,
+        "change": -1.05
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 68.28,
+        "change": -1.94
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Bitcoin tipped for Q3 &apos;macro bottom&apos; near $50K as major liquidity grab looms",
+        "link": "https://cointelegraph.com/markets/bitcoin-tipped-for-q3-macro-bottom-near-50k-as-major-liquidity-grab-looms?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin activity nears record highs on microtransaction surge",
+        "link": "https://cointelegraph.com/news/bitcoin-activity-nears-record-highs-on-microtransaction-surge?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Goldman Sachs cuts year-end gold target by $500, doubting rate cuts",
+        "link": "https://cointelegraph.com/news/goldman-sachs-cuts-year-end-gold-target-by-500-doubting-rate-cuts?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "AllUnity debuts SEKAU, a fully reserved Swedish krona stablecoin",
+        "link": "https://cointelegraph.com/news/allunity-debut-fully-reserved-swedish-krona-stablecoin-sekau?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Algorand plans ‘broad quantum resilience’ by 2027",
+        "link": "https://cointelegraph.com/news/algorand-plans-broad-quantum-resilience-by-2027?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Microsoft warns users of &apos;Crypto Clipper&apos; malware spread via USB drives",
+        "link": "https://cointelegraph.com/news/microsoft-alerts-users-to-crypto-clipper-windows-malware?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "US crypto ETFs are pulling Bitcoiners into TradFi: BlackRock&apos;s Jay Jacobs",
+        "link": "https://cointelegraph.com/news/blackrocks-ibit-is-pulling-bitcoiners-into-traditional-finance-exec-says?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [
+      {
+        "date": "2026-07-14",
+        "title": "US CPI Release (June data)",
+        "impact": "High",
+        "note": "8:30am ET. Inflation surprise moves crypto sharply — confirm exact date at bls.gov/schedule."
+      },
+      {
+        "date": "2026-07-28",
+        "title": "FOMC Meeting (July, Day 1 of 2)",
+        "impact": "High",
+        "note": "Rate decision July 29, 2pm ET."
+      }
+    ],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-06-19T11:41:15.190Z"
+  },
+  {
     "id": "digest-2026-06-18",
     "date": "2026-06-18",
     "title": "Crypto Market Recap — June 18, 2026",
