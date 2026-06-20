@@ -1,5 +1,103 @@
 [
   {
+    "id": "digest-2026-06-20",
+    "date": "2026-06-20",
+    "title": "Crypto Market Recap — June 20, 2026",
+    "summary": "Bitcoin is trading at $63,634, up 0.2% over the last 24 hours. Ethereum is trading at $1,727, up 1.0% over the last 24 hours. Solana is trading at $71.48, up 2.6% over the last 24 hours. Looking ahead, traders are watching US CPI Release (June data) on July 14 and FOMC Meeting (July, Day 1 of 2) on July 28. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 63633.61,
+        "change": 0.25
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1726.54,
+        "change": 1
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 71.48,
+        "change": 2.58
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Philippine SEC signals readiness for RWA tokenization",
+        "link": "https://cointelegraph.com/news/philippine-sec-rwa-tokenization-readiness?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Crypto kidnappers who robbed a Minnesota family of $8M plead guilty",
+        "link": "https://cointelegraph.com/news/crypto-kidnappers-who-robbed-a-minnesota-family-of-8m-plead-guilty?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "S token drops 5% as 3 former execs resign from Sonic Labs board",
+        "link": "https://cointelegraph.com/news/s-token-drops-5-as-3-former-execs-resign-from-sonic-labs-board?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Charles Schwab to enter prediction markets with S&amp;P 500 wagers: WSJ",
+        "link": "https://cointelegraph.com/news/charles-schwab-prediction-markets-sp500-wagers?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "$13B Bitcoin options expiry looms: Will bulls endure more pain in June?",
+        "link": "https://cointelegraph.com/markets/13b-bitcoin-options-expiry-looms-will-bulls-endure-more-pain-in-june?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "WhiteBIT secures MiCA license in Austria ahead of July 1 EU deadline",
+        "link": "https://cointelegraph.com/news/whitebit-secures-mica-license-austria-gains-access-eu-crypto-market?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Republican lawmaker proposes prediction markets insider trading ban, not including White House officials",
+        "link": "https://cointelegraph.com/news/prediction-markets-law-white-house-officials?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [
+      {
+        "date": "2026-07-14",
+        "title": "US CPI Release (June data)",
+        "impact": "High",
+        "note": "8:30am ET. Inflation surprise moves crypto sharply — confirm exact date at bls.gov/schedule."
+      },
+      {
+        "date": "2026-07-28",
+        "title": "FOMC Meeting (July, Day 1 of 2)",
+        "impact": "High",
+        "note": "Rate decision July 29, 2pm ET."
+      }
+    ],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-06-20T10:12:42.182Z"
+  },
+  {
     "id": "digest-2026-06-19",
     "date": "2026-06-19",
     "title": "Crypto Market Recap — June 19, 2026",
