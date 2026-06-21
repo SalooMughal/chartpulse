@@ -1,5 +1,103 @@
 [
   {
+    "id": "digest-2026-06-21",
+    "date": "2026-06-21",
+    "title": "Crypto Market Recap — June 21, 2026",
+    "summary": "Bitcoin is trading at $64,288, up 0.1% over the last 24 hours. Ethereum is trading at $1,731, down 0.4% over the last 24 hours. Solana is trading at $74, up 1.2% over the last 24 hours. Looking ahead, traders are watching US CPI Release (June data) on July 14 and FOMC Meeting (July, Day 1 of 2) on July 28. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 64288,
+        "change": 0.1
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1730.86,
+        "change": -0.44
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 74,
+        "change": 1.18
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Bitcoin price is down over 40% since STRC launched: Is Strategy &apos;fine&apos;?",
+        "link": "https://cointelegraph.com/markets/bitcoin-price-is-down-over-40-since-strc-launched-is-strategy-fine?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Japanese corporate pension fund plans 1% crypto allocation: Nikkei",
+        "link": "https://cointelegraph.com/news/japanese-corporate-pension-fund-crypto-allocation?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin ETFs shed record $6.4B in 30 days amid crypto winter chill",
+        "link": "https://cointelegraph.com/news/bitcoin-etfs-shed-a-record-64b-in-30-days-as-bitcoin-shivers?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Notorious ‘sandwich attack’ bot Jaredfromsubway.eth exploited for $7.5M",
+        "link": "https://cointelegraph.com/news/notorious-sandwich-attack-bot-jaredfromsubwayeth-exploited-for-75m?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin rotations into altcoins collapse: Have altseasons &apos;disappeared&apos;?",
+        "link": "https://cointelegraph.com/markets/bitcoin-rotations-into-altcoins-collapses-have-altseasons-disappeared?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Crypto industry looks to stablecoins and DeFi revisions in MiCA 2.0",
+        "link": "https://cointelegraph.com/features/crypto-industry-stablecoins-defi-mica?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Pudgy Penguins expands retail footprint with Target trading card rollout",
+        "link": "https://cointelegraph.com/news/pudgy-penguins-expands-retail-footprint-with-target-trading-card-rollout?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [
+      {
+        "date": "2026-07-14",
+        "title": "US CPI Release (June data)",
+        "impact": "High",
+        "note": "8:30am ET. Inflation surprise moves crypto sharply — confirm exact date at bls.gov/schedule."
+      },
+      {
+        "date": "2026-07-28",
+        "title": "FOMC Meeting (July, Day 1 of 2)",
+        "impact": "High",
+        "note": "Rate decision July 29, 2pm ET."
+      }
+    ],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-06-21T10:44:50.745Z"
+  },
+  {
     "id": "digest-2026-06-20",
     "date": "2026-06-20",
     "title": "Crypto Market Recap — June 20, 2026",
