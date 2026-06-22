@@ -1,5 +1,103 @@
 [
   {
+    "id": "digest-2026-06-22",
+    "date": "2026-06-22",
+    "title": "Crypto Market Recap — June 22, 2026",
+    "summary": "Bitcoin is trading at $65,047, up 2.9% over the last 24 hours. Ethereum is trading at $1,761, up 3.3% over the last 24 hours. Solana is trading at $74.33, up 2.7% over the last 24 hours. Looking ahead, traders are watching US CPI Release (June data) on July 14 and FOMC Meeting (July, Day 1 of 2) on July 28. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 65047.35,
+        "change": 2.87
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1761.22,
+        "change": 3.31
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 74.33,
+        "change": 2.69
+      }
+    ],
+    "headlines": [
+      {
+        "title": "EUR trading accounts for 1% of Binance spot volume, CryptoQuant says",
+        "link": "https://cointelegraph.com/news/eur-trades-binance-spot-volume-cryptoquant?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "These XRP price charts hint at a potential 25% relief rally in July",
+        "link": "https://cointelegraph.com/markets/these-xrp-price-charts-hint-at-a-potential-25-relief-rally-in-july?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bank of England eases stablecoin rules, introduces 40B pound issuance cap",
+        "link": "https://cointelegraph.com/news/bank-of-england-stablecoin-rules-clears-path-for-2027-launch?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Q2 2026 emerges as most-hacked quarter on record with 83 incidents",
+        "link": "https://cointelegraph.com/news/q2-2026-most-hacked-quarter-record-83-incidents?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "US dollar strength hits highest since May 2025: Five things to know in Bitcoin this week",
+        "link": "https://cointelegraph.com/markets/us-dollar-strength-hits-highest-since-may-2025-five-things-to-know-in-bitcoin-this-week?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "South Korea pushes Travel Rule expansion for smaller crypto transfers",
+        "link": "https://cointelegraph.com/news/south-korea-travel-rule-smaller-crypto-transfers?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Morgan Stanley amends Ethereum, Solana ETFs to reveal record cheap fees",
+        "link": "https://cointelegraph.com/news/morgan-stanley-amends-ethereum-solana-etfs-to-undercut-rivals-fees?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [
+      {
+        "date": "2026-07-14",
+        "title": "US CPI Release (June data)",
+        "impact": "High",
+        "note": "8:30am ET. Inflation surprise moves crypto sharply — confirm exact date at bls.gov/schedule."
+      },
+      {
+        "date": "2026-07-28",
+        "title": "FOMC Meeting (July, Day 1 of 2)",
+        "impact": "High",
+        "note": "Rate decision July 29, 2pm ET."
+      }
+    ],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-06-22T13:04:21.412Z"
+  },
+  {
     "id": "digest-2026-06-21",
     "date": "2026-06-21",
     "title": "Crypto Market Recap — June 21, 2026",
