@@ -1,5 +1,103 @@
 [
   {
+    "id": "digest-2026-06-23",
+    "date": "2026-06-23",
+    "title": "Crypto Market Recap — June 23, 2026",
+    "summary": "Bitcoin is trading at $62,163, down 2.8% over the last 24 hours. Ethereum is trading at $1,651, down 4.4% over the last 24 hours. Solana is trading at $68.78, down 4.3% over the last 24 hours. Looking ahead, traders are watching US CPI Release (June data) on July 14 and FOMC Meeting (July, Day 1 of 2) on July 28. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 62162.62,
+        "change": -2.8
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1650.64,
+        "change": -4.37
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 68.78,
+        "change": -4.31
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Binance’s Yi He warns of alleged impersonation scam, CoinUp denies ties",
+        "link": "https://cointelegraph.com/news/binances-yi-he-warns-alleged-scammer-coinup-responds?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin gets new $54K warning as BTC price hits 11-day low on Asia tech sell-off",
+        "link": "https://cointelegraph.com/markets/bitcoin-gets-new-54k-warning-as-btc-price-hits-11-day-low-on-asia-tech-sell-off?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "THORChain resumes trading more than a month after $10M exploit",
+        "link": "https://cointelegraph.com/news/thorchain-resumes-trading-month-10m-exploit?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Ripple gains preliminary MiCA license ahead of July 1 EU deadline",
+        "link": "https://cointelegraph.com/news/ripple-preliminary-casp-mica-license-july-1-deadline?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "US Senate passes housing bill with CBDC ban until 2030",
+        "link": "https://cointelegraph.com/news/senate-passes-housing-bill-that-includes-a-cbdc-ban-through-2030?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Crypto lobby urges Congress to pass staking and mining tax bill as is",
+        "link": "https://cointelegraph.com/news/crypto-lobby-urges-congress-pass-staking-mining-tax-bill-without-changes?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Trump signs orders for quantum computer, cryptography upgrades",
+        "link": "https://cointelegraph.com/news/trump-orders-quantum-computing-push-and-post-quantum-cryptography-upgrade?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [
+      {
+        "date": "2026-07-14",
+        "title": "US CPI Release (June data)",
+        "impact": "High",
+        "note": "8:30am ET. Inflation surprise moves crypto sharply — confirm exact date at bls.gov/schedule."
+      },
+      {
+        "date": "2026-07-28",
+        "title": "FOMC Meeting (July, Day 1 of 2)",
+        "impact": "High",
+        "note": "Rate decision July 29, 2pm ET."
+      }
+    ],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-06-23T10:42:57.588Z"
+  },
+  {
     "id": "digest-2026-06-22",
     "date": "2026-06-22",
     "title": "Crypto Market Recap — June 22, 2026",
