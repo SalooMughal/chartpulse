@@ -1,5 +1,103 @@
 [
   {
+    "id": "digest-2026-06-24",
+    "date": "2026-06-24",
+    "title": "Crypto Market Recap — June 24, 2026",
+    "summary": "Bitcoin is trading at $62,479, down 0.3% over the last 24 hours. Ethereum is trading at $1,666, up 0.0% over the last 24 hours. Solana is trading at $68.97, down 0.9% over the last 24 hours. Looking ahead, traders are watching US CPI Release (June data) on July 14 and FOMC Meeting (July, Day 1 of 2) on July 28. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 62478.89,
+        "change": -0.26
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1665.5,
+        "change": 0.03
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 68.97,
+        "change": -0.91
+      }
+    ],
+    "headlines": [
+      {
+        "title": "BTC price four-year trend calls for $76K as analysis says Bitcoin &apos;not broken&apos;",
+        "link": "https://cointelegraph.com/markets/bitcoin-four-year-trend-calls-for-76k-as-analysis-says-btc-price-not-broken?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "South Korea adds token securities to capital market overhaul",
+        "link": "https://cointelegraph.com/news/south-korea-token-securities-capital-market-overhaul?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "OpenPayd secures MiCA license as stablecoin adoption grows in Europe",
+        "link": "https://cointelegraph.com/news/openpayd-mica-license-stablecoin-adoption-europe?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "US nears ban on CBDCs until 2030 as housing bill goes to Trump",
+        "link": "https://cointelegraph.com/news/us-nears-ban-on-cbdcs-until-2030-as-housing-bill-goes-to-trump?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Catholic leaders, US authorities challenge CLARITY Act over illicit activity",
+        "link": "https://cointelegraph.com/news/law-enforcement-and-catholic-groups-warn-clarity-act-facilitates-crypto-crime?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Senate Dems urge probe into $500M crypto deal between Trumps, UAE",
+        "link": "https://cointelegraph.com/news/senate-dems-urge-probe-into-crypto-deal-between-trumps-uae?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "StarkWare introduces &apos;Private KYC&apos; to address personal data breaches",
+        "link": "https://cointelegraph.com/news/starkware-introduces-private-kyc-to-address-personal-data-breaches?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [
+      {
+        "date": "2026-07-14",
+        "title": "US CPI Release (June data)",
+        "impact": "High",
+        "note": "8:30am ET. Inflation surprise moves crypto sharply — confirm exact date at bls.gov/schedule."
+      },
+      {
+        "date": "2026-07-28",
+        "title": "FOMC Meeting (July, Day 1 of 2)",
+        "impact": "High",
+        "note": "Rate decision July 29, 2pm ET."
+      }
+    ],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-06-24T10:27:39.995Z"
+  },
+  {
     "id": "digest-2026-06-23",
     "date": "2026-06-23",
     "title": "Crypto Market Recap — June 23, 2026",
