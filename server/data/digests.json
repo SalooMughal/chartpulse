@@ -1,5 +1,103 @@
 [
   {
+    "id": "digest-2026-06-25",
+    "date": "2026-06-25",
+    "title": "Crypto Market Recap — June 25, 2026",
+    "summary": "Bitcoin is trading at $61,621, up 1.0% over the last 24 hours. Ethereum is trading at $1,646, up 1.6% over the last 24 hours. Solana is trading at $68.73, up 1.1% over the last 24 hours. Looking ahead, traders are watching US CPI Release (June data) on July 14 and FOMC Meeting (July, Day 1 of 2) on July 28. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 61620.83,
+        "change": 1.05
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1645.88,
+        "change": 1.62
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 68.73,
+        "change": 1.06
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Iran-linked entities moved $3.8B through CoinEx, TRM says",
+        "link": "https://cointelegraph.com/news/iran-entities-moved-38-billion-coinex?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Indonesia sets certification rules for influencers recommending crypto",
+        "link": "https://cointelegraph.com/news/indonesia-certification-rules-influencers-recommending-crypto?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Polish crypto exchange Kanga secures MiCA license in Latvia",
+        "link": "https://cointelegraph.com/news/poland-kanga-secures-mica-license-latvia?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "US arbitration giant rolls out ‘legal layer’ for agentic commerce",
+        "link": "https://cointelegraph.com/news/ai-is-getting-a-legal-layer-as-agentic-commerce-accelerates?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "House Democrats seek SEC answers on AI investment advisers",
+        "link": "https://cointelegraph.com/news/dems-want-secs-answers-on-ai-investment-advisors?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Abracadabra takes emergency action as MIM stablecoin depeg worsens",
+        "link": "https://cointelegraph.com/news/abracadabra-takes-emergency-measures-as-magic-internet-money-depeg-worsens?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Kalshi seeks funding at $40B valuation, nearly doubling last raise: FT",
+        "link": "https://cointelegraph.com/news/kalshi-seeks-funding-at-40b-valuation-nearly-doubling-last-raise-ft?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [
+      {
+        "date": "2026-07-14",
+        "title": "US CPI Release (June data)",
+        "impact": "High",
+        "note": "8:30am ET. Inflation surprise moves crypto sharply — confirm exact date at bls.gov/schedule."
+      },
+      {
+        "date": "2026-07-28",
+        "title": "FOMC Meeting (July, Day 1 of 2)",
+        "impact": "High",
+        "note": "Rate decision July 29, 2pm ET."
+      }
+    ],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-06-25T10:19:48.970Z"
+  },
+  {
     "id": "digest-2026-06-24",
     "date": "2026-06-24",
     "title": "Crypto Market Recap — June 24, 2026",
