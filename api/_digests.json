@@ -1,5 +1,103 @@
 [
   {
+    "id": "digest-2026-06-26",
+    "date": "2026-06-26",
+    "title": "Crypto Market Recap — June 26, 2026",
+    "summary": "Bitcoin is trading at $59,667, down 0.1% over the last 24 hours. Ethereum is trading at $1,551, down 0.9% over the last 24 hours. Solana is trading at $69.04, up 2.1% over the last 24 hours. Looking ahead, traders are watching US CPI Release (June data) on July 14 and FOMC Meeting (July, Day 1 of 2) on July 28. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 59666.54,
+        "change": -0.06
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1550.78,
+        "change": -0.92
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 69.04,
+        "change": 2.12
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Bitcoin ETFs post June&apos;s biggest daily outflows as BTC falls below $60K",
+        "link": "https://cointelegraph.com/news/bitcoin-etfs-biggest-outflows-june-btc-below-60k?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Polymarket hit by $2.9M theft, users to be refunded",
+        "link": "https://cointelegraph.com/news/polymarket-vendor-compromise-drains-29m-users?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Tether stablecoin flips Ether by market cap as ETH routs to $1.5K",
+        "link": "https://cointelegraph.com/news/tether-stablecoin-flips-ether-by-market-cap-as-eth-routs-to-15k?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Coinbase&apos;s Base resumes block production after 2-hour outage",
+        "link": "https://cointelegraph.com/news/coinbases-blockchain-base-back-online-after-2-hour-outage?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Sharplink buys ETH after 8-month pause as token hits 2026 low",
+        "link": "https://cointelegraph.com/news/sharplink-buys-eth-after-8-month-pause-as-token-hits-2026-low?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "StablecoinX bets on Ethena ecosystem with Nasdaq debut",
+        "link": "https://cointelegraph.com/news/stablecoinx-merges-with-tlgy-and-begins-trading-on-nasdaq-friday?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "BitGo cuts 15% of staff to sharpen focus on AI, stablecoins",
+        "link": "https://cointelegraph.com/news/crypto-infrastructure-firm-bitgo-lays-off-15-of-staff?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [
+      {
+        "date": "2026-07-14",
+        "title": "US CPI Release (June data)",
+        "impact": "High",
+        "note": "8:30am ET. Inflation surprise moves crypto sharply — confirm exact date at bls.gov/schedule."
+      },
+      {
+        "date": "2026-07-28",
+        "title": "FOMC Meeting (July, Day 1 of 2)",
+        "impact": "High",
+        "note": "Rate decision July 29, 2pm ET."
+      }
+    ],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-06-26T10:27:39.640Z"
+  },
+  {
     "id": "digest-2026-06-25",
     "date": "2026-06-25",
     "title": "Crypto Market Recap — June 25, 2026",
