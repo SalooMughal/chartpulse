@@ -1,5 +1,103 @@
 [
   {
+    "id": "digest-2026-06-28",
+    "date": "2026-06-28",
+    "title": "Crypto Market Recap — June 28, 2026",
+    "summary": "Bitcoin is trading at $60,102, up 0.3% over the last 24 hours. Ethereum is trading at $1,577, up 0.3% over the last 24 hours. Solana is trading at $71.35, up 1.4% over the last 24 hours. Looking ahead, traders are watching US CPI Release (June data) on July 14 and FOMC Meeting (July, Day 1 of 2) on July 28. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 60102.01,
+        "change": 0.28
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1576.66,
+        "change": 0.32
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 71.35,
+        "change": 1.36
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Grayscale's Pandl hopes Strategy sells $3B in Bitcoin to restore confidence",
+        "link": "https://cointelegraph.com/news/grayscales-pandl-strategy-sells-3b-bitcoin-confidence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Base post-mortem reveals sequencer bug behind back-to-back outages",
+        "link": "https://cointelegraph.com/news/base-post-mortem-reveals-sequencer-bug-behind-back-to-back-outages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin unspent transaction outputs signal capitulation underway: analyst",
+        "link": "https://cointelegraph.com/news/bitcoin-unspent-transaction-outputs-signal-capitulation-underway-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Fidelity rebuts claims Bitcoin becomes less secure after halvings",
+        "link": "https://cointelegraph.com/news/fidelity-bitcoin-long-term-security-halvings-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin faces fresh capitulation risk as 50K BTC moved at a loss",
+        "link": "https://cointelegraph.com/markets/bitcoin-faces-fresh-capitulation-risk-as-50k-btc-moves-at-a-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "DCG-backed Yuma launches fund offering institutional exposure to Bittensor",
+        "link": "https://cointelegraph.com/news/yuma-bittensor-fund-institutional-tao-decentralized-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Coinbase, Circle underperform Big Tech as crypto stock slump deepens",
+        "link": "https://cointelegraph.com/news/crypto-stocks-underperform-tech-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [
+      {
+        "date": "2026-07-14",
+        "title": "US CPI Release (June data)",
+        "impact": "High",
+        "note": "8:30am ET. Inflation surprise moves crypto sharply — confirm exact date at bls.gov/schedule."
+      },
+      {
+        "date": "2026-07-28",
+        "title": "FOMC Meeting (July, Day 1 of 2)",
+        "impact": "High",
+        "note": "Rate decision July 29, 2pm ET."
+      }
+    ],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-06-28T10:07:43.197Z"
+  },
+  {
     "id": "digest-2026-06-27",
     "date": "2026-06-27",
     "title": "Crypto Market Recap — June 27, 2026",
