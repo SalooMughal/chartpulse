@@ -1,5 +1,103 @@
 [
   {
+    "id": "digest-2026-06-29",
+    "date": "2026-06-29",
+    "title": "Crypto Market Recap — June 29, 2026",
+    "summary": "Bitcoin is trading at $60,266, up 1.3% over the last 24 hours. Ethereum is trading at $1,578, up 0.5% over the last 24 hours. Solana is trading at $73.03, up 2.5% over the last 24 hours. Looking ahead, traders are watching US CPI Release (June data) on July 14 and FOMC Meeting (July, Day 1 of 2) on July 28. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 60266.19,
+        "change": 1.33
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1577.62,
+        "change": 0.52
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 73.03,
+        "change": 2.46
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Prediction-market operational consolidation could spur M&A wave: Bernstein",
+        "link": "https://cointelegraph.com/news/prediction-market-consolidation-ma-wave-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Vitalik Buterin says obfuscation could unlock private onchain crypto voting",
+        "link": "https://cointelegraph.com/news/vitalik-buterin-private-onchain-voting-obfuscation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Germany leads MiCA crypto authorization race as Europe’s deadline looms",
+        "link": "https://cointelegraph.com/news/mica-licenses-cluster-germany-total-reach-244?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "BTC price RSI prints key 2026 signal: Five things to know in Bitcoin this week",
+        "link": "https://cointelegraph.com/markets/btc-price-rsi-prints-key-2026-signal-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Kiwoom eyes Bithumb stake as Korean brokerages push into crypto: Report",
+        "link": "https://cointelegraph.com/news/kiwoom-stake-bithumb-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Galaxy cuts CLARITY Act odds to 50% as Senate floor time narrows",
+        "link": "https://cointelegraph.com/news/galaxy-cuts-2026-clarity-act-odds-50?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Excessive AI spending risks global financial consequences, BIS warns",
+        "link": "https://cointelegraph.com/news/bis-sounds-alarm-on-ai-exuberance-as-debt-fueled-boom-risks-bust?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [
+      {
+        "date": "2026-07-14",
+        "title": "US CPI Release (June data)",
+        "impact": "High",
+        "note": "8:30am ET. Inflation surprise moves crypto sharply — confirm exact date at bls.gov/schedule."
+      },
+      {
+        "date": "2026-07-28",
+        "title": "FOMC Meeting (July, Day 1 of 2)",
+        "impact": "High",
+        "note": "Rate decision July 29, 2pm ET."
+      }
+    ],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-06-29T12:07:16.040Z"
+  },
+  {
     "id": "digest-2026-06-28",
     "date": "2026-06-28",
     "title": "Crypto Market Recap — June 28, 2026",
