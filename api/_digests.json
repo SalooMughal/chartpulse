@@ -1,5 +1,103 @@
 [
   {
+    "id": "digest-2026-06-30",
+    "date": "2026-06-30",
+    "title": "Crypto Market Recap — June 30, 2026",
+    "summary": "Bitcoin is trading at $59,258, down 1.5% over the last 24 hours. Ethereum is trading at $1,581, down 1.8% over the last 24 hours. Solana is trading at $73.53, down 2.0% over the last 24 hours. Looking ahead, traders are watching US CPI Release (June data) on July 14 and FOMC Meeting (July, Day 1 of 2) on July 28. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 59258.32,
+        "change": -1.5
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1581.44,
+        "change": -1.81
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 73.53,
+        "change": -2.03
+      }
+    ],
+    "headlines": [
+      {
+        "title": "ESMA MiCA warning puts Binance EU service changes under scrutiny",
+        "link": "https://cointelegraph.com/news/esma-challenge-binance-serving-certain-eu-users-post-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Michigan judge blocks Kalshi from allowing residents to place sports bets",
+        "link": "https://cointelegraph.com/news/michigan-judge-blocks-kalshi-sports-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Celsius-linked Bitcoin miner Ionic Digital seeks Nasdaq direct listing amid AI pivot",
+        "link": "https://cointelegraph.com/news/ionic-digital-nasdaq-direct-listing-ai-pivot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Australia’s crypto travel rule is coming into effect: Here’s what's changing",
+        "link": "https://cointelegraph.com/news/australias-crypto-travel-rule-takes-effect-on-july-1-whats-changing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Cathie Wood’s ARK adds $43.5M in crypto stocks amid market dip",
+        "link": "https://cointelegraph.com/news/cathie-woods-ark-scoops-up-43m-worth-of-crypto-stocks-amid-market-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitmine lifts Ether holdings to 5.7M as it joins Russell 1000",
+        "link": "https://cointelegraph.com/news/bitmine-lifts-ethereum-holdings-to-57m-as-it-joins-russell-1000?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Sovereign funds see Bitcoin discount as entry point: MidChains CEO",
+        "link": "https://cointelegraph.com/news/sovereign-funds-see-bitcoin-discount-as-entry-point-midchains-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [
+      {
+        "date": "2026-07-14",
+        "title": "US CPI Release (June data)",
+        "impact": "High",
+        "note": "8:30am ET. Inflation surprise moves crypto sharply — confirm exact date at bls.gov/schedule."
+      },
+      {
+        "date": "2026-07-28",
+        "title": "FOMC Meeting (July, Day 1 of 2)",
+        "impact": "High",
+        "note": "Rate decision July 29, 2pm ET."
+      }
+    ],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-06-30T10:35:48.371Z"
+  },
+  {
     "id": "digest-2026-06-29",
     "date": "2026-06-29",
     "title": "Crypto Market Recap — June 29, 2026",
