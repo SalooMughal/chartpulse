@@ -1,5 +1,103 @@
 [
   {
+    "id": "digest-2026-07-01",
+    "date": "2026-07-01",
+    "title": "Crypto Market Recap — July 1, 2026",
+    "summary": "Bitcoin is trading at $58,570, up 0.1% over the last 24 hours. Ethereum is trading at $1,570, up 0.0% over the last 24 hours. Solana is trading at $75.06, up 2.1% over the last 24 hours. Looking ahead, traders are watching US CPI Release (June data) on July 14 and FOMC Meeting (July, Day 1 of 2) on July 28. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 58569.99,
+        "change": 0.08
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1569.85,
+        "change": 0.03
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 75.06,
+        "change": 2.05
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Bitcoin ETFs lose record $4.5B in June, eclipsing Strategy's $1.25B raise",
+        "link": "https://cointelegraph.com/news/bitcoin-etf-4-5-billion-outflow-june-worst-on-record?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Former Goliath Ventures CEO pleads guilty in $400M crypto Ponzi case",
+        "link": "https://cointelegraph.com/news/goliath-ceo-guilty-400m-crypto-ponzi-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Taiwan’s legislature passes crypto, stablecoin regulations",
+        "link": "https://cointelegraph.com/news/taiwans-legislature-passes-crypto-regulation-licensing-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Anthropic to bring back Fable 5 as US lifts export controls",
+        "link": "https://cointelegraph.com/news/anthropic-reactivates-newest-ai-models-after-us-govt-lifts-restrictions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Trump earned more from crypto than real estate in 2025, filings show",
+        "link": "https://cointelegraph.com/news/trump-earned-more-from-crypto-than-real-estate-in-2025-filings-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Director of ‘47 Ronin’ who gambled Netflix funds on crypto gets 30 months",
+        "link": "https://cointelegraph.com/news/47-ronin-director-who-gambled-netflix-funds-on-crypto-gets-30-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "UK crypto investors sue Binance, Changpeng Zhao for $200M",
+        "link": "https://cointelegraph.com/news/uk-crypto-investors-sue-binance-changpeng-zhao-for-potential-200m-payout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [
+      {
+        "date": "2026-07-14",
+        "title": "US CPI Release (June data)",
+        "impact": "High",
+        "note": "8:30am ET. Inflation surprise moves crypto sharply — confirm exact date at bls.gov/schedule."
+      },
+      {
+        "date": "2026-07-28",
+        "title": "FOMC Meeting (July, Day 1 of 2)",
+        "impact": "High",
+        "note": "Rate decision July 29, 2pm ET."
+      }
+    ],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-07-01T10:48:09.810Z"
+  },
+  {
     "id": "digest-2026-06-30",
     "date": "2026-06-30",
     "title": "Crypto Market Recap — June 30, 2026",
