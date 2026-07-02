@@ -1,5 +1,103 @@
 [
   {
+    "id": "digest-2026-07-02",
+    "date": "2026-07-02",
+    "title": "Crypto Market Recap — July 2, 2026",
+    "summary": "Bitcoin is trading at $61,000, up 1.7% over the last 24 hours. Ethereum is trading at $1,643, up 2.2% over the last 24 hours. Solana is trading at $79.62, up 2.9% over the last 24 hours. Looking ahead, traders are watching US CPI Release (June data) on July 14 and FOMC Meeting (July, Day 1 of 2) on July 28. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 61000.01,
+        "change": 1.73
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1643.19,
+        "change": 2.21
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 79.62,
+        "change": 2.89
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Taiko reopens bridge after $1.7M exploit, says users made whole",
+        "link": "https://cointelegraph.com/news/taiko-reopens-bridge-1-7m-exploit-users-made-whole?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Metaplanet buys 2,823 BTC, surpasses 43,000 in Bitcoin holdings",
+        "link": "https://cointelegraph.com/news/metaplanet-buys-2823-btc-surpasses-43000-bitcoin-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "OpenAI weighs 5% stake for US government amid Trump talks: FT",
+        "link": "https://cointelegraph.com/news/openai-5-percent-stake-us-government-trump-talks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Robinhood links with dYdX Labs to launch new DEX Arcus",
+        "link": "https://cointelegraph.com/news/robinhood-links-with-dydx-labs-to-launch-new-dex-arcus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "France to strengthen response as crypto wrench attacks hit 77",
+        "link": "https://cointelegraph.com/news/french-wrench-attacks-rise-to-77-as-government-promises-more-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Dubai crypto market hits 50 licensed firms after new VARA approval",
+        "link": "https://cointelegraph.com/news/dubai-crypto-market-50-licensed-firms-vara?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Analyst warns BTC could drop further after worst June since 2022",
+        "link": "https://cointelegraph.com/news/renowned-analyst-predicts-btc-drop-to-52k-after-worst-june-since-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [
+      {
+        "date": "2026-07-14",
+        "title": "US CPI Release (June data)",
+        "impact": "High",
+        "note": "8:30am ET. Inflation surprise moves crypto sharply — confirm exact date at bls.gov/schedule."
+      },
+      {
+        "date": "2026-07-28",
+        "title": "FOMC Meeting (July, Day 1 of 2)",
+        "impact": "High",
+        "note": "Rate decision July 29, 2pm ET."
+      }
+    ],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-07-02T10:14:33.763Z"
+  },
+  {
     "id": "digest-2026-07-01",
     "date": "2026-07-01",
     "title": "Crypto Market Recap — July 1, 2026",
