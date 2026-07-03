@@ -1,5 +1,103 @@
 [
   {
+    "id": "digest-2026-07-03",
+    "date": "2026-07-03",
+    "title": "Crypto Market Recap — July 3, 2026",
+    "summary": "Bitcoin is trading at $61,642, up 0.3% over the last 24 hours. Ethereum is trading at $1,730, up 1.9% over the last 24 hours. Solana is trading at $81.02, up 0.5% over the last 24 hours. Looking ahead, traders are watching US CPI Release (June data) on July 14 and FOMC Meeting (July, Day 1 of 2) on July 28. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 61641.58,
+        "change": 0.26
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1730.14,
+        "change": 1.86
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 81.02,
+        "change": 0.48
+      }
+    ],
+    "headlines": [
+      {
+        "title": "India's central bank revives push to isolate banks from crypto: Report",
+        "link": "https://cointelegraph.com/news/rbi-crypto-containment-india-policy-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Irish authorities seize another 500 Bitcoin, bringing 2026 total to 1,500 BTC",
+        "link": "https://cointelegraph.com/news/irish-authorities-recover-500-bitcoin-criminal-proceeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "US spot Bitcoin ETFs top $200M in daily inflows for first time since May",
+        "link": "https://cointelegraph.com/news/spot-bitcoin-etfs-222-million-daily-inflow-reverse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Teen ‘Scattered Spider’ suspect extradited to US over $8M crypto ransom",
+        "link": "https://cointelegraph.com/news/teen-scattered-spider-suspect-extradited-to-us-over-8m-crypto-ransom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "AI agent development hasn’t accelerated as expected, Zuckerberg says",
+        "link": "https://cointelegraph.com/news/ai-agent-development-hasnt-accelerated-as-expected-says-zuckerberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "US dominates Polymarket political bets despite geoblock: Report",
+        "link": "https://cointelegraph.com/news/us-dominates-polymarket-political-bets-despite-geoblock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Strategy will be ‘less important’ in Bitcoin after STRC incident: Bitwise",
+        "link": "https://cointelegraph.com/news/strategy-will-be-less-important-in-bitcoin-after-strc-incident-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Securitize gains on NYSE debut with tokenized stocks live on Solana, Avalanche",
+        "link": "https://cointelegraph.com/news/securitize-gains-on-nyse-debut-with-tokenized-stock-live-on-solana-avalanche?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [
+      {
+        "date": "2026-07-14",
+        "title": "US CPI Release (June data)",
+        "impact": "High",
+        "note": "8:30am ET. Inflation surprise moves crypto sharply — confirm exact date at bls.gov/schedule."
+      },
+      {
+        "date": "2026-07-28",
+        "title": "FOMC Meeting (July, Day 1 of 2)",
+        "impact": "High",
+        "note": "Rate decision July 29, 2pm ET."
+      }
+    ],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-07-03T10:10:33.016Z"
+  },
+  {
     "id": "digest-2026-07-02",
     "date": "2026-07-02",
     "title": "Crypto Market Recap — July 2, 2026",
