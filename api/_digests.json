@@ -1,5 +1,103 @@
 [
   {
+    "id": "digest-2026-07-10",
+    "date": "2026-07-10",
+    "title": "Crypto Market Recap — July 10, 2026",
+    "summary": "Bitcoin is trading at $64,325, up 1.8% over the last 24 hours. Ethereum is trading at $1,799, up 3.1% over the last 24 hours. Solana is trading at $79.48, up 1.9% over the last 24 hours. Looking ahead, traders are watching US CPI Release (June data) on July 14 and FOMC Meeting (July, Day 1 of 2) on July 28. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 64324.55,
+        "change": 1.82
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1798.54,
+        "change": 3.14
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 79.48,
+        "change": 1.91
+      }
+    ],
+    "headlines": [
+      {
+        "title": "TeraWulf eyes $3.5B debt raise for Anthropic-linked data center: Report",
+        "link": "https://cointelegraph.com/news/terawulf-3-5-billion-debt-raise-anthropic-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Metaplanet explores Bitcoin-backed digital credit with JPYC in Japan",
+        "link": "https://cointelegraph.com/news/metaplanet-studies-bitcoin-digital-bonds-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin returns to $64.3K with new three-week BTC price highs imminent",
+        "link": "https://cointelegraph.com/markets/bitcoin-returns-to-64k-with-three-week-btc-price-highs-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "EU parliament passes ‘chat control,’ allowing private chat scans until 2028",
+        "link": "https://cointelegraph.com/news/eu-parliament-passes-chat-control-allowing-private-chat-scans-to-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Robinhood Chain sees over $70M in ETH bridged during first week",
+        "link": "https://cointelegraph.com/news/robinhood-chain-sees-over-70m-in-eth-bridged-during-first-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Zcash targets July 28 launch for Ironwood network upgrade",
+        "link": "https://cointelegraph.com/news/zcash-targets-july-28-launch-for-ironwood-network-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Hackers tried to backdoor Injective npm package to steal wallet keys",
+        "link": "https://cointelegraph.com/news/hackers-compromise-injective-npm-package-with-malware-to-steal-wallet-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "DeFi may be ‘quietly re-rating’ given outperformance against Bitcoin: Bitwise",
+        "link": "https://cointelegraph.com/news/defi-quietly-re-rating-holds-up-unusually-well-in-downturn-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [
+      {
+        "date": "2026-07-14",
+        "title": "US CPI Release (June data)",
+        "impact": "High",
+        "note": "8:30am ET. Inflation surprise moves crypto sharply — confirm exact date at bls.gov/schedule."
+      },
+      {
+        "date": "2026-07-28",
+        "title": "FOMC Meeting (July, Day 1 of 2)",
+        "impact": "High",
+        "note": "Rate decision July 29, 2pm ET."
+      }
+    ],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-07-10T10:29:03.315Z"
+  },
+  {
     "id": "digest-2026-07-09",
     "date": "2026-07-09",
     "title": "Crypto Market Recap — July 9, 2026",
