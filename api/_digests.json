@@ -1,5 +1,103 @@
 [
   {
+    "id": "digest-2026-07-13",
+    "date": "2026-07-13",
+    "title": "Crypto Market Recap — July 13, 2026",
+    "summary": "Bitcoin is trading at $63,054, down 1.1% over the last 24 hours. Ethereum is trading at $1,782, down 1.3% over the last 24 hours. Solana is trading at $76.31, down 0.7% over the last 24 hours. Looking ahead, traders are watching US CPI Release (June data) on July 14 and FOMC Meeting (July, Day 1 of 2) on July 28. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 63053.77,
+        "change": -1.08
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1781.57,
+        "change": -1.33
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 76.31,
+        "change": -0.74
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Japan’s SBI to launch yen stablecoin lending with 3% yield",
+        "link": "https://cointelegraph.com/news/sbi-stablecoin-lending-service-3-yield-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Japan stablecoin payments advance with Lawson trial, Netstars launch",
+        "link": "https://cointelegraph.com/news/japan-lawson-netstars-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "AI microbusinesses could drive $262B in stablecoin volume by 2033: Swyftx",
+        "link": "https://cointelegraph.com/news/ai-enabled-businesses-freelancers-could-add-262b-in-stablecoin-volumes-swyftx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bank of Thailand targets USDT and cash flows in gray money crackdown",
+        "link": "https://cointelegraph.com/news/thailand-targets-stablecoins-in-latest-laundering-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin ETFs draw $197M, snap 8-week outflow streak",
+        "link": "https://cointelegraph.com/news/bitcoin-etfs-draw-197m-snap-8-week-outflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Robinhood L2 sparks ETH optimism, Saylor 'muddies waters.' Hodler's Digest, July 5-12, 2026",
+        "link": "https://cointelegraph.com/features/ethereum-climbs-as-robinhood-l2-takes-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Strategy's Saylor needs clarity in BTC pivot message to convince investors: StanChart",
+        "link": "https://cointelegraph.com/news/strategys-saylor-needs-clarity-in-btc-pivot-message-to-convince-investors-stanchart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [
+      {
+        "date": "2026-07-14",
+        "title": "US CPI Release (June data)",
+        "impact": "High",
+        "note": "8:30am ET. Inflation surprise moves crypto sharply — confirm exact date at bls.gov/schedule."
+      },
+      {
+        "date": "2026-07-28",
+        "title": "FOMC Meeting (July, Day 1 of 2)",
+        "impact": "High",
+        "note": "Rate decision July 29, 2pm ET."
+      }
+    ],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-07-13T10:34:23.928Z"
+  },
+  {
     "id": "digest-2026-07-12",
     "date": "2026-07-12",
     "title": "Crypto Market Recap — July 12, 2026",
@@ -2864,109 +2962,5 @@
       }
     ],
     "generatedAt": "2026-06-14T10:31:43.435Z"
-  },
-  {
-    "id": "digest-2026-06-13",
-    "date": "2026-06-13",
-    "title": "Crypto Market Recap — June 13, 2026",
-    "summary": "Bitcoin is trading at $63,725, up 0.3% over the last 24 hours. Ethereum is trading at $1,673, up 0.4% over the last 24 hours. Solana is trading at $67.41, up 0.9% over the last 24 hours. Looking ahead, traders are watching FOMC Meeting (Day 1 of 2) on June 16 and FOMC Rate Decision + Powell Press Conference on June 17 and US CPI Release (June data) on July 14. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 63724.59,
-        "change": 0.29
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 1672.68,
-        "change": 0.43
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 67.41,
-        "change": 0.93
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "ETH futures flash bearish signal, but stakers’ resilience points to underlying strength",
-        "link": "https://cointelegraph.com/markets/eth-futures-flash-bearish-signal-but-stakers-resilience-points-to-underlying-strength?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Anthropic suspends access to Fable 5, Mythos 5, citing US directive",
-        "link": "https://cointelegraph.com/news/anthropic-suspends-access-to-fable-mythos-citing-us-directive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Major crypto exchanges cancel SpaceX IPO allocations, promising refunds",
-        "link": "https://cointelegraph.com/news/major-crypto-exchanges-cancel-spacex-ipo-allocations-promising-refunds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin’s ‘calm top’ challenges most market bottom estimates: Research",
-        "link": "https://cointelegraph.com/markets/bitcoins-calm-top-challenges-old-bottom-targets-what-traders-need-to-know?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin rally to $70K builds as orderbook structure highlights traders’ confidence",
-        "link": "https://cointelegraph.com/markets/bitcoin-data-points-to-a-relief-rally-as-order-book-demand-targets-70k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Sam Bankman-Fried loses appeal to overturn 25-year prison sentence",
-        "link": "https://cointelegraph.com/news/sam-bankman-fried-loses-appeal-to-overturn-25-year-prison-sentence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin surfs SpaceX IPO at $64K as trader warns key BTC price support may crumble",
-        "link": "https://cointelegraph.com/markets/bitcoin-surfs-spacex-ipo-iran-peace-cues-as-trader-warns-62k-may-crumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [
-      {
-        "date": "2026-06-16",
-        "title": "FOMC Meeting (Day 1 of 2)",
-        "impact": "High",
-        "note": "Fed interest rate decision June 17, 2pm ET, incl. dot plot projections. Expect BTC volatility."
-      },
-      {
-        "date": "2026-06-17",
-        "title": "FOMC Rate Decision + Powell Press Conference",
-        "impact": "High",
-        "note": "Statement 2:00pm ET, presser 2:30pm ET. Avoid opening new positions right before."
-      },
-      {
-        "date": "2026-07-14",
-        "title": "US CPI Release (June data)",
-        "impact": "High",
-        "note": "8:30am ET. Inflation surprise moves crypto sharply — confirm exact date at bls.gov/schedule."
-      }
-    ],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-06-13T10:07:34.504Z"
   }
 ]
