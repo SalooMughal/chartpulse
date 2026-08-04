@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-08-04",
+    "date": "2026-08-04",
+    "title": "Crypto Market Recap — August 4, 2026",
+    "summary": "Bitcoin is trading at $63,492, up 0.0% over the last 24 hours. Ethereum is trading at $1,854, down 0.3% over the last 24 hours. Solana is trading at $73.16, down 0.4% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 63492.47,
+        "change": 0.04
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1854.05,
+        "change": -0.26
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 73.16,
+        "change": -0.45
+      }
+    ],
+    "headlines": [
+      {
+        "title": "US yen intervention puts Bitcoin, risk assets on notice for liquidity flux",
+        "link": "https://cointelegraph.com/markets/us-yen-intervention-puts-bitcoin-risk-assets-on-notice-for-liquidity-flux?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Apple briefly removes Telegram from App Store, Gram rebounds",
+        "link": "https://cointelegraph.com/news/apple-telegram-app-store-gram-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "NY judge denies CFTC motion to halt enforcement action against Kalshi",
+        "link": "https://cointelegraph.com/news/ny-judge-denies-cftc-motion-enforcement-kalshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Nigeria sets crypto tax collection rules for digital asset platforms",
+        "link": "https://cointelegraph.com/news/nigeria-crypto-tax-rules-digital-asset-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Crypto firms still seeking frontier AI access; only select few have it",
+        "link": "https://cointelegraph.com/news/few-crypto-firms-have-access-to-frontier-ai-as-cyber-threats-escalate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Coldcard Bitcoin theft tops $100M across 3 confirmed attack waves: Galaxy",
+        "link": "https://cointelegraph.com/news/coldcard-bitcoin-theft-100-million-three-waves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitmine adds $19.6M in ETH, repurchases 4.5M shares",
+        "link": "https://cointelegraph.com/news/bitmine-buys-10399-eth-repurchases-4-5-million-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-08-04T09:48:18.752Z"
+  },
+  {
     "id": "digest-2026-08-03",
     "date": "2026-08-03",
     "title": "Crypto Market Recap — August 3, 2026",
@@ -2678,103 +2763,5 @@
       }
     ],
     "generatedAt": "2026-07-06T11:42:57.607Z"
-  },
-  {
-    "id": "digest-2026-07-05",
-    "date": "2026-07-05",
-    "title": "Crypto Market Recap — July 5, 2026",
-    "summary": "Bitcoin is trading at $62,432, down 1.0% over the last 24 hours. Ethereum is trading at $1,753, down 1.5% over the last 24 hours. Solana is trading at $79.84, down 2.3% over the last 24 hours. Looking ahead, traders are watching US CPI Release (June data) on July 14 and FOMC Meeting (July, Day 1 of 2) on July 28. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 62432.07,
-        "change": -1.04
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 1752.6,
-        "change": -1.5
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 79.84,
-        "change": -2.3
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Binance outflows triple to $1.2B as ETH withdrawals hit 3-year high",
-        "link": "https://cointelegraph.com/news/binance-outflows-1-23-billion-eth-withdrawals-3-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Vitalik Buterin shares top priorities for new 'Lean Ethereum' strawmap",
-        "link": "https://cointelegraph.com/news/vitalik-buterin-shares-top-priorities-for-new-lean-ethereum-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
-        "link": "https://cointelegraph.com/news/moonbeam-pivots-from-polkadot-to-base-unveils-ai-agent-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Kraken lets traders use tokenized stocks as collateral for leveraged trades",
-        "link": "https://cointelegraph.com/news/kraken-lets-traders-use-tokenized-stocks-as-collateral-for-leveraged-trades?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Kalshi hits record June trading volume as World Cup fuels prediction markets",
-        "link": "https://cointelegraph.com/news/world-cup-drives-prediction-markets-to-record-june-trading-volumes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bollinger Bands creator eyes Bitcoin bear-market end, 'W'-shaped reversal",
-        "link": "https://cointelegraph.com/markets/bollinger-bands-creator-eyes-bitcoin-bear-market-end-w-shaped-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Revolut to delist USDT in August, citing regulatory and risk concerns",
-        "link": "https://cointelegraph.com/news/revolut-usdt-delisting-regulatory-risk-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [
-      {
-        "date": "2026-07-14",
-        "title": "US CPI Release (June data)",
-        "impact": "High",
-        "note": "8:30am ET. Inflation surprise moves crypto sharply — confirm exact date at bls.gov/schedule."
-      },
-      {
-        "date": "2026-07-28",
-        "title": "FOMC Meeting (July, Day 1 of 2)",
-        "impact": "High",
-        "note": "Rate decision July 29, 2pm ET."
-      }
-    ],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-07-05T09:45:45.076Z"
   }
 ]
