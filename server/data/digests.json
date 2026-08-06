@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-08-06",
+    "date": "2026-08-06",
+    "title": "Crypto Market Recap — August 6, 2026",
+    "summary": "Bitcoin is trading at $64,610, up 0.0% over the last 24 hours. Ethereum is trading at $1,903, down 0.2% over the last 24 hours. Solana is trading at $73.24, down 1.0% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 64609.99,
+        "change": 0.01
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1902.91,
+        "change": -0.23
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 73.24,
+        "change": -0.99
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Russian president signs crypto law, core rules take effect in 2026",
+        "link": "https://cointelegraph.com/news/putin-signs-crypto-law-core-rules-take-effect-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "RWAs buck DeFi slowdown as tokenized assets gain traction: CoinShares",
+        "link": "https://cointelegraph.com/news/rwa-buck-defi-slowdown-tokenization-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Yen stablecoin issuer JPYC’s Series B reaches $38M",
+        "link": "https://cointelegraph.com/news/jpyc-series-b-funding-az-com?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin-backed loan refinances PowerCompute’s $18M debt at 2%",
+        "link": "https://cointelegraph.com/news/bitcoin-collateral-cuts-powercompute-debt-rate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin ETFs pull in $244M, 3-day inflow streak tops $626M",
+        "link": "https://cointelegraph.com/markets/bitcoin-etf-244-million-three-day-inflow-streak-626-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "EU watchdogs warn of impersonation scams amid MiCA licensing shakeout",
+        "link": "https://cointelegraph.com/news/eu-watchdogs-mica-crypto-impersonation-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Fed’s Cook says she’d support rate hike if disinflation stalls",
+        "link": "https://cointelegraph.com/markets/feds-cook-warns-persistent-inflation-could-prompt-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-08-06T09:48:56.958Z"
+  },
+  {
     "id": "digest-2026-08-05",
     "date": "2026-08-05",
     "title": "Crypto Market Recap — August 5, 2026",
@@ -2652,103 +2737,5 @@
       }
     ],
     "generatedAt": "2026-07-08T09:34:03.601Z"
-  },
-  {
-    "id": "digest-2026-07-07",
-    "date": "2026-07-07",
-    "title": "Crypto Market Recap — July 7, 2026",
-    "summary": "Bitcoin is trading at $63,230, down 1.2% over the last 24 hours. Ethereum is trading at $1,775, down 1.3% over the last 24 hours. Solana is trading at $81.2, down 0.8% over the last 24 hours. Looking ahead, traders are watching US CPI Release (June data) on July 14 and FOMC Meeting (July, Day 1 of 2) on July 28. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 63230.4,
-        "change": -1.21
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 1774.74,
-        "change": -1.32
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 81.2,
-        "change": -0.84
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Bitcoin can fall below $58K if one of its 'cleanest' metrics copies history: Analysis",
-        "link": "https://cointelegraph.com/markets/bitcoin-can-fall-below-58k-if-one-of-its-cleanest-metrics-copies-history-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Digital Chamber amicus brief urges dismissal of NY lawsuit over 39,069 Bitcoin wallets",
-        "link": "https://cointelegraph.com/news/digital-chamber-files-ny-lawsuit-39069-bitcoin-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "MiCA-compliant euro stablecoins grew 128% before MiCA transition ended, says Decta",
-        "link": "https://cointelegraph.com/news/mica-euro-stablecoins-growth-casp-deadline-decta-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Trader loses $2M in ‘same-block backrun extraction’ exploit",
-        "link": "https://cointelegraph.com/news/trader-loses-2m-in-same-block-backrun-extraction-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Yield Guild Games cuts 35 staff, shuts game publisher to focus on AI",
-        "link": "https://cointelegraph.com/news/yield-guild-games-cuts-35-staff-shuts-game-publisher-to-focus-on-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Strategy’s Bitcoin sale may give BTC a ‘durable bottom,’ Grayscale says",
-        "link": "https://cointelegraph.com/news/strategys-bitcoin-sale-may-give-btc-a-durable-bottom-says-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Trump says he became ‘a big crypto guy’ partly for politics",
-        "link": "https://cointelegraph.com/news/trump-says-he-became-a-big-crypto-guy-for-the-politics?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [
-      {
-        "date": "2026-07-14",
-        "title": "US CPI Release (June data)",
-        "impact": "High",
-        "note": "8:30am ET. Inflation surprise moves crypto sharply — confirm exact date at bls.gov/schedule."
-      },
-      {
-        "date": "2026-07-28",
-        "title": "FOMC Meeting (July, Day 1 of 2)",
-        "impact": "High",
-        "note": "Rate decision July 29, 2pm ET."
-      }
-    ],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-07-07T10:31:09.351Z"
   }
 ]
