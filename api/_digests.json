@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-08-10",
+    "date": "2026-08-10",
+    "title": "Crypto Market Recap — August 10, 2026",
+    "summary": "Bitcoin is trading at $65,153, up 0.5% over the last 24 hours. Ethereum is trading at $1,924, up 0.8% over the last 24 hours. Solana is trading at $76.77, up 0.7% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 65153.41,
+        "change": 0.47
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1923.58,
+        "change": 0.76
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 76.77,
+        "change": 0.73
+      }
+    ],
+    "headlines": [
+      {
+        "title": "UK regulators to prepare tokenized gold framework: Report",
+        "link": "https://cointelegraph.com/news/uk-regulators-tokenized-gold-framework-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin Red Team founder turns to Chinese AI: ‘It absolutely guts me’",
+        "link": "https://cointelegraph.com/news/bitcoin-red-team-founder-turns-to-chinese-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Australia orders Cryptolink Bitcoin ATMs offline over ‘basic reporting’ failures",
+        "link": "https://cointelegraph.com/news/australia-orders-cryptolink-bitcoin-atms-offline-over-basic-reporting-failures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Crypto’s first quantum attack will look like unexplained breach: Quantus founder",
+        "link": "https://cointelegraph.com/news/cryptos-first-quantum-attack-look-like-ordinary-key-theft-quantus-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "BIP-110 ends with a whimper, CLARITY vote punted: Hodler’s Digest, Aug. 9",
+        "link": "https://cointelegraph.com/magazine/bip-110-dies-with-a-whimper-clarity-vote-punted-hodlers-digest-aug-9?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Ex-US defense secretary calls CLARITY Act a ‘national security bill’",
+        "link": "https://cointelegraph.com/news/ex-us-defense-secretary-calls-clarity-act-a-national-security-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "BIP-110 Bitcoin branch stalls after two blocks as gap widens",
+        "link": "https://cointelegraph.com/news/bitcoin-bip-110-branch-stalls-miner-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-08-10T08:49:09.267Z"
+  },
+  {
     "id": "digest-2026-08-09",
     "date": "2026-08-09",
     "title": "Crypto Market Recap — August 9, 2026",
@@ -2600,103 +2685,5 @@
       }
     ],
     "generatedAt": "2026-07-12T09:13:58.091Z"
-  },
-  {
-    "id": "digest-2026-07-11",
-    "date": "2026-07-11",
-    "title": "Crypto Market Recap — July 11, 2026",
-    "summary": "Bitcoin is trading at $64,208, up 0.1% over the last 24 hours. Ethereum is trading at $1,800, up 0.2% over the last 24 hours. Solana is trading at $78.07, up 0.0% over the last 24 hours. Looking ahead, traders are watching US CPI Release (June data) on July 14 and FOMC Meeting (July, Day 1 of 2) on July 28. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 64208.22,
-        "change": 0.12
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 1799.99,
-        "change": 0.24
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 78.07,
-        "change": 0
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Robinhood says its AI agent feature will ‘soon’ be assisting crypto traders",
-        "link": "https://cointelegraph.com/news/robinhood-says-ai-agents-will-be-trading-for-crypto-users-soon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "DOJ moves to dismiss charges against alleged $722M BitClub fraudster: Report",
-        "link": "https://cointelegraph.com/news/doj-to-dismiss-charges-against-alleged-722m-bitclub-crypto-fraudster-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Kraken to overhaul app with AI investing assistant",
-        "link": "https://cointelegraph.com/news/kraken-to-rebuild-app-around-ai-powered-trading-agents-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Senate Democrats call for hearings into Trump’s ties to crypto amid CLARITY Act discussions",
-        "link": "https://cointelegraph.com/news/senate-democrats-hearings-donald-trump-crypto-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "US CBDC ban to go into effect without Trump signoff on housing bill",
-        "link": "https://cointelegraph.com/news/us-cbdc-ban-donald-trump-housing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "New Hampshire council votes down $100M Bitcoin bonds",
-        "link": "https://cointelegraph.com/news/new-hampshire-votes-against-bitcoin-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Backpack joins race for 24/7 stock markets with tokenized equities",
-        "link": "https://cointelegraph.com/news/backpack-launches-247-trading-for-tokenized-us-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [
-      {
-        "date": "2026-07-14",
-        "title": "US CPI Release (June data)",
-        "impact": "High",
-        "note": "8:30am ET. Inflation surprise moves crypto sharply — confirm exact date at bls.gov/schedule."
-      },
-      {
-        "date": "2026-07-28",
-        "title": "FOMC Meeting (July, Day 1 of 2)",
-        "impact": "High",
-        "note": "Rate decision July 29, 2pm ET."
-      }
-    ],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-07-11T08:57:55.326Z"
   }
 ]
