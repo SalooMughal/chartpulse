@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-08-12",
+    "date": "2026-08-12",
+    "title": "Crypto Market Recap — August 12, 2026",
+    "summary": "Bitcoin is trading at $63,707, up 0.3% over the last 24 hours. Ethereum is trading at $1,890, up 0.5% over the last 24 hours. Solana is trading at $76.27, up 0.1% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 63706.87,
+        "change": 0.28
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1890.15,
+        "change": 0.5
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 76.27,
+        "change": 0.07
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Inside the fake crypto startup that fooled North Korean IT workers",
+        "link": "https://cointelegraph.com/magazine/fake-crypto-startup-fooled-north-korean-it-workers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Harmony considers rollback after suspected exploit inflates ONE supply",
+        "link": "https://cointelegraph.com/news/armony-rollback-alleged-one-token-mint?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "CFTC invokes emergency powers to keep Kalshi operating in New York fight",
+        "link": "https://cointelegraph.com/news/cftc-kalshi-emergency-order-new-york-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Ravencoin hits record low as network exploit puts transactions at risk",
+        "link": "https://cointelegraph.com/markets/ravencoin-rvn-record-low-consensus-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "SEC, CFTC sue Goliath Ventures over $400M crypto Ponzi scheme",
+        "link": "https://cointelegraph.com/news/sec-cftc-sue-goliath-ventures-400m-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "SEC to address crypto regulations in absence of CLARITY passage",
+        "link": "https://cointelegraph.com/news/sec-crypto-regulations-absence-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Itaú joins Brazil tokenization pilot with OpenAssets",
+        "link": "https://cointelegraph.com/news/ita-joins-brazil-tokenization-pilot-with-openassets-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "MoneyGram expands crypto cash ramps to Solana",
+        "link": "https://cointelegraph.com/news/moneygram-expands-crypto-cash-ramps-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-08-12T08:37:45.861Z"
+  },
+  {
     "id": "digest-2026-08-11",
     "date": "2026-08-11",
     "title": "Crypto Market Recap — August 11, 2026",
@@ -2574,103 +2659,5 @@
       }
     ],
     "generatedAt": "2026-07-14T09:15:32.163Z"
-  },
-  {
-    "id": "digest-2026-07-13",
-    "date": "2026-07-13",
-    "title": "Crypto Market Recap — July 13, 2026",
-    "summary": "Bitcoin is trading at $63,054, down 1.1% over the last 24 hours. Ethereum is trading at $1,782, down 1.3% over the last 24 hours. Solana is trading at $76.31, down 0.7% over the last 24 hours. Looking ahead, traders are watching US CPI Release (June data) on July 14 and FOMC Meeting (July, Day 1 of 2) on July 28. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 63053.77,
-        "change": -1.08
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 1781.57,
-        "change": -1.33
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 76.31,
-        "change": -0.74
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Japan’s SBI to launch yen stablecoin lending with 3% yield",
-        "link": "https://cointelegraph.com/news/sbi-stablecoin-lending-service-3-yield-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Japan stablecoin payments advance with Lawson trial, Netstars launch",
-        "link": "https://cointelegraph.com/news/japan-lawson-netstars-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "AI microbusinesses could drive $262B in stablecoin volume by 2033: Swyftx",
-        "link": "https://cointelegraph.com/news/ai-enabled-businesses-freelancers-could-add-262b-in-stablecoin-volumes-swyftx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bank of Thailand targets USDT and cash flows in gray money crackdown",
-        "link": "https://cointelegraph.com/news/thailand-targets-stablecoins-in-latest-laundering-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin ETFs draw $197M, snap 8-week outflow streak",
-        "link": "https://cointelegraph.com/news/bitcoin-etfs-draw-197m-snap-8-week-outflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Robinhood L2 sparks ETH optimism, Saylor 'muddies waters.' Hodler's Digest, July 5-12, 2026",
-        "link": "https://cointelegraph.com/features/ethereum-climbs-as-robinhood-l2-takes-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Strategy's Saylor needs clarity in BTC pivot message to convince investors: StanChart",
-        "link": "https://cointelegraph.com/news/strategys-saylor-needs-clarity-in-btc-pivot-message-to-convince-investors-stanchart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [
-      {
-        "date": "2026-07-14",
-        "title": "US CPI Release (June data)",
-        "impact": "High",
-        "note": "8:30am ET. Inflation surprise moves crypto sharply — confirm exact date at bls.gov/schedule."
-      },
-      {
-        "date": "2026-07-28",
-        "title": "FOMC Meeting (July, Day 1 of 2)",
-        "impact": "High",
-        "note": "Rate decision July 29, 2pm ET."
-      }
-    ],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-07-13T10:34:23.928Z"
   }
 ]
