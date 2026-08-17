@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-08-17",
+    "date": "2026-08-17",
+    "title": "Crypto Market Recap — August 17, 2026",
+    "summary": "Bitcoin is trading at $63,490, up 1.0% over the last 24 hours. Ethereum is trading at $1,900, up 1.4% over the last 24 hours. Solana is trading at $75.71, up 1.6% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 63489.99,
+        "change": 1.04
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1899.89,
+        "change": 1.37
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 75.71,
+        "change": 1.57
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Greenlane’s $70M BERA treasury ends Q2 valued at $16M",
+        "link": "https://cointelegraph.com/news/greenlane-70m-bera-treasury-valued-16m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Chainalysis sues US over $95M ICE contract with TRM Labs",
+        "link": "https://cointelegraph.com/news/chainalysis-sues-us-over-ices-sole-source-contract-with-trm-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Data of 54,000 wallet users leaked, CLARITY odds just 10%: Hodler’s Digest",
+        "link": "https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "DefiLlama delayed mobile launch over phishing apps on Apple Store, founder says",
+        "link": "https://cointelegraph.com/news/defillama-delayed-app-launch-fake-phishing-apps-apple?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Ethereum devs to narrow 66 proposals tied to Hegotá upgrade",
+        "link": "https://cointelegraph.com/news/ethereum-devs-66-proposals-hegota-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup",
+        "link": "https://cointelegraph.com/news/bybit-launches-unitree-pre-ipo-perpetual-as-crypto-platforms-push-into-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Tokenized stock holders more than double as monthly volume surges",
+        "link": "https://cointelegraph.com/news/tokenized-stock-holders-double-to-13m-as-activity-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-08-17T07:58:28.344Z"
+  },
+  {
     "id": "digest-2026-08-16",
     "date": "2026-08-16",
     "title": "Crypto Market Recap — August 16, 2026",
@@ -2533,97 +2618,5 @@
       }
     ],
     "generatedAt": "2026-07-19T09:14:50.293Z"
-  },
-  {
-    "id": "digest-2026-07-18",
-    "date": "2026-07-18",
-    "title": "Crypto Market Recap — July 18, 2026",
-    "summary": "Bitcoin is trading at $63,951, up 0.1% over the last 24 hours. Ethereum is trading at $1,847, up 0.3% over the last 24 hours. Solana is trading at $74.93, down 0.1% over the last 24 hours. Looking ahead, traders are watching FOMC Meeting (July, Day 1 of 2) on July 28. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 63951.01,
-        "change": 0.09
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 1846.5,
-        "change": 0.3
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 74.93,
-        "change": -0.07
-      }
-    ],
-    "headlines": [
-      {
-        "title": "FTX to distribute $900M to creditors in fifth payment round",
-        "link": "https://cointelegraph.com/news/ftx-distribute-millions-creditors-fifth-payment-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Galaxy lands 15-year Texas Tech stadium naming rights deal",
-        "link": "https://cointelegraph.com/news/galaxy-lands-15-year-texas-tech-stadium-naming-rights-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Consensys unknowingly outsourced developer work to North Korean",
-        "link": "https://cointelegraph.com/news/consensys-north-korean-hacker-software-developer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Crypto Biz: When dollars disappear, stablecoins step in",
-        "link": "https://cointelegraph.com/news/crypto-biz-when-dollars-disappear-stablecoins-step-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "OKX Europe lets users convert USDT to MiCA-compliant USDC",
-        "link": "https://cointelegraph.com/news/okx-europe-lets-users-convert-usdt-to-mica-compliant-usdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Senator Warren requests 2026 reporting for Trump’s crypto earnings after $1.4B disclosure",
-        "link": "https://cointelegraph.com/news/senator-warren-2026-reporting-donald-trump-crypto-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin price sags under $62.5K as Iran strikes add to US stocks pressure",
-        "link": "https://cointelegraph.com/markets/bitcoin-price-sags-under-625k-as-iran-strikes-add-to-us-stocks-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "HSBC wins Bank of England approval to enter Digital Securities Sandbox",
-        "link": "https://cointelegraph.com/news/hsbc-bank-of-england-approval-digital-securities-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [
-      {
-        "date": "2026-07-28",
-        "title": "FOMC Meeting (July, Day 1 of 2)",
-        "impact": "High",
-        "note": "Rate decision July 29, 2pm ET."
-      }
-    ],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-07-18T08:57:11.335Z"
   }
 ]
