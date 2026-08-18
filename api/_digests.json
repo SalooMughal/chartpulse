@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-08-18",
+    "date": "2026-08-18",
+    "title": "Crypto Market Recap — August 18, 2026",
+    "summary": "Bitcoin is trading at $64,187, down 0.5% over the last 24 hours. Ethereum is trading at $1,898, down 0.7% over the last 24 hours. Solana is trading at $75.93, down 0.0% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 64186.56,
+        "change": -0.46
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1898.34,
+        "change": -0.71
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 75.93,
+        "change": -0.03
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Ethereum Foundation warns some tools may break with Glamsterdam upgrade",
+        "link": "https://cointelegraph.com/news/ethereum-foundation-warns-some-tools-may-break-with-glamsterdam-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "South Korea’s Jeonbuk Bank taps Ripple for cross-border payments",
+        "link": "https://cointelegraph.com/news/jeonbuk-bank-ripple-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Alleged $165M crypto Ponzi mastermind faces US charges after Fiji deportation",
+        "link": "https://cointelegraph.com/news/edward-zimbardi-165m-crypto-ponzi-fiji-deportation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "‘Fabricated rumors’ about BitMart founder, Binance bStocks dominate: Asia Express",
+        "link": "https://cointelegraph.com/magazine/fabricated-rumors-about-bitmart-founder-binance-bstocks-dominate-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "OCC approves Trump family crypto company for trust charter",
+        "link": "https://cointelegraph.com/news/occ-donald-trump-world-liberty-financial-trust-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Binance to plan UK relaunch with FCA license application: Report",
+        "link": "https://cointelegraph.com/news/binance-uk-launch-plans-fca-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "CFTC seeks public input on AI compute futures contracts as CME eyes October launch",
+        "link": "https://cointelegraph.com/news/cftc-ai-compute-futures-cme-october-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-08-18T07:50:32.575Z"
+  },
+  {
     "id": "digest-2026-08-17",
     "date": "2026-08-17",
     "title": "Crypto Market Recap — August 17, 2026",
@@ -2526,97 +2611,5 @@
       }
     ],
     "generatedAt": "2026-07-20T10:19:52.302Z"
-  },
-  {
-    "id": "digest-2026-07-19",
-    "date": "2026-07-19",
-    "title": "Crypto Market Recap — July 19, 2026",
-    "summary": "Bitcoin is trading at $64,608, down 0.3% over the last 24 hours. Ethereum is trading at $1,872, up 0.5% over the last 24 hours. Solana is trading at $76.15, up 0.9% over the last 24 hours. Looking ahead, traders are watching FOMC Meeting (July, Day 1 of 2) on July 28. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 64608.08,
-        "change": -0.29
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 1871.77,
-        "change": 0.55
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 76.15,
-        "change": 0.91
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Kaspersky identifies malware framework targeting crypto investors",
-        "link": "https://cointelegraph.com/news/kaspersky-malware-framework-crypto-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "French gambling regulator orders ISPs to block Polymarket",
-        "link": "https://cointelegraph.com/news/french-gambling-authority-blocks-polymarket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "FTX to distribute $900M to creditors in fifth payment round",
-        "link": "https://cointelegraph.com/news/ftx-distribute-millions-creditors-fifth-payment-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Galaxy lands 15-year Texas Tech stadium naming rights deal",
-        "link": "https://cointelegraph.com/news/galaxy-lands-15-year-texas-tech-stadium-naming-rights-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Consensys unknowingly outsourced developer work to North Korean",
-        "link": "https://cointelegraph.com/news/consensys-north-korean-hacker-software-developer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Crypto Biz: When dollars disappear, stablecoins step in",
-        "link": "https://cointelegraph.com/news/crypto-biz-when-dollars-disappear-stablecoins-step-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "OKX Europe lets users convert USDT to MiCA-compliant USDC",
-        "link": "https://cointelegraph.com/news/okx-europe-lets-users-convert-usdt-to-mica-compliant-usdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [
-      {
-        "date": "2026-07-28",
-        "title": "FOMC Meeting (July, Day 1 of 2)",
-        "impact": "High",
-        "note": "Rate decision July 29, 2pm ET."
-      }
-    ],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-07-19T09:14:50.293Z"
   }
 ]
