@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-08-19",
+    "date": "2026-08-19",
+    "title": "Crypto Market Recap — August 19, 2026",
+    "summary": "Bitcoin is trading at $64,301, down 0.6% over the last 24 hours. Ethereum is trading at $1,917, up 0.0% over the last 24 hours. Solana is trading at $76.94, down 0.1% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 64300.65,
+        "change": -0.59
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1917.06,
+        "change": 0.02
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 76.94,
+        "change": -0.09
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "MAYAChain halts network after estimated $1.7M exploit",
+        "link": "https://cointelegraph.com/news/maya-protocol-1-7m-exploit-network-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "US accounting board FASB proposes conditions for stablecoins as cash equivalents",
+        "link": "https://cointelegraph.com/news/us-accounting-board-fasb-proposes-conditions-for-stablecoins-as-cash-equivalents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "SEC proposes new crypto rules in absence of CLARITY Act",
+        "link": "https://cointelegraph.com/news/us-sec-crypto-rules-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "FalconX, Interstice Connect Canton to Ethereum, Solana and Robinhood Chain",
+        "link": "https://cointelegraph.com/news/interstice-falconx-cross-chain-swap-engine-canton-solana-ethereum-robinhood-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Ripple- and Coinbase-funded PAC spends $2M in Florida race with little mention of crypto",
+        "link": "https://cointelegraph.com/news/crypto-pac-ads-florida-congress-spending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Cypherpunk launches Zcash mining fleet controlling 18% of network hashrate",
+        "link": "https://cointelegraph.com/news/cypherpunk-zcash-mining-winklevoss-capital-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Kraken’s Krak debuts US debit card as Payward broadens financial services push",
+        "link": "https://cointelegraph.com/news/krakens-krak-launches-us-debit-card-as-payward-broadens-financial-services-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-08-19T07:51:42.882Z"
+  },
+  {
     "id": "digest-2026-08-18",
     "date": "2026-08-18",
     "title": "Crypto Market Recap — August 18, 2026",
@@ -2519,97 +2604,5 @@
       }
     ],
     "generatedAt": "2026-07-21T09:36:58.947Z"
-  },
-  {
-    "id": "digest-2026-07-20",
-    "date": "2026-07-20",
-    "title": "Crypto Market Recap — July 20, 2026",
-    "summary": "Bitcoin is trading at $64,210, down 0.7% over the last 24 hours. Ethereum is trading at $1,863, down 0.4% over the last 24 hours. Solana is trading at $76.41, up 0.1% over the last 24 hours. Looking ahead, traders are watching FOMC Meeting (July, Day 1 of 2) on July 28. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 64210.3,
-        "change": -0.73
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 1863.25,
-        "change": -0.41
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 76.41,
-        "change": 0.1
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Bitcoin ETF inflows extend to second week, but recovery lacks momentum",
-        "link": "https://cointelegraph.com/news/bitcoin-etf-inflows-second-but-recovery-lacks-momentum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "South Korea eyes September launch for second phase of CBDC pilot: Report",
-        "link": "https://cointelegraph.com/news/south-korea-september-second-phase-cbdc-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Cardano activates van Rossem hard fork",
-        "link": "https://cointelegraph.com/news/cardano-activates-van-rossem-hard-fork-paving-way-for-leios?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Allbridge pauses cross-chain bridge after $1.65M exploit",
-        "link": "https://cointelegraph.com/news/allbridge-core-pauses-cross-chain-bridge-after-165m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Japanese logistics company eyes JPYC stablecoin to pay drivers",
-        "link": "https://cointelegraph.com/news/japanese-logistics-company-eyes-jpyc-stablecoin-to-pay-drivers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "South Korea probed 40 cases of crypto manipulation over 2 years",
-        "link": "https://cointelegraph.com/news/south-korea-probed-40-cases-of-crypto-manipulation-over-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Will the US get CLARITY this week? Bitcoin’s new $80K target: Hodler’s Digest, July 19",
-        "link": "https://cointelegraph.com/magazine/will-the-us-get-finally-clarity-this-week-bitcoin-80k-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [
-      {
-        "date": "2026-07-28",
-        "title": "FOMC Meeting (July, Day 1 of 2)",
-        "impact": "High",
-        "note": "Rate decision July 29, 2pm ET."
-      }
-    ],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-07-20T10:19:52.302Z"
   }
 ]
