@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-08-21",
+    "date": "2026-08-21",
+    "title": "Crypto Market Recap — August 21, 2026",
+    "summary": "Bitcoin is trading at $76,403, up 4.6% over the last 24 hours. Ethereum is trading at $2,375, up 2.1% over the last 24 hours. Solana is trading at $90.4, up 3.1% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 76402.52,
+        "change": 4.64
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2374.74,
+        "change": 2.08
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 90.4,
+        "change": 3.15
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "South Korean lawmakers seek expanded FIU powers over unregistered crypto firms",
+        "link": "https://cointelegraph.com/news/south-korea-fiu-unregistered-crypto-firms-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "MANTRA token sinks 18% to record low amid blockchain halt",
+        "link": "https://cointelegraph.com/markets/mantra-token-record-low-blockchain-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Capital.com plans UAE spot crypto services after affiliate wins licence",
+        "link": "https://cointelegraph.com/news/capital-com-uae-spot-crypto-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin breaks above 200-day moving average for first time since November",
+        "link": "https://cointelegraph.com/markets/bitcoin-breaks-200-day-moving-average?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "CFTC chair says agency will move forward on crypto regulation if CLARITY fails",
+        "link": "https://cointelegraph.com/news/cftc-chair-crypto-regulation-without-clarity-act-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Binance opens crypto trading to AI agents with user-set controls",
+        "link": "https://cointelegraph.com/news/binance-opens-crypto-trading-to-ai-agents-with-user-set-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "US debt tops $40T stoking debate on what it means for Bitcoin",
+        "link": "https://cointelegraph.com/markets/bitcoin-surges-after-us-debt-crosses-40t?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-08-21T07:54:14.777Z"
+  },
+  {
     "id": "digest-2026-08-20",
     "date": "2026-08-20",
     "title": "Crypto Market Recap — August 20, 2026",
@@ -2505,97 +2590,5 @@
       }
     ],
     "generatedAt": "2026-07-23T09:34:13.682Z"
-  },
-  {
-    "id": "digest-2026-07-22",
-    "date": "2026-07-22",
-    "title": "Crypto Market Recap — July 22, 2026",
-    "summary": "Bitcoin is trading at $65,937, down 0.9% over the last 24 hours. Ethereum is trading at $1,922, down 0.4% over the last 24 hours. Solana is trading at $77.29, down 1.0% over the last 24 hours. Looking ahead, traders are watching FOMC Meeting (July, Day 1 of 2) on July 28. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 65936.95,
-        "change": -0.87
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 1921.67,
-        "change": -0.38
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 77.29,
-        "change": -1.02
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Galaxy pledges $5M for developers quantum-proofing Bitcoin",
-        "link": "https://cointelegraph.com/news/galaxy-pledges-5m-developers-quantum-proofing-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin ETFs extend inflow streak to 6 days with $203M added",
-        "link": "https://cointelegraph.com/news/bitcoin-etfs-203-million-inflow-streak-six-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Balance Coin crashes 99% after reported $915K exploit",
-        "link": "https://cointelegraph.com/news/algorithmic-stablecoin-balance-coin-plummets-99-after-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "OpenAI says AI models escaped containment to hack Hugging Face",
-        "link": "https://cointelegraph.com/news/openai-models-hacked-hugging-face-to-cheat-on-a-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Balaji’s Network School turns to Kazakhstan amid Malaysia setback",
-        "link": "https://cointelegraph.com/news/balajis-network-school-turns-to-kazakhstan-amid-malaysia-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "CLARITY Act could help CFTC deal with prediction markets: Lawyer",
-        "link": "https://cointelegraph.com/news/clarity-act-cftc-prediction-markets-resources?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Movement Labs files for Chapter 11 bankruptcy after months of MOVE token turmoil",
-        "link": "https://cointelegraph.com/news/movement-labs-files-chapter-11-bankruptcy-move-token-turmoil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [
-      {
-        "date": "2026-07-28",
-        "title": "FOMC Meeting (July, Day 1 of 2)",
-        "impact": "High",
-        "note": "Rate decision July 29, 2pm ET."
-      }
-    ],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-07-22T09:36:58.218Z"
   }
 ]
