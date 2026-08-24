@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-08-24",
+    "date": "2026-08-24",
+    "title": "Crypto Market Recap — August 24, 2026",
+    "summary": "Bitcoin is trading at $77,218, down 0.7% over the last 24 hours. Ethereum is trading at $2,456, down 0.3% over the last 24 hours. Solana is trading at $94.08, down 1.4% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 77218.44,
+        "change": -0.66
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2455.53,
+        "change": -0.32
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 94.08,
+        "change": -1.41
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Banks, regulators join quantum-resistant crypto transfer pilot",
+        "link": "https://cointelegraph.com/news/banks-regulators-quantum-resistant-crypto-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Pakistan opens crypto licensing portal, sets Sept. 5 deadline for existing firms",
+        "link": "https://cointelegraph.com/news/pakistan-crypto-licensing-portal-september-5-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Term Finance loses estimated $8.5M in vault governance exploit",
+        "link": "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest",
+        "link": "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Fed study finds crypto investors driven by beliefs, easily swayed by returns",
+        "link": "https://cointelegraph.com/news/fed-study-finds-crypto-investors-driven-by-beliefs-easily-swayed-by-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "MiCA is coming for DeFi vaults, but regulation will be difficult",
+        "link": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC",
+        "link": "https://cointelegraph.com/markets/bitget-ceo-sees-bitcoin-near-current-levels-at-year-end-doubts-us-will-buy-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-08-24T08:02:37.399Z"
+  },
+  {
     "id": "digest-2026-08-23",
     "date": "2026-08-23",
     "title": "Crypto Market Recap — August 23, 2026",
@@ -2484,97 +2569,5 @@
       }
     ],
     "generatedAt": "2026-07-26T09:22:04.362Z"
-  },
-  {
-    "id": "digest-2026-07-25",
-    "date": "2026-07-25",
-    "title": "Crypto Market Recap — July 25, 2026",
-    "summary": "Bitcoin is trading at $63,772, down 0.5% over the last 24 hours. Ethereum is trading at $1,851, down 0.5% over the last 24 hours. Solana is trading at $73.77, down 0.2% over the last 24 hours. Looking ahead, traders are watching FOMC Meeting (July, Day 1 of 2) on July 28. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 63771.99,
-        "change": -0.49
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 1851.05,
-        "change": -0.47
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 73.77,
-        "change": -0.18
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Ethereum ETFs close week in red, end 5-day inflow streak",
-        "link": "https://cointelegraph.com/markets/ethereum-etfs-week-red-end-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "EU authorities include HTX exchange in Russian sanctions",
-        "link": "https://cointelegraph.com/news/htx-exchange-european-union-russia-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Strive’s SATA recovers most of June decline, trades within 3% of par",
-        "link": "https://cointelegraph.com/news/strives-sata-recovers-most-of-june-decline-trades-within-3-of-par?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "House passes bill on lawmakers using insider information for stock trading",
-        "link": "https://cointelegraph.com/news/house-bill-lawmakers-insider-information-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Crypto advocacy groups support CLARITY passage as ethics rules face pushback",
-        "link": "https://cointelegraph.com/news/crypto-advocacy-groups-support-clarity-act-pushback-ethics-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Internet Freedom Foundation calls India’s BitChat GitHub takedown order ‘unconstitutional’",
-        "link": "https://cointelegraph.com/news/internet-freedom-foundation-calls-indias-bitchat-github-takedown-order-unconstitutional?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Crypto Biz: Is the AI-to-crypto rotation underway?",
-        "link": "https://cointelegraph.com/news/crypto-biz-ai-to-crypto-rotation-bitcoin-etf-inflows-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [
-      {
-        "date": "2026-07-28",
-        "title": "FOMC Meeting (July, Day 1 of 2)",
-        "impact": "High",
-        "note": "Rate decision July 29, 2pm ET."
-      }
-    ],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-07-25T09:10:11.559Z"
   }
 ]
