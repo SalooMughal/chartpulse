@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-08-25",
+    "date": "2026-08-25",
+    "title": "Crypto Market Recap — August 25, 2026",
+    "summary": "Bitcoin is trading at $79,655, up 0.9% over the last 24 hours. Ethereum is trading at $2,482, down 0.0% over the last 24 hours. Solana is trading at $100.08, up 1.1% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 79654.69,
+        "change": 0.85
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2481.96,
+        "change": -0.01
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 100.08,
+        "change": 1.12
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Bitcoin ETFs add $338M as six-day inflow streak hits $2.26B",
+        "link": "https://cointelegraph.com/markets/bitcoin-etf-six-day-inflow-streak-2-26-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "US targets Iran’s crypto sector, cites over $100M in oil-linked payments",
+        "link": "https://cointelegraph.com/news/us-targets-iran-crypto-sector-100m-oil-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "BNB Chain activates Pasteur hard fork to strengthen bridge security",
+        "link": "https://cointelegraph.com/news/bnb-chain-pasteur-hard-fork-bridge-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Korean bank taps Ripple for payments, Pakistan opens crypto licensing: Asia Express",
+        "link": "https://cointelegraph.com/magazine/korean-bank-to-use-ripple-payments-japans-first-exchange-in-4-years-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "CFTC, US soldier accused of illegal Polymarket bet spar over interpretation of prediction markets",
+        "link": "https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Gemini plans to distribute crypto prediction markets through Apex brokerages",
+        "link": "https://cointelegraph.com/news/gemini-plans-to-distribute-crypto-prediction-markets-through-apex-brokerages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bernstein sees new USDC growth cycle, sets $140 Circle price target",
+        "link": "https://cointelegraph.com/news/bernstein-circle-usdc-growth-140-price-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-08-25T07:55:53.310Z"
+  },
+  {
     "id": "digest-2026-08-24",
     "date": "2026-08-24",
     "title": "Crypto Market Recap — August 24, 2026",
@@ -2477,97 +2562,5 @@
       }
     ],
     "generatedAt": "2026-07-27T10:50:04.049Z"
-  },
-  {
-    "id": "digest-2026-07-26",
-    "date": "2026-07-26",
-    "title": "Crypto Market Recap — July 26, 2026",
-    "summary": "Bitcoin is trading at $64,485, up 0.3% over the last 24 hours. Ethereum is trading at $1,882, up 0.5% over the last 24 hours. Solana is trading at $75, up 0.7% over the last 24 hours. Looking ahead, traders are watching FOMC Meeting (July, Day 1 of 2) on July 28. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 64485.33,
-        "change": 0.3
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 1882.3,
-        "change": 0.49
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 75,
-        "change": 0.73
-      }
-    ],
-    "headlines": [
-      {
-        "title": "BitMart to wind down exchange, end trading by Aug. 26",
-        "link": "https://cointelegraph.com/news/bitmart-wind-down-exchange-end-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Binance ‘red teams’ its own staff every month to keep hackers out",
-        "link": "https://cointelegraph.com/news/binance-red-teams-own-staff-every-month-to-keep-hackers-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Robinhood in talks with Crypto.com over prediction markets: WSJ",
-        "link": "https://cointelegraph.com/news/robinhood-cryptocom-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program",
-        "link": "https://cointelegraph.com/news/bitcoin-policy-institute-state-department-program?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Wise to resubmit US charter application under GENIUS Act",
-        "link": "https://cointelegraph.com/news/wise-resubmit-occ-charter-application-genius-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "North Korea arrests bank hacking ring tied to crypto laundering: Report",
-        "link": "https://cointelegraph.com/news/north-korea-bank-hacking-ring-crypto-laundering-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Fidelity joins push for Senate passage of CLARITY Act",
-        "link": "https://cointelegraph.com/news/fidelity-push-senate-passage-of-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [
-      {
-        "date": "2026-07-28",
-        "title": "FOMC Meeting (July, Day 1 of 2)",
-        "impact": "High",
-        "note": "Rate decision July 29, 2pm ET."
-      }
-    ],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-07-26T09:22:04.362Z"
   }
 ]
