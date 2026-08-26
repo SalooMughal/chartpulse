@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-08-26",
+    "date": "2026-08-26",
+    "title": "Crypto Market Recap — August 26, 2026",
+    "summary": "Bitcoin is trading at $78,928, up 0.5% over the last 24 hours. Ethereum is trading at $2,461, up 0.8% over the last 24 hours. Solana is trading at $97.01, up 0.4% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 78927.77,
+        "change": 0.51
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2461.21,
+        "change": 0.76
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 97.01,
+        "change": 0.43
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Tornado Cash developer Roman Storm’s retrial delayed to April 2027",
+        "link": "https://cointelegraph.com/news/roman-storm-retrial-delayed-april-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin ETFs tear through 2026 outflows in 7-day hot streak",
+        "link": "https://cointelegraph.com/news/bitcoin-etf-august-inflows-surge-past-3-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "US banking groups plan nationwide blockchain network for 2027",
+        "link": "https://cointelegraph.com/news/us-banking-groups-nationwide-blockchain-network-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "World Liberty Financial launches USD1 natively on Canton Network",
+        "link": "https://cointelegraph.com/news/world-liberty-financial-launches-usd1-natively-on-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin enters ‘initial phase’ of new bull market, but $83K remains key: CryptoQuant",
+        "link": "https://cointelegraph.com/markets/bitcoin-enters-initial-phase-of-new-bull-market-but-83k-remains-key-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Solana transactions hit record 4.2B as SOL rallies 40%",
+        "link": "https://cointelegraph.com/news/solana-record-transactions-rwa-sol-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Strategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report",
+        "link": "https://cointelegraph.com/news/strategy-financing-risk-not-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-08-26T07:56:38.302Z"
+  },
+  {
     "id": "digest-2026-08-25",
     "date": "2026-08-25",
     "title": "Crypto Market Recap — August 25, 2026",
@@ -2470,97 +2555,5 @@
       }
     ],
     "generatedAt": "2026-07-28T09:45:00.237Z"
-  },
-  {
-    "id": "digest-2026-07-27",
-    "date": "2026-07-27",
-    "title": "Crypto Market Recap — July 27, 2026",
-    "summary": "Bitcoin is trading at $65,309, down 0.0% over the last 24 hours. Ethereum is trading at $1,967, up 0.7% over the last 24 hours. Solana is trading at $76.59, down 0.1% over the last 24 hours. Looking ahead, traders are watching FOMC Meeting (July, Day 1 of 2) on July 28. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 65309.47,
-        "change": -0.05
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 1967.47,
-        "change": 0.74
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 76.59,
-        "change": -0.13
-      }
-    ],
-    "headlines": [
-      {
-        "title": "BNY Mellon unit joins MiCA register as ESMA adds 15 providers",
-        "link": "https://cointelegraph.com/news/mica-register-expands-third-post-deadline-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Brazilian police bust cocaine traffickers in crypto-linked transnational probe",
-        "link": "https://cointelegraph.com/news/brazilian-police-cracks-down-on-crypto-fueled-international-drug-traffickers-suspected-of-moving-billions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Coinbase CEO touts agentic finance as Base tops 100M AI payments",
-        "link": "https://cointelegraph.com/news/coinbase-ceo-agentic-finance-base-100-million-aifi-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Triple-A confirms treasury-wallet breach after losses reach $11.8M",
-        "link": "https://cointelegraph.com/news/triple-a-treasury-wallet-breach-11-8-million-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "BitMart withdrawals appear to slow following wind-down announcement",
-        "link": "https://cointelegraph.com/news/bitmart-withdrawals-slow-exchange-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Garden Finance disables app as Blockaid reports $450,000 exploit",
-        "link": "https://cointelegraph.com/news/garden-finance-app-offline-450k-htlc-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Storj files for bankruptcy, explores equity path for tokenholders",
-        "link": "https://cointelegraph.com/news/storj-chapter-11-bankruptcy-tokenholder-equity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "CLARITY hopes fade, BitMEX shuts as lawsuit looms: Hodler’s Digest, July 26",
-        "link": "https://cointelegraph.com/magazine/clarity-hopes-fade-bitmex-shuts-as-lawsuit-looms-hodlers-digest-july-27?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [
-      {
-        "date": "2026-07-28",
-        "title": "FOMC Meeting (July, Day 1 of 2)",
-        "impact": "High",
-        "note": "Rate decision July 29, 2pm ET."
-      }
-    ],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-07-27T10:50:04.049Z"
   }
 ]
