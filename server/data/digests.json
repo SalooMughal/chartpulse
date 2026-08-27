@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-08-27",
+    "date": "2026-08-27",
+    "title": "Crypto Market Recap — August 27, 2026",
+    "summary": "Bitcoin is trading at $80,335, up 1.7% over the last 24 hours. Ethereum is trading at $2,509, up 0.1% over the last 24 hours. Solana is trading at $107.26, up 5.1% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 80335.08,
+        "change": 1.66
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2508.54,
+        "change": 0.06
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 107.26,
+        "change": 5.06
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Bitcoin eyes $81K as Nvidia earnings beat boosts risk assets",
+        "link": "https://cointelegraph.com/markets/bitcoin-eyes-81k-as-nvidia-earnings-beat-boosts-risk-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Charles Schwab adda Solana, Avalanche and Chainlink to nascent crypto platform",
+        "link": "https://cointelegraph.com/news/charles-schwab-to-add-solana-avalanche-and-chainlink-to-crypto-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin’s 23% rally sends beaten-down miners soaring past AI stocks",
+        "link": "https://cointelegraph.com/markets/bitcoin-miner-stocks-rally-crypto-demand-ai-hpc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "UK government reports 240 crypto millionaires in 2025",
+        "link": "https://cointelegraph.com/news/uk-government-crypto-millionaires-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Ripple Prime expands into US equity derivatives with Delta One business",
+        "link": "https://cointelegraph.com/news/ripple-prime-us-equities-delta-one?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bank of England set for new innovation mandate covering stablecoins",
+        "link": "https://cointelegraph.com/news/uk-boe-innovation-mandate-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin faces true demand test above $83K as liquidity thickens: Glassnode",
+        "link": "https://cointelegraph.com/markets/bitcoin-faces-true-demand-test-above-83k-as-liquidity-thickens-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitfinex Securities completes record $50M tokenized capital raise",
+        "link": "https://cointelegraph.com/news/bitfinex-securities-record-50-million-tokenized-nickel-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-08-27T18:16:06.421Z"
+  },
+  {
     "id": "digest-2026-08-26",
     "date": "2026-08-26",
     "title": "Crypto Market Recap — August 26, 2026",
@@ -2463,97 +2548,5 @@
       }
     ],
     "generatedAt": "2026-07-29T09:47:23.575Z"
-  },
-  {
-    "id": "digest-2026-07-28",
-    "date": "2026-07-28",
-    "title": "Crypto Market Recap — July 28, 2026",
-    "summary": "Bitcoin is trading at $63,494, down 0.3% over the last 24 hours. Ethereum is trading at $1,882, down 0.5% over the last 24 hours. Solana is trading at $73.37, down 1.0% over the last 24 hours. Looking ahead, traders are watching FOMC Meeting (July, Day 1 of 2) on July 28. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 63494.49,
-        "change": -0.31
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 1881.7,
-        "change": -0.47
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 73.37,
-        "change": -1.03
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Lido upgrade aims to slash Ethereum’s validator count by one-third",
-        "link": "https://cointelegraph.com/news/lido-upgrade-ethereum-validator-count-one-third-slash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Ondo shifts from layer-1 blockchain plan to offchain execution network",
-        "link": "https://cointelegraph.com/news/ondo-shifts-from-layer-1-blockchain-plan-to-offchain-execution-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Apple faces lawsuit over alleged $1.8M Bitcoin wallet app losses",
-        "link": "https://cointelegraph.com/news/apple-lawsuit-alleged-1-8-million-loss-fake-bitcoin-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Binance co-founder CZ backs crypto license passporting across ASEAN",
-        "link": "https://cointelegraph.com/news/binance-co-founder-cz-backs-crypto-license-passporting-across-asean?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "US judge temporarily blocks Minnesota prediction market ban",
-        "link": "https://cointelegraph.com/news/us-judge-blocks-minnesota-prediction-market-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Zimbabwe admits 7 fintech projects to regulatory sandbox",
-        "link": "https://cointelegraph.com/news/zimbabwe-seven-fintech-projects-regulatory-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Hong Kong prepares banks for quantum threats amid tokenization push",
-        "link": "https://cointelegraph.com/news/hong-kong-banks-quantum-threats-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Binance phishes its own staff monthly, India censors BitChat code: Asia Express",
-        "link": "https://cointelegraph.com/magazine/india-bans-bitchat-binance-phishs-its-own-staff-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [
-      {
-        "date": "2026-07-28",
-        "title": "FOMC Meeting (July, Day 1 of 2)",
-        "impact": "High",
-        "note": "Rate decision July 29, 2pm ET."
-      }
-    ],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-07-28T09:45:00.237Z"
   }
 ]
