@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-08-28",
+    "date": "2026-08-28",
+    "title": "Crypto Market Recap — August 28, 2026",
+    "summary": "Bitcoin is trading at $77,701, down 3.2% over the last 24 hours. Ethereum is trading at $2,435, down 3.1% over the last 24 hours. Solana is trading at $103.17, down 5.5% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 77701.04,
+        "change": -3.21
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2434.98,
+        "change": -3.05
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 103.17,
+        "change": -5.5
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs",
+        "link": "https://cointelegraph.com/news/chelsea-football-circle-sponsor-fca-warning-questionable-deals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bullish provides USD.AI $100M stablecoin facility for GPU-backed lending",
+        "link": "https://cointelegraph.com/news/bullish-provides-usdai-100m-stablecoin-facility-gpu-backed-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin dips to $78.4K as Fed’s Warsh downplays softer inflation prints",
+        "link": "https://cointelegraph.com/markets/bitcoin-dips-fed-warsh-dismisses-recent-low-inflation-prints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Crypto Biz: Bitcoin pumps, Wall Street does the paperwork",
+        "link": "https://cointelegraph.com/news/crypto-biz-bitcoin-rally-crypto-stocks-circle-strategy-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Who is legally liable when an AI agent goes rogue?",
+        "link": "https://cointelegraph.com/magazine/who-is-legally-liable-when-an-ai-agent-goes-rogue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Polish Olympic chief charged in Zondacrypto probe, justice minister says",
+        "link": "https://cointelegraph.com/news/polish-olympic-chief-charged-zondacrypto-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "California Senate passes bill to ban memecoin issuance by public officials",
+        "link": "https://cointelegraph.com/news/california-bill-ban-memecoin-issuance-public-officials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-08-28T19:24:50.135Z"
+  },
+  {
     "id": "digest-2026-08-27",
     "date": "2026-08-27",
     "title": "Crypto Market Recap — August 27, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-07-30T09:38:51.445Z"
-  },
-  {
-    "id": "digest-2026-07-29",
-    "date": "2026-07-29",
-    "title": "Crypto Market Recap — July 29, 2026",
-    "summary": "Bitcoin is trading at $64,555, up 1.1% over the last 24 hours. Ethereum is trading at $1,919, down 0.1% over the last 24 hours. Solana is trading at $74.03, up 0.4% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 64555.29,
-        "change": 1.11
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 1918.76,
-        "change": -0.06
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 74.03,
-        "change": 0.41
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Hungary repeals crypto checks as first MiCA license is granted",
-        "link": "https://cointelegraph.com/news/hungary-repeals-crypto-checks-first-mica-license-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Trump teleprompter operator accused over Kalshi bets leaves government: AP",
-        "link": "https://cointelegraph.com/news/trump-teleprompter-kalshi-bets-government-ap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin ETFs extend outflow streak as BTC fails to hold $65K",
-        "link": "https://cointelegraph.com/markets/bitcoin-etf-extend-outflow-streak-btc-slips-below-65k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "UK policy sprint finds cross-border payments are stablecoins’ top use case",
-        "link": "https://cointelegraph.com/news/uk-policy-cross-border-payments-stablecoins-use-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Telegram founder Pavel Durov internationally wanted, Russia’s FSB says",
-        "link": "https://cointelegraph.com/news/telegram-founder-wanted-internationally-russia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Trade.xyz to cover SK Hynix perp liquidation losses tied to price anomaly",
-        "link": "https://cointelegraph.com/news/trade-xyz-sk-hynix-perp-liquidations-price-anomaly?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Uniswap founder rejects claims v4 fees reduce LP earnings",
-        "link": "https://cointelegraph.com/news/uniswap-founder-rejects-v4-fees-reduce-lp-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "South Korea plans stablecoin rules as opposition pushes crypto tax repeal",
-        "link": "https://cointelegraph.com/news/south-korea-consolidated-crypto-law-tax-repeal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-07-29T09:47:23.575Z"
   }
 ]
