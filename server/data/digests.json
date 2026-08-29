@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-08-29",
+    "date": "2026-08-29",
+    "title": "Crypto Market Recap — August 29, 2026",
+    "summary": "Bitcoin is trading at $77,567, down 0.3% over the last 24 hours. Ethereum is trading at $2,434, down 0.4% over the last 24 hours. Solana is trading at $103.65, down 0.5% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 77567.27,
+        "change": -0.35
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2434.12,
+        "change": -0.35
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 103.65,
+        "change": -0.48
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Trump-promoted brand touts GOLD before token collapse",
+        "link": "https://cointelegraph.com/news/trump-linked-account-list-gold-token-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Stablecoins not credible for payments at scale, BIS chief says",
+        "link": "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K",
+        "link": "https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Solana validators approve proposal to accelerate SOL disinflation",
+        "link": "https://cointelegraph.com/news/solana-validators-approve-proposal-to-accelerate-sol-disinflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs",
+        "link": "https://cointelegraph.com/news/chelsea-football-circle-sponsor-fca-warning-questionable-deals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bullish provides USD.AI $100M stablecoin facility for GPU-backed lending",
+        "link": "https://cointelegraph.com/news/bullish-provides-usdai-100m-stablecoin-facility-gpu-backed-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin dips to $78.4K as Fed’s Warsh downplays softer inflation prints",
+        "link": "https://cointelegraph.com/markets/bitcoin-dips-fed-warsh-dismisses-recent-low-inflation-prints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-08-29T13:08:38.976Z"
+  },
+  {
     "id": "digest-2026-08-28",
     "date": "2026-08-28",
     "title": "Crypto Market Recap — August 28, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-07-31T09:51:03.769Z"
-  },
-  {
-    "id": "digest-2026-07-30",
-    "date": "2026-07-30",
-    "title": "Crypto Market Recap — July 30, 2026",
-    "summary": "Bitcoin is trading at $64,500, up 0.9% over the last 24 hours. Ethereum is trading at $1,919, up 0.5% over the last 24 hours. Solana is trading at $74, up 0.5% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 64499.99,
-        "change": 0.95
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 1918.64,
-        "change": 0.53
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 74,
-        "change": 0.54
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Australia sues Telegram over alleged failures to remove terror content",
-        "link": "https://cointelegraph.com/news/australia-telegram-alleged-failures-terror-content?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Chinese newspaper warns of Bitcoin extortion scam using its name",
-        "link": "https://cointelegraph.com/news/chinese-newspaper-bitcoin-extortion-scam-name?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin ETF inflows return as Ether funds slip into outflows",
-        "link": "https://cointelegraph.com/markets/bitcoin-etf-inflows-return-ether-funds-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "South Korea report proposes stablecoin rules before crypto law",
-        "link": "https://cointelegraph.com/news/south-korea-report-stablecoin-rules-crypto-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "US sanctions Iranian maritime firm, says it accepted Bitcoin to evade restrictions",
-        "link": "https://cointelegraph.com/news/us-sanctions-iran-hormuzsafe-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Luno cuts 20% of staff as crypto layoffs spread across 12 firms in July",
-        "link": "https://cointelegraph.com/news/luno-cuts-staff-crypto-layoffs-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Japanese game developer launches Bitcoin, altcoin fund with SBI",
-        "link": "https://cointelegraph.com/news/japanese-game-developer-bitcoin-altcoin-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Ethereum Foundation adds SEAL 911 co-founder to board as privacy focus grows",
-        "link": "https://cointelegraph.com/news/ethereum-foundation-seal-911-pascal-caversaccio-board?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-07-30T09:38:51.445Z"
   }
 ]
