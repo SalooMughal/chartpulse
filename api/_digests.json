@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-08-31",
+    "date": "2026-08-31",
+    "title": "Crypto Market Recap — August 31, 2026",
+    "summary": "Bitcoin is trading at $78,594, up 1.2% over the last 24 hours. Ethereum is trading at $2,468, up 2.1% over the last 24 hours. Solana is trading at $103.56, up 1.8% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 78594.33,
+        "change": 1.2
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2468.1,
+        "change": 2.12
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 103.56,
+        "change": 1.78
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Russian crypto trading to bring $46B to regulated exchanges in first year after legalization: Report",
+        "link": "https://cointelegraph.com/news/russian-crypto-trading-bring-46b-regulated-exchanges-legalization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Mystery surrounds why an OG burned $1M in Bitcoin",
+        "link": "https://cointelegraph.com/magazine/mystery-surrounds-why-an-og-burned-1m-in-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Japanese regulator requests tax filing exemption for trust-type stablecoins in 2027 reform",
+        "link": "https://cointelegraph.com/news/japanese-regulator-tax-exemption-trust-type-stablecoins-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Metaplanet moves 4,800 BTC worth $377M to Coinbase",
+        "link": "https://cointelegraph.com/news/mutiny-metaplanet-moves-4800-btc-worth-377m-to-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Strategy buys $370M Bitcoin in first corporate purchase since June",
+        "link": "https://cointelegraph.com/news/strategy-buys-370m-bitcoin-first-acquisition-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Hyperliquid, Pump.fun account for nearly 90% of record $638M crypto buybacks: FT",
+        "link": "https://cointelegraph.com/news/hyperliquid-pumpfun-90-record-638m-crypto-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Markets pivot to September Fed rate hike: Five things to know in Bitcoin this week",
+        "link": "https://cointelegraph.com/markets/markets-pivot-to-september-fed-rate-hike-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "More Markets lending reserve drained for $9.3M: Blockaid",
+        "link": "https://cointelegraph.com/news/more-markets-lending-reserve-drained-93m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-08-31T15:03:20.739Z"
+  },
+  {
     "id": "digest-2026-08-30",
     "date": "2026-08-30",
     "title": "Crypto Market Recap — August 30, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-08-02T09:18:49.291Z"
-  },
-  {
-    "id": "digest-2026-08-01",
-    "date": "2026-08-01",
-    "title": "Crypto Market Recap — August 1, 2026",
-    "summary": "Bitcoin is trading at $63,057, up 0.4% over the last 24 hours. Ethereum is trading at $1,868, up 0.4% over the last 24 hours. Solana is trading at $72.9, up 0.2% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 63056.87,
-        "change": 0.37
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 1868.26,
-        "change": 0.41
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 72.9,
-        "change": 0.15
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Bitcoin ETFs end July in the green despite late-month selling",
-        "link": "https://cointelegraph.com/markets/bitcoin-etfs-july-green-despite-late-month-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bank of Italy finds no consistent cost advantage for stablecoin remittances",
-        "link": "https://cointelegraph.com/news/bank-of-italy-study-no-stablecoin-remittance-cost-advantages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Pump.fun laid off workers before they received millions in PUMP tokens: Report",
-        "link": "https://cointelegraph.com/news/pump-fun-employees-fired-tokens-vest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Ex-FTX users report funds being released in $900M distribution round",
-        "link": "https://cointelegraph.com/news/ftx-users-funds-released-fifth-distribution-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Tether earns $1.5B in Q2 as US Treasury holdings fuel profits",
-        "link": "https://cointelegraph.com/news/tether-q2-profit-us-treasury-holdings-usdt-supply?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bybit adds tokenized Nvidia, Apple, Tesla stocks as loan collateral",
-        "link": "https://cointelegraph.com/news/bybit-tokenized-stocks-collateral-margin-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "US Treasury yields rise as TIPS challenge the inflation narrative",
-        "link": "https://cointelegraph.com/markets/us-treasury-yields-rise-as-tips-challenge-the-inflation-narrative?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-08-01T09:18:14.093Z"
   }
 ]
