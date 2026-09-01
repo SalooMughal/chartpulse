@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-09-01",
+    "date": "2026-09-01",
+    "title": "Crypto Market Recap — September 1, 2026",
+    "summary": "Bitcoin is trading at $77,957, down 0.8% over the last 24 hours. Ethereum is trading at $2,451, down 0.7% over the last 24 hours. Solana is trading at $102.28, down 0.7% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 77957.46,
+        "change": -0.77
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2451.1,
+        "change": -0.66
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 102.28,
+        "change": -0.74
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Lazarus Group-linked addresses move $30M through Hyperliquid",
+        "link": "https://cointelegraph.com/news/lazarus-group-move-30m-hyperliquid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "London Stock Exchange partners with Kraken parent for tokenized UK stocks: FT",
+        "link": "https://cointelegraph.com/news/london-stock-exchange-partners-kraken-for-tokenized-uk-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitfinex Securities lists tokenized notes tied to Strategy, Metaplanet",
+        "link": "https://cointelegraph.com/news/bitfinex-tokenized-strategy-metaplanet-notes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Singapore weighs recognizing some foreign-issued stablecoins",
+        "link": "https://cointelegraph.com/news/singapore-weighs-foreign-regulated-stablecoins-mas-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Trump Jr.-linked 1789 Capital leads Polymarket’s $1B raise: Report",
+        "link": "https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "BlackRock drives $217M Bitcoin ETF rebound as altcoin funds continue streaks",
+        "link": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-inflow-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Thailand SEC proposes retail access to regulated overseas crypto derivatives",
+        "link": "https://cointelegraph.com/news/thailand-sec-retail-overseas-crypto-derivatives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-09-01T12:32:19.431Z"
+  },
+  {
     "id": "digest-2026-08-31",
     "date": "2026-08-31",
     "title": "Crypto Market Recap — August 31, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-08-03T10:50:39.977Z"
-  },
-  {
-    "id": "digest-2026-08-02",
-    "date": "2026-08-02",
-    "title": "Crypto Market Recap — August 2, 2026",
-    "summary": "Bitcoin is trading at $63,198, up 0.7% over the last 24 hours. Ethereum is trading at $1,868, up 1.4% over the last 24 hours. Solana is trading at $73.25, up 1.9% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 63198.15,
-        "change": 0.69
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 1868.45,
-        "change": 1.37
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 73.25,
-        "change": 1.91
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Coldcard hack sparks biggest sub-1 BTC move since FTX: CryptoQuant",
-        "link": "https://cointelegraph.com/news/coldcard-biggest-sub-1-btc-transfer-ftx-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Onchain, in court: What happened in crypto legal news this week",
-        "link": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Minnesota crypto ATM ban goes into effect after reported $1M losses",
-        "link": "https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Crypto PAC pours another $1M into Michigan House race",
-        "link": "https://cointelegraph.com/news/crypto-pac-michigan-thanedar-mckinney?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Russia expands crypto mining ban to Moscow through 2032",
-        "link": "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis",
-        "link": "https://cointelegraph.com/news/coldcard-bitcoin-loss-estimate-70-million-galaxy-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin ETFs end July in the green despite late-month selling",
-        "link": "https://cointelegraph.com/markets/bitcoin-etfs-july-green-despite-late-month-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bank of Italy finds no consistent cost advantage for stablecoin remittances",
-        "link": "https://cointelegraph.com/news/bank-of-italy-study-no-stablecoin-remittance-cost-advantages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-08-02T09:18:49.291Z"
   }
 ]
