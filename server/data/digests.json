@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-09-03",
+    "date": "2026-09-03",
+    "title": "Crypto Market Recap — September 3, 2026",
+    "summary": "Bitcoin is trading at $77,895, up 0.8% over the last 24 hours. Ethereum is trading at $2,405, up 0.6% over the last 24 hours. Solana is trading at $100.77, up 0.4% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 77894.96,
+        "change": 0.76
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2404.54,
+        "change": 0.57
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 100.77,
+        "change": 0.37
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Pencil Finance completes $1M onchain lending cycle for 6.6K students in Southeast Asia",
+        "link": "https://cointelegraph.com/news/pencil-finance-1m-onchain-lending-cycle-students?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Standard Chartered launches spot Bitcoin and Ether trading in UAE",
+        "link": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Coldcard hacker swaps stolen Bitcoin for ETH via THORChain",
+        "link": "https://cointelegraph.com/news/coldcard-hacker-swaps-stolen-bitcoin-eth-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Kalshi seeks CFTC approval for WTI crude perpetual futures: Report",
+        "link": "https://cointelegraph.com/news/kalshi-cftc-greenlight-regulated-wti-oil-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Australia warns unlicensed crypto firms of fines up to 10% of annual turnover",
+        "link": "https://cointelegraph.com/news/australia-warns-unlicensed-crypto-firms-of-fines-up-to-10-of-annual-turnover?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Ether, XRP ETF inflow streaks end as Bitcoin funds rebound",
+        "link": "https://cointelegraph.com/markets/eth-xrp-etf-inflow-streaks-end-bitcoin-funds-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Hyperscale Data ends Michigan BTC mining as holdings fall 79%",
+        "link": "https://cointelegraph.com/news/hyperscale-data-ends-michigan-bitcoin-mining-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-09-03T12:04:36.695Z"
+  },
+  {
     "id": "digest-2026-09-02",
     "date": "2026-09-02",
     "title": "Crypto Market Recap — September 2, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-08-05T09:46:13.419Z"
-  },
-  {
-    "id": "digest-2026-08-04",
-    "date": "2026-08-04",
-    "title": "Crypto Market Recap — August 4, 2026",
-    "summary": "Bitcoin is trading at $63,492, up 0.0% over the last 24 hours. Ethereum is trading at $1,854, down 0.3% over the last 24 hours. Solana is trading at $73.16, down 0.4% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 63492.47,
-        "change": 0.04
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 1854.05,
-        "change": -0.26
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 73.16,
-        "change": -0.45
-      }
-    ],
-    "headlines": [
-      {
-        "title": "US yen intervention puts Bitcoin, risk assets on notice for liquidity flux",
-        "link": "https://cointelegraph.com/markets/us-yen-intervention-puts-bitcoin-risk-assets-on-notice-for-liquidity-flux?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Apple briefly removes Telegram from App Store, Gram rebounds",
-        "link": "https://cointelegraph.com/news/apple-telegram-app-store-gram-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "NY judge denies CFTC motion to halt enforcement action against Kalshi",
-        "link": "https://cointelegraph.com/news/ny-judge-denies-cftc-motion-enforcement-kalshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Nigeria sets crypto tax collection rules for digital asset platforms",
-        "link": "https://cointelegraph.com/news/nigeria-crypto-tax-rules-digital-asset-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Crypto firms still seeking frontier AI access; only select few have it",
-        "link": "https://cointelegraph.com/news/few-crypto-firms-have-access-to-frontier-ai-as-cyber-threats-escalate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Coldcard Bitcoin theft tops $100M across 3 confirmed attack waves: Galaxy",
-        "link": "https://cointelegraph.com/news/coldcard-bitcoin-theft-100-million-three-waves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitmine adds $19.6M in ETH, repurchases 4.5M shares",
-        "link": "https://cointelegraph.com/news/bitmine-buys-10399-eth-repurchases-4-5-million-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-08-04T09:48:18.752Z"
   }
 ]
