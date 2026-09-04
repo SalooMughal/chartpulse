@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-09-04",
+    "date": "2026-09-04",
+    "title": "Crypto Market Recap — September 4, 2026",
+    "summary": "Bitcoin is trading at $81,173, down 0.1% over the last 24 hours. Ethereum is trading at $2,524, up 0.7% over the last 24 hours. Solana is trading at $104.03, up 0.1% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 81172.74,
+        "change": -0.11
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2524.32,
+        "change": 0.67
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 104.03,
+        "change": 0.09
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Kalshi US visits soar 1,500% as regulatory pressure mounts",
+        "link": "https://cointelegraph.com/news/kalshi-traffic-soars-regulatory-pressure-mounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Trezor says data breach affects another 67K US customers",
+        "link": "https://cointelegraph.com/news/trezor-data-breach-affects-67k-us-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "South Korean regulators introduce tokenized securities roadmap",
+        "link": "https://cointelegraph.com/news/south-korean-regulators-tokenized-securities-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "AMC chief criticizes Robinhood’s tokenized stock plan",
+        "link": "https://cointelegraph.com/news/amc-ceo-criticizes-robinhoods-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin ETF inflows hit $731M, highest since January as BTC reclaims $80K",
+        "link": "https://cointelegraph.com/markets/bitcoin-etf-draw-731-million-highest-january-btc-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "El Salvador’s post-review Bitcoin accumulation used no public funds: IMF",
+        "link": "https://cointelegraph.com/news/el-salvador-bitcoin-private-donations-imf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "US, UK launch joint alliance targeting crypto scam centers",
+        "link": "https://cointelegraph.com/news/us-uk-joint-alliance-crypto-scam-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-09-04T12:06:12.794Z"
+  },
+  {
     "id": "digest-2026-09-03",
     "date": "2026-09-03",
     "title": "Crypto Market Recap — September 3, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-08-06T09:48:56.958Z"
-  },
-  {
-    "id": "digest-2026-08-05",
-    "date": "2026-08-05",
-    "title": "Crypto Market Recap — August 5, 2026",
-    "summary": "Bitcoin is trading at $64,106, up 0.1% over the last 24 hours. Ethereum is trading at $1,871, up 0.2% over the last 24 hours. Solana is trading at $74.07, up 0.5% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 64106.02,
-        "change": 0.09
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 1871.47,
-        "change": 0.16
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 74.07,
-        "change": 0.5
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Bitcoin price-metric basket sees longest capitulation since FTX blow-up: Glassnode",
-        "link": "https://cointelegraph.com/markets/bitcoin-price-metric-basket-sees-longest-capitulation-since-ftx-blow-up-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "BlackRock brings tokenized money market funds to Europe via JPMorgan",
-        "link": "https://cointelegraph.com/news/blackrock-jpmorgan-tokenized-money-market-funds-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Proof of Play to shut down after blockchain gaming thesis falls short",
-        "link": "https://cointelegraph.com/news/proof-of-play-shut-blockchain-gaming-thesis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Forgd brings its crypto market-maker leaderboard to DefiLlama",
-        "link": "https://cointelegraph.com/news/forgd-market-maker-leaderboard-defillama?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Boerse Stuttgart Digital, Tradias close European crypto merger",
-        "link": "https://cointelegraph.com/news/boerse-stuttgart-digital-tradias-european-crypto-merger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "MiCA list expands with 12 companies in fourth post-deadline update",
-        "link": "https://cointelegraph.com/news/mica-register-casps-fourth-post-deadline-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Taiwan plans Travel Rule for domestic crypto transfers from October",
-        "link": "https://cointelegraph.com/news/taiwan-crypto-travel-rule-domestic-vasp-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Missouri trio charged over alleged Bitcoin kidnapping plot",
-        "link": "https://cointelegraph.com/news/three-missouri-men-charged-bitcoin-kidnapping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-08-05T09:46:13.419Z"
   }
 ]
