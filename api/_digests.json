@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-09-06",
+    "date": "2026-09-06",
+    "title": "Crypto Market Recap — September 6, 2026",
+    "summary": "Bitcoin is trading at $79,909, up 0.1% over the last 24 hours. Ethereum is trading at $2,502, up 0.9% over the last 24 hours. Solana is trading at $106.63, up 3.3% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 79909.33,
+        "change": 0.1
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2501.84,
+        "change": 0.86
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 106.63,
+        "change": 3.34
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Tether-backed Orionx to shut down after audit flags $7M custody gap",
+        "link": "https://cointelegraph.com/news/orionx-shut-down-7-million-move-outside-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
+        "link": "https://cointelegraph.com/news/poland-upholds-crypto-bill-veto-zondacrypto-scandal-widens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin ETF inflows hit $3.8B in strongest three-week stretch of 2026",
+        "link": "https://cointelegraph.com/markets/bitcoin-etf-inflows-3-8-billion-strongest-three-week-run-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Surprise nonfarm payrolls print sends Bitcoin back below 80K",
+        "link": "https://cointelegraph.com/markets/surprise-labor-market-print-sends-bitcoin-back-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Pineapple Financial puts $1B in mortgage records on Injective",
+        "link": "https://cointelegraph.com/news/pineapple-financial-puts-1b-in-mortgage-records-on-injective?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "FinCEN ties $13B in crypto scams to non-US operations",
+        "link": "https://cointelegraph.com/news/fincen-crypto-overseas-scam-centers-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Crypto Biz: AI took a back seat when Bitcoin started climbing",
+        "link": "https://cointelegraph.com/news/crypto-biz-bitcoin-miners-strategy-strive-bitmine-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-09-06T11:38:00.472Z"
+  },
+  {
     "id": "digest-2026-09-05",
     "date": "2026-09-05",
     "title": "Crypto Market Recap — September 5, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-08-08T07:57:06.793Z"
-  },
-  {
-    "id": "digest-2026-08-07",
-    "date": "2026-08-07",
-    "title": "Crypto Market Recap — August 7, 2026",
-    "summary": "Bitcoin is trading at $64,359, up 0.1% over the last 24 hours. Ethereum is trading at $1,904, up 0.1% over the last 24 hours. Solana is trading at $72.93, up 0.4% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 64358.98,
-        "change": 0.14
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 1903.7,
-        "change": 0.07
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 72.93,
-        "change": 0.41
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Coldcard exploit pushes July losses to $247M as second-worst month of 2026",
-        "link": "https://cointelegraph.com/news/coldcard-exploit-july-second-worst-month-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Japan FSA asks crypto exchanges to impose withdrawal delays to fight scams",
-        "link": "https://cointelegraph.com/news/japan-fsa-crypto-exchanges-withdrawal-delays-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Proposed CLARITY ethics deal could save Trump millions in taxes: Bloomberg",
-        "link": "https://cointelegraph.com/news/proposed-clarity-ethics-deal-could-save-trump-millions-in-taxes-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitget explores licensed crypto presence in Bhutan",
-        "link": "https://cointelegraph.com/news/bitget-explores-licensed-crypto-presence-in-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "US Senate pushes CLARITY Act vote to September",
-        "link": "https://cointelegraph.com/news/us-senate-pushes-clarity-act-vote-to-september-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "MARA swings to Q2 loss as Bitcoin’s slump masks higher output",
-        "link": "https://cointelegraph.com/markets/mara-swings-to-q2-loss-as-bitcoins-slump-masks-higher-output?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Crypto market maker Wintermute launches US broker-dealer",
-        "link": "https://cointelegraph.com/news/crypto-market-maker-wintermute-launches-us-broker-dealer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Following primary loss, crypto PACs invest $1.5M in 3 US state races",
-        "link": "https://cointelegraph.com/news/crypto-pac-florida-alaska-wyoming-primary-races?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-08-07T08:19:50.535Z"
   }
 ]
