@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-09-07",
+    "date": "2026-09-07",
+    "title": "Crypto Market Recap — September 7, 2026",
+    "summary": "Bitcoin is trading at $79,620, down 0.9% over the last 24 hours. Ethereum is trading at $2,509, down 0.2% over the last 24 hours. Solana is trading at $105.71, down 0.8% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 79619.98,
+        "change": -0.9
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2508.56,
+        "change": -0.23
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 105.71,
+        "change": -0.8
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Zcash hits highest price since 2016 as market cap tops $20B",
+        "link": "https://cointelegraph.com/markets/zcash-highest-price-market-cap-20-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Yen intervention meets US inflation data: Five things to know in Bitcoin this week",
+        "link": "https://cointelegraph.com/markets/markets-tilt-toward-september-rate-hikes-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Citi, DBS complete first weekend tokenized cross-border deposit on Swift",
+        "link": "https://cointelegraph.com/news/dbs-citi-first-weekend-tokenized-deposit-swift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Philippines eyes payment operator registration freeze, tighter VASP checks",
+        "link": "https://cointelegraph.com/news/philippines-payment-operator-freeze-vasp-checks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Coldcard third-wave attacker moves 45% of stolen Bitcoin",
+        "link": "https://cointelegraph.com/news/coldcard-third-wave-attacker-moves-bitcoin-stolen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Fomo overtakes Pump.fun in daily revenue on Solana",
+        "link": "https://cointelegraph.com/news/fomo-pumpfun-revenue-app-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin sidechain Liquid pauses after purported ‘white hats’ withdraw $320M in BTC",
+        "link": "https://cointelegraph.com/news/liquid-network-pauses-320m-bitcoin-withdrawal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-09-07T13:28:48.531Z"
+  },
+  {
     "id": "digest-2026-09-06",
     "date": "2026-09-06",
     "title": "Crypto Market Recap — September 6, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-08-09T07:58:38.369Z"
-  },
-  {
-    "id": "digest-2026-08-08",
-    "date": "2026-08-08",
-    "title": "Crypto Market Recap — August 8, 2026",
-    "summary": "Bitcoin is trading at $64,931, up 0.1% over the last 24 hours. Ethereum is trading at $1,914, up 0.1% over the last 24 hours. Solana is trading at $74.69, up 1.4% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 64930.77,
-        "change": 0.06
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 1914.24,
-        "change": 0.06
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 74.69,
-        "change": 1.44
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Domestic stablecoins could boost demand for dollar-backed tokens: IMF",
-        "link": "https://cointelegraph.com/news/imf-domestic-stablecoins-dollar-token-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "US court backs Bybit’s bid to trace funds from $1.5B North Korea hack",
-        "link": "https://cointelegraph.com/news/bybit-us-court-trace-funds-north-korea-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Donald Trump’s media company to terminate Crypto.com deal",
-        "link": "https://cointelegraph.com/news/donald-trump-media-company-crypto-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "US Treasury’s OFAC sanctions 2 Iran-linked crypto exchanges",
-        "link": "https://cointelegraph.com/news/us-treasury-sanctions-iran-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Circle expands USDC to OKX ecosystem with X Layer launch",
-        "link": "https://cointelegraph.com/news/circle-native-usdc-okx-x-layer-cctp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Reform UK chair calls for probe into SBF-linked donation: Report",
-        "link": "https://cointelegraph.com/news/reform-uk-probe-ftx-sam-bankman-fried-donation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin price tags $65.3K August high as low US jobs numbers cool Fed rate bets",
-        "link": "https://cointelegraph.com/markets/bitcoin-price-tags-653k-august-high-as-low-us-jobs-numbers-cool-fed-rate-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-08-08T07:57:06.793Z"
   }
 ]
