@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-09-10",
+    "date": "2026-09-10",
+    "title": "Crypto Market Recap — September 10, 2026",
+    "summary": "Bitcoin is trading at $77,704, down 0.7% over the last 24 hours. Ethereum is trading at $2,457, down 0.4% over the last 24 hours. Solana is trading at $100.98, down 0.6% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 77704.16,
+        "change": -0.74
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2456.54,
+        "change": -0.44
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 100.98,
+        "change": -0.55
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Ex-BoE deputy governor headlines trio of former central bankers joining Fnality",
+        "link": "https://cointelegraph.com/news/ex-boe-cunliffe-central-bankers-fnality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Nasdaq invests $100M in Kraken parent at $21B valuation: Report",
+        "link": "https://cointelegraph.com/news/nasdaq-invests-100m-kraken-parent-21b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Treasury Secretary Bessent urges CLARITY Act passage after Senate returns",
+        "link": "https://cointelegraph.com/news/treasury-secretary-bessent-urges-clarity-act-passage-senate-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Hunter Biden denies profiting from memecoin after his LAPTOP crashes",
+        "link": "https://cointelegraph.com/news/hunter-biden-denies-profiting-memecoin-laptop-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin ETFs shed $167M after strongest three-week inflow run of 2026",
+        "link": "https://cointelegraph.com/markets/bitcoin-etfs-shed-167m-after-strongest-three-week-inflow-run-of-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin sell-side risk returns to rare lows as $80K sellers fade from view",
+        "link": "https://cointelegraph.com/markets/bitcoin-sell-side-risk-returns-rare-lows-fade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "India’s Arya.ag to put grain ownership records on Avalanche",
+        "link": "https://cointelegraph.com/news/arya-ag-tests-tokenized-grain-receipts-avalanche?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Unicoin sues Uniswap Labs, seeks to cancel UNI registration",
+        "link": "https://cointelegraph.com/news/unicoin-sues-uniswap-court-cancel-uni-trademark?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-09-10T12:12:23.396Z"
+  },
+  {
     "id": "digest-2026-09-09",
     "date": "2026-09-09",
     "title": "Crypto Market Recap — September 9, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-08-12T08:37:45.861Z"
-  },
-  {
-    "id": "digest-2026-08-11",
-    "date": "2026-08-11",
-    "title": "Crypto Market Recap — August 11, 2026",
-    "summary": "Bitcoin is trading at $64,004, up 0.1% over the last 24 hours. Ethereum is trading at $1,875, up 0.2% over the last 24 hours. Solana is trading at $75.63, down 0.4% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 64004.19,
-        "change": 0.14
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 1875.11,
-        "change": 0.2
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 75.63,
-        "change": -0.38
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Anthropic strikes $9B compute deal with Bitcoin miner Riot: Report",
-        "link": "https://cointelegraph.com/news/anthropic-9b-deal-bitcoin-miner-riot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "South Korea drops Travel Rule threshold for crypto transfers",
-        "link": "https://cointelegraph.com/news/south-korea-travel-rule-threshold-crypto-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Payments platform Decta explores stablecoin-enabled treasury settlement",
-        "link": "https://cointelegraph.com/news/payments-platform-decta-explores-stablecoin-enabled-treasury-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Luke Dashjr removed as Bitcoin Improvement Proposal editor",
-        "link": "https://cointelegraph.com/news/luke-dashjr-removed-as-bitcoin-proposal-editor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "White House vows to get CLARITY across ‘finish line’ in September",
-        "link": "https://cointelegraph.com/news/white-house-clarity-across-finish-line-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Trump Media to revamp crypto treasury strategy after $238M Q2 loss",
-        "link": "https://cointelegraph.com/news/trump-media-crypto-treasury-strategy-after-238m-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Thailand’s 0% crypto tax. Bitcoin Red Team forced to use Chinese AI: Asia Express",
-        "link": "https://cointelegraph.com/magazine/thailands-0-crypto-tax-bitcoin-red-team-forced-to-use-chinese-ai-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-08-11T08:14:04.106Z"
   }
 ]
