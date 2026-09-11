@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-09-11",
+    "date": "2026-09-11",
+    "title": "Crypto Market Recap — September 11, 2026",
+    "summary": "Bitcoin is trading at $76,882, up 0.5% over the last 24 hours. Ethereum is trading at $2,452, up 0.6% over the last 24 hours. Solana is trading at $99.38, up 0.8% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 76881.82,
+        "change": 0.45
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2451.99,
+        "change": 0.6
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 99.38,
+        "change": 0.77
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Robinhood’s crypto volume increases 61% in August, still down 38% YoY",
+        "link": "https://cointelegraph.com/news/robinhoods-crypto-volume-rebounds-august?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "UniCredit seeks infrastructure partner for crypto trading, custody: Report",
+        "link": "https://cointelegraph.com/news/unicredit-infrastructure-partners-crypto-trading-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin buyers wary of July sub-$58K floor amid onchain data ‘anomaly’",
+        "link": "https://cointelegraph.com/markets/bitcoin-buyers-wary-of-july-sub-58k-floor-amid-onchain-data-anomaly?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Standard Chartered forecasts SKY rising fivefold to $0.325 by 2028",
+        "link": "https://cointelegraph.com/news/sky-value-token-holders-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "India launches tokenized bond pilot with $107M issued",
+        "link": "https://cointelegraph.com/news/india-launches-tokenized-bond-pilot-with-107m-issued?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Anthropic says Claude used for cyberattacks and surveillance",
+        "link": "https://cointelegraph.com/news/claude-ai-cyberattacks-surveillance-weapons-anthropic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Blockstream rejects ransom as Liquid hackers hold nearly 600 BTC",
+        "link": "https://cointelegraph.com/news/blockstream-rejects-ransom-liquid-hackers-return-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitwise to put down Dogecoin ETF less than a year after launch",
+        "link": "https://cointelegraph.com/news/bitwise-put-down-dogecoin-etf-year-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-09-11T12:10:58.512Z"
+  },
+  {
     "id": "digest-2026-09-10",
     "date": "2026-09-10",
     "title": "Crypto Market Recap — September 10, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-08-13T08:41:52.385Z"
-  },
-  {
-    "id": "digest-2026-08-12",
-    "date": "2026-08-12",
-    "title": "Crypto Market Recap — August 12, 2026",
-    "summary": "Bitcoin is trading at $63,707, up 0.3% over the last 24 hours. Ethereum is trading at $1,890, up 0.5% over the last 24 hours. Solana is trading at $76.27, up 0.1% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 63706.87,
-        "change": 0.28
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 1890.15,
-        "change": 0.5
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 76.27,
-        "change": 0.07
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Inside the fake crypto startup that fooled North Korean IT workers",
-        "link": "https://cointelegraph.com/magazine/fake-crypto-startup-fooled-north-korean-it-workers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Harmony considers rollback after suspected exploit inflates ONE supply",
-        "link": "https://cointelegraph.com/news/armony-rollback-alleged-one-token-mint?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "CFTC invokes emergency powers to keep Kalshi operating in New York fight",
-        "link": "https://cointelegraph.com/news/cftc-kalshi-emergency-order-new-york-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Ravencoin hits record low as network exploit puts transactions at risk",
-        "link": "https://cointelegraph.com/markets/ravencoin-rvn-record-low-consensus-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "SEC, CFTC sue Goliath Ventures over $400M crypto Ponzi scheme",
-        "link": "https://cointelegraph.com/news/sec-cftc-sue-goliath-ventures-400m-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "SEC to address crypto regulations in absence of CLARITY passage",
-        "link": "https://cointelegraph.com/news/sec-crypto-regulations-absence-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Itaú joins Brazil tokenization pilot with OpenAssets",
-        "link": "https://cointelegraph.com/news/ita-joins-brazil-tokenization-pilot-with-openassets-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "MoneyGram expands crypto cash ramps to Solana",
-        "link": "https://cointelegraph.com/news/moneygram-expands-crypto-cash-ramps-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-08-12T08:37:45.861Z"
   }
 ]
