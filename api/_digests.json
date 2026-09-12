@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-09-12",
+    "date": "2026-09-12",
+    "title": "Crypto Market Recap — September 12, 2026",
+    "summary": "Bitcoin is trading at $77,275, up 0.1% over the last 24 hours. Ethereum is trading at $2,534, up 0.7% over the last 24 hours. Solana is trading at $102.01, down 0.4% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 77275.04,
+        "change": 0.09
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2533.88,
+        "change": 0.7
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 102.01,
+        "change": -0.43
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin Suisse to shift up to half of Swiss jobs abroad",
+        "link": "https://cointelegraph.com/news/bitcoin-suisse-to-shift-up-to-half-of-swiss-jobs-abroad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Hyperliquid’s biggest risk is regulation, says Ran Neuner",
+        "link": "https://cointelegraph.com/news/hyperliquids-biggest-risk-is-regulation-says-ran-neuner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin",
+        "link": "https://cointelegraph.com/news/anchorage-digital-adds-institutional-access-to-frgmnts-fusd-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin spikes toward $80K as US CPI data delivers new 22-year high in bond yields",
+        "link": "https://cointelegraph.com/markets/bitcoin-spikes-toward-80k-as-us-cpi-data-delivers-new-22-year-high-in-bond-yields?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Metaplanet cuts Series 10 stock pool by 41%, plans Hong Kong subsidiary",
+        "link": "https://cointelegraph.com/news/metaplanet-executive-stock-pool-hong-kong-subsidiary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Trading stocks against BONER is the latest trend for DeFi degens",
+        "link": "https://cointelegraph.com/magazine/trading-stocks-against-boner-is-the-latest-trend-for-defi-degens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin ETF outflows accelerate as investors pull $449M in three days",
+        "link": "https://cointelegraph.com/markets/bitcoin-etfs-282m-biggest-outflow-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-09-12T11:35:24.523Z"
+  },
+  {
     "id": "digest-2026-09-11",
     "date": "2026-09-11",
     "title": "Crypto Market Recap — September 11, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-08-14T08:35:51.887Z"
-  },
-  {
-    "id": "digest-2026-08-13",
-    "date": "2026-08-13",
-    "title": "Crypto Market Recap — August 13, 2026",
-    "summary": "Bitcoin is trading at $63,734, up 0.5% over the last 24 hours. Ethereum is trading at $1,891, up 0.7% over the last 24 hours. Solana is trading at $76.18, up 0.8% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 63733.79,
-        "change": 0.51
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 1891.34,
-        "change": 0.73
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 76.18,
-        "change": 0.82
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Securitize falls 16% after earnings miss, tokenization revenue drops",
-        "link": "https://cointelegraph.com/news/securitize-falls-earnings-miss-tokenization-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "BitGo posts $19M Q2 loss despite 80% revenue surge to $4.3B",
-        "link": "https://cointelegraph.com/news/bitgo-q2-19-million-revenue-surge-4-3-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Copper US arm becomes FINRA member, SEC-registered broker-dealer",
-        "link": "https://cointelegraph.com/news/copper-us-arm-joins-finra-after-sec-broker-dealer-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Crypto valuations could double as protocols link revenue to tokens: Bitwise CIO",
-        "link": "https://cointelegraph.com/news/crypto-valuations-protocol-revenue-token-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Metaplanet CEO shuts down Bitcoin sale speculation after $322M transfer",
-        "link": "https://cointelegraph.com/news/gerovich-shuts-down-bitcoin-sale-metaplanets-transfer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "ASX shareholder plans to sue former directors over failed blockchain project",
-        "link": "https://cointelegraph.com/news/asx-shareholder-lawsuit-failed-blockchain-chess-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Arizona crypto ATM law helps 35 scam victims recover $171K",
-        "link": "https://cointelegraph.com/news/arizona-crypto-atm-law-scam-refunds-171k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-08-13T08:41:52.385Z"
   }
 ]
