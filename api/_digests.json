@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-09-13",
+    "date": "2026-09-13",
+    "title": "Crypto Market Recap — September 13, 2026",
+    "summary": "Bitcoin is trading at $76,748, down 0.7% over the last 24 hours. Ethereum is trading at $2,475, down 2.0% over the last 24 hours. Solana is trading at $99.57, down 2.1% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 76747.9,
+        "change": -0.67
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2475.24,
+        "change": -1.98
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 99.57,
+        "change": -2.13
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Anthropic chief urges slowdown in AI development to safer pace",
+        "link": "https://cointelegraph.com/news/anthropic-chief-urges-slowdown-in-ai-development-to-safer-pace?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Revolut says customer data exposed through fake government email",
+        "link": "https://cointelegraph.com/news/revolut-says-customer-data-exposed-through-fake-government-email?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "North Korea using foreign talent to help infiltrate US companies: Report",
+        "link": "https://cointelegraph.com/news/north-korea-using-foreign-talent-to-help-infiltrate-us-companies-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Farage’s Reform UK gets $97M from two crypto billionaires",
+        "link": "https://cointelegraph.com/news/farages-reform-uk-gets-biggest-donation-ever-from-crypto-billionaire-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Nvidia considers $10B investment in potential record Anthropic IPO: Reuters",
+        "link": "https://cointelegraph.com/news/nvidia-considers-10b-investment-in-anthropic-record-ipo-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin Suisse to shift up to half of Swiss jobs abroad",
+        "link": "https://cointelegraph.com/news/bitcoin-suisse-to-shift-up-to-half-of-swiss-jobs-abroad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Hyperliquid’s biggest risk is regulation, says Ran Neuner",
+        "link": "https://cointelegraph.com/news/hyperliquids-biggest-risk-is-regulation-says-ran-neuner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-09-13T12:42:25.924Z"
+  },
+  {
     "id": "digest-2026-09-12",
     "date": "2026-09-12",
     "title": "Crypto Market Recap — September 12, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-08-15T07:41:01.361Z"
-  },
-  {
-    "id": "digest-2026-08-14",
-    "date": "2026-08-14",
-    "title": "Crypto Market Recap — August 14, 2026",
-    "summary": "Bitcoin is trading at $62,636, down 1.2% over the last 24 hours. Ethereum is trading at $1,870, down 0.8% over the last 24 hours. Solana is trading at $75.7, down 0.7% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 62635.65,
-        "change": -1.25
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 1869.7,
-        "change": -0.79
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 75.7,
-        "change": -0.67
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Crypto payments barely register among euro area merchants, ECB finds",
-        "link": "https://cointelegraph.com/news/ecb-survey-0-2-euro-area-companies-accept-crypto-online?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "SEC cancels key crypto regulatory meeting",
-        "link": "https://cointelegraph.com/news/sec-cancels-crypto-regulatory-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Neutrl pauses NUSD redemptions over undisclosed reserve issue",
-        "link": "https://cointelegraph.com/news/neutrl-pauses-nusd-redemptions-over-undisclosed-reserve-issue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Figure reports $4.3B in loan marketplace volume as profit nearly triples",
-        "link": "https://cointelegraph.com/news/figure-q2-loan-marketplace-volume-profit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Ethereum Foundation pivots away from Poseidon in post-quantum plan",
-        "link": "https://cointelegraph.com/news/ethereum-foundation-drops-poseidon-post-quantum-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "City of Baltimore goes after prediction markets for sports betting",
-        "link": "https://cointelegraph.com/news/baltimore-lawsuit-prediction-markets-kalshi-polymarket-sports-betting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Tether completes first full financial audit, receives clean KPMG opinion",
-        "link": "https://cointelegraph.com/news/tether-completes-first-full-financial-audit-receives-clean-kpmg-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Delio CEO sentenced to 15 years in prison on crypto fraud in South Korea",
-        "link": "https://cointelegraph.com/news/delio-ceo-prison-crypto-fraud-south-korea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-08-14T08:35:51.887Z"
   }
 ]
