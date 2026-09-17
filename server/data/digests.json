@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-09-17",
+    "date": "2026-09-17",
+    "title": "Crypto Market Recap — September 17, 2026",
+    "summary": "Bitcoin is trading at $76,910, up 1.0% over the last 24 hours. Ethereum is trading at $2,463, up 1.9% over the last 24 hours. Solana is trading at $101.14, up 2.6% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 76910.22,
+        "change": 1
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2462.78,
+        "change": 1.91
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 101.14,
+        "change": 2.61
+      }
+    ],
+    "headlines": [
+      {
+        "title": "State hackers drive 420% surge in onchain malware, Chainalysis finds",
+        "link": "https://cointelegraph.com/news/onchain-malware-writes-surge-420-north-korea-iran-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Zcash gains 20% as Paradigm founder reveals firm made ZEC investment",
+        "link": "https://cointelegraph.com/markets/zcash-zec-price-paradigm-investment-privacy-coins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Revolut says no direct contact from hackers after $3M public ransom demand",
+        "link": "https://cointelegraph.com/news/revolut-data-breach-monero-ransom-no-direct-contact?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Polymarket users referred to prosecutors in South Korea: Report",
+        "link": "https://cointelegraph.com/news/south-korea-polymarket-users-prosecutors-gambling-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin treasuries buy just 5.9K BTC in three months as paper losses linger",
+        "link": "https://cointelegraph.com/markets/bitcoin-treasuries-buy-just-59k-btc-in-three-months-as-paper-losses-linger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "BitMEX faces Celsius lawsuit ahead of exchange closure",
+        "link": "https://cointelegraph.com/news/celsius-estate-bitmex-6360-btc-liquidation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "OpenAI discloses 6 new cases of ‘misaligned’ AI behavior",
+        "link": "https://cointelegraph.com/news/openai-discloses-6-new-cases-of-misaligned-ai-behavior?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-09-17T12:34:01.503Z"
+  },
+  {
     "id": "digest-2026-09-16",
     "date": "2026-09-16",
     "title": "Crypto Market Recap — September 16, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-08-19T07:51:42.882Z"
-  },
-  {
-    "id": "digest-2026-08-18",
-    "date": "2026-08-18",
-    "title": "Crypto Market Recap — August 18, 2026",
-    "summary": "Bitcoin is trading at $64,187, down 0.5% over the last 24 hours. Ethereum is trading at $1,898, down 0.7% over the last 24 hours. Solana is trading at $75.93, down 0.0% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 64186.56,
-        "change": -0.46
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 1898.34,
-        "change": -0.71
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 75.93,
-        "change": -0.03
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Ethereum Foundation warns some tools may break with Glamsterdam upgrade",
-        "link": "https://cointelegraph.com/news/ethereum-foundation-warns-some-tools-may-break-with-glamsterdam-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "South Korea’s Jeonbuk Bank taps Ripple for cross-border payments",
-        "link": "https://cointelegraph.com/news/jeonbuk-bank-ripple-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Alleged $165M crypto Ponzi mastermind faces US charges after Fiji deportation",
-        "link": "https://cointelegraph.com/news/edward-zimbardi-165m-crypto-ponzi-fiji-deportation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "‘Fabricated rumors’ about BitMart founder, Binance bStocks dominate: Asia Express",
-        "link": "https://cointelegraph.com/magazine/fabricated-rumors-about-bitmart-founder-binance-bstocks-dominate-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "OCC approves Trump family crypto company for trust charter",
-        "link": "https://cointelegraph.com/news/occ-donald-trump-world-liberty-financial-trust-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Binance to plan UK relaunch with FCA license application: Report",
-        "link": "https://cointelegraph.com/news/binance-uk-launch-plans-fca-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "CFTC seeks public input on AI compute futures contracts as CME eyes October launch",
-        "link": "https://cointelegraph.com/news/cftc-ai-compute-futures-cme-october-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-08-18T07:50:32.575Z"
   }
 ]
