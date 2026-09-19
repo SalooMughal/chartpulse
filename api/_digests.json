@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-09-19",
+    "date": "2026-09-19",
+    "title": "Crypto Market Recap — September 19, 2026",
+    "summary": "Bitcoin is trading at $81,273, up 0.5% over the last 24 hours. Ethereum is trading at $2,640, up 1.1% over the last 24 hours. Solana is trading at $111.85, down 0.8% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 81272.75,
+        "change": 0.49
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2639.7,
+        "change": 1.09
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 111.85,
+        "change": -0.75
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Bastion wins conditional OCC approval for national trust bank charter",
+        "link": "https://cointelegraph.com/news/bastion-wins-conditional-occ-approval-for-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report",
+        "link": "https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Coinbase files to bring single-stock perpetual futures to US market",
+        "link": "https://cointelegraph.com/news/coinbase-files-to-bring-single-stock-perpetual-futures-to-us-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Binance launches 24/7 FX perps with weekend pricing system",
+        "link": "https://cointelegraph.com/news/binance-expands-tradfi-push-with-247-foreign-exchange-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Crypto stocks rebound after CLARITY Act selloff",
+        "link": "https://cointelegraph.com/news/crypto-stocks-rebound-after-clarity-selloff-as-us-regulators-move-ahead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "CFTC submits crypto market regulation plan for White House review",
+        "link": "https://cointelegraph.com/news/cftc-submits-crypto-market-regulation-plan-for-white-house-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin hits $81K as US bond yields rebound on global oil woes",
+        "link": "https://cointelegraph.com/markets/bitcoin-hits-81k-as-us-bond-yields-rebound-on-global-oil-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-09-19T11:54:55.096Z"
+  },
+  {
     "id": "digest-2026-09-18",
     "date": "2026-09-18",
     "title": "Crypto Market Recap — September 18, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-08-21T07:54:14.777Z"
-  },
-  {
-    "id": "digest-2026-08-20",
-    "date": "2026-08-20",
-    "title": "Crypto Market Recap — August 20, 2026",
-    "summary": "Bitcoin is trading at $69,614, up 0.5% over the last 24 hours. Ethereum is trading at $2,249, down 0.1% over the last 24 hours. Solana is trading at $86.01, up 0.8% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 69613.64,
-        "change": 0.45
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 2249.19,
-        "change": -0.11
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 86.01,
-        "change": 0.79
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "HYPE jumps 20% as Trump signals legal US path for Hyperliquid",
-        "link": "https://cointelegraph.com/markets/hype-price-jumps-trump-hyperliquid-us-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Rushed CLARITY Act vote could set legislation back, Gallego warns",
-        "link": "https://cointelegraph.com/news/ruben-gallego-rushed-clarity-act-senate-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin.com integrates UAE-registered US dollar stablecoin into self-custodial wallet",
-        "link": "https://cointelegraph.com/news/bitcoincom-integrates-uae-registered-usdu-stablecoin-into-self-custodial-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Trump pushes for CLARITY Act passage alongside crypto leaders",
-        "link": "https://cointelegraph.com/news/donald-trump-clarity-act-passage-crypto-leaders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Crypto PAC notches primary wins, but loses $2M Florida race",
-        "link": "https://cointelegraph.com/news/crypto-pac-wins-primaries-loses-florida-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "FalconX, Ethena bring USDe backing assets into $1B institutional credit facility",
-        "link": "https://cointelegraph.com/news/falconx-ethena-launch-1b-usde-backed-institutional-lending-facility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "OCC head promises final GENIUS rules by November",
-        "link": "https://cointelegraph.com/news/occ-head-jonathan-gould-genius-rules-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-08-20T07:54:27.268Z"
   }
 ]
