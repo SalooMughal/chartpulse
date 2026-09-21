@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-09-21",
+    "date": "2026-09-21",
+    "title": "Crypto Market Recap — September 21, 2026",
+    "summary": "Bitcoin is trading at $85,462, up 5.3% over the last 24 hours. Ethereum is trading at $2,734, up 3.4% over the last 24 hours. Solana is trading at $118.48, up 6.6% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 85461.7,
+        "change": 5.3
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2733.61,
+        "change": 3.38
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 118.48,
+        "change": 6.59
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Kyle Samani predicts SOL flippening, claims ‘no one’ uses ETH",
+        "link": "https://cointelegraph.com/magazine/kyle-samani-predicts-sol-flippening-claims-no-one-uses-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Strategy buys 950 Bitcoin for $76M, repurchases $174M in STRC",
+        "link": "https://cointelegraph.com/news/strategy-950-btc-buy-strc-repurchase-174-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "ECB launches Pontes to settle tokenized assets without stablecoins",
+        "link": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "NEAR jumps nearly 80% in a week as Intents volume nears $30B",
+        "link": "https://cointelegraph.com/markets/near-price-surge-intents-zcash-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "BTC price nears eight-month high above $85K: Five things to know in Bitcoin this week",
+        "link": "https://cointelegraph.com/markets/btc-price-nears-eight-month-high-above-85k-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "X sues Bitcoin account operators over alleged $278K payout fraud",
+        "link": "https://cointelegraph.com/news/x-lawsuit-bitcoin-accounts-alleged-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "ZetaChain holders approve plan to wind down L1, move ZETA to Solana",
+        "link": "https://cointelegraph.com/news/zetachain-shutdown-zeta-solana-migration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bank of Korea launches 24-hour won settlement pilot for foreign investors",
+        "link": "https://cointelegraph.com/news/bank-korea-won-settlement-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-09-21T14:03:36.711Z"
+  },
+  {
     "id": "digest-2026-09-20",
     "date": "2026-09-20",
     "title": "Crypto Market Recap — September 20, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-08-23T07:45:02.613Z"
-  },
-  {
-    "id": "digest-2026-08-22",
-    "date": "2026-08-22",
-    "title": "Crypto Market Recap — August 22, 2026",
-    "summary": "Bitcoin is trading at $77,355, down 1.2% over the last 24 hours. Ethereum is trading at $2,435, down 3.2% over the last 24 hours. Solana is trading at $94.89, up 1.2% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 77355.01,
-        "change": -1.24
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 2434.95,
-        "change": -3.21
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 94.89,
-        "change": 1.25
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC",
-        "link": "https://cointelegraph.com/markets/bitget-ceo-sees-bitcoin-near-current-levels-at-year-end-doubts-us-will-buy-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Ray Dalio says to buy ‘a bit’ of Bitcoin amid potential debt crisis",
-        "link": "https://cointelegraph.com/news/ray-dalio-buy-bitcoin-debt-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Onchain, in court: What happened in crypto legal news this week",
-        "link": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news5?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin seeks support near $77K as BTC, gold near 100-day highs",
-        "link": "https://cointelegraph.com/markets/bitcoin-seeks-support-near-77k-btc-gold-100-day-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Digital Asset, Paul Ryan foundation target US state benefits with Canton pilot",
-        "link": "https://cointelegraph.com/news/paul-ryan-foundation-digital-asset-plan-blockchain-based-benefits-pilot-on-canton?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump",
-        "link": "https://cointelegraph.com/markets/bitcoin-rally-crypto-stocks-canaan-strive-metaplanet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Crypto Biz: Treasury’s ‘Not-QE’ playbook sends Bitcoin higher",
-        "link": "https://cointelegraph.com/news/crypto-biz-treasurys-not-qe-playbook-sends-bitcoin-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-08-22T07:43:20.922Z"
   }
 ]
