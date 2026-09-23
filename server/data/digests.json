@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-09-23",
+    "date": "2026-09-23",
+    "title": "Crypto Market Recap — September 23, 2026",
+    "summary": "Bitcoin is trading at $85,509, down 0.8% over the last 24 hours. Ethereum is trading at $2,724, down 1.1% over the last 24 hours. Solana is trading at $116.93, down 1.4% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 85509.24,
+        "change": -0.8
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2723.76,
+        "change": -1.08
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 116.93,
+        "change": -1.37
+      }
+    ],
+    "headlines": [
+      {
+        "title": "EU watchdogs warn quantum computers could pick crypto’s locks",
+        "link": "https://cointelegraph.com/news/eu-watchdogs-quantum-computers-crypto-locks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "CFTC chair pushes tokenization as SEC opens door to onchain stocks",
+        "link": "https://cointelegraph.com/news/cftc-selig-mass-tokenization-sec-onchain-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin bull market ‘confirmed’ but $90K presents profit-taking risk: Analysis",
+        "link": "https://cointelegraph.com/markets/bitcoin-bull-market-confirmed-but-90k-presents-profit-taking-risk-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Raiffeisen to offer crypto trading across 11 European markets via Bitpanda",
+        "link": "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "BitMEX ends crypto trading, keeps withdrawals open after closure",
+        "link": "https://cointelegraph.com/news/bitmex-ends-crypto-trading-withdrawals-open?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Zcash’s November upgrade could freeze funds in legacy Sprout pool",
+        "link": "https://cointelegraph.com/news/zcash-nu7-upgrade-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin ETFs take in $1.7B in 2 days as BTC tops holder cost basis",
+        "link": "https://cointelegraph.com/markets/bitcoin-etf-inflow-2-days-holder-profitable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-09-23T12:43:42.795Z"
+  },
+  {
     "id": "digest-2026-09-22",
     "date": "2026-09-22",
     "title": "Crypto Market Recap — September 22, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-08-25T07:55:53.310Z"
-  },
-  {
-    "id": "digest-2026-08-24",
-    "date": "2026-08-24",
-    "title": "Crypto Market Recap — August 24, 2026",
-    "summary": "Bitcoin is trading at $77,218, down 0.7% over the last 24 hours. Ethereum is trading at $2,456, down 0.3% over the last 24 hours. Solana is trading at $94.08, down 1.4% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 77218.44,
-        "change": -0.66
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 2455.53,
-        "change": -0.32
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 94.08,
-        "change": -1.41
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Banks, regulators join quantum-resistant crypto transfer pilot",
-        "link": "https://cointelegraph.com/news/banks-regulators-quantum-resistant-crypto-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Pakistan opens crypto licensing portal, sets Sept. 5 deadline for existing firms",
-        "link": "https://cointelegraph.com/news/pakistan-crypto-licensing-portal-september-5-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Term Finance loses estimated $8.5M in vault governance exploit",
-        "link": "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest",
-        "link": "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Fed study finds crypto investors driven by beliefs, easily swayed by returns",
-        "link": "https://cointelegraph.com/news/fed-study-finds-crypto-investors-driven-by-beliefs-easily-swayed-by-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "MiCA is coming for DeFi vaults, but regulation will be difficult",
-        "link": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC",
-        "link": "https://cointelegraph.com/markets/bitget-ceo-sees-bitcoin-near-current-levels-at-year-end-doubts-us-will-buy-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-08-24T08:02:37.399Z"
   }
 ]
