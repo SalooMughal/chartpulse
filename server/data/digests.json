@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-09-25",
+    "date": "2026-09-25",
+    "title": "Crypto Market Recap — September 25, 2026",
+    "summary": "Bitcoin is trading at $84,410, up 0.0% over the last 24 hours. Ethereum is trading at $2,715, up 1.0% over the last 24 hours. Solana is trading at $120.89, up 3.3% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 84410,
+        "change": 0.03
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2715.23,
+        "change": 1.04
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 120.89,
+        "change": 3.31
+      }
+    ],
+    "headlines": [
+      {
+        "title": "SlowMist has yet to confirm crypto theft from iPhone Safari attack",
+        "link": "https://cointelegraph.com/news/no-confirmed-crypto-theft-iphone-safari-attack-slowmist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "IBIT options price trading more calmly after Bitcoin rebound",
+        "link": "https://cointelegraph.com/markets/ibit-options-trading-bitcoins-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Magic Eden scare puts 3,832 NFTs in whitehat protective custody",
+        "link": "https://cointelegraph.com/news/magic-eden-nft-whitehat-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "KelpDAO sues LayerZero, CEO over $292M rsETH bridge exploit",
+        "link": "https://cointelegraph.com/news/kelpdao-layerzero-lawsuit-rseth-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin ETF inflows slow to $191M as six-day streak reaches $2.8B",
+        "link": "https://cointelegraph.com/markets/bitcoin-etf-six-day-streak-2-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Samourai Wallet co-founder faces transfer after 30-day jail ordeal",
+        "link": "https://cointelegraph.com/news/samourai-wallet-co-founder-30-day-prison-transfer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Australian PM warns of AI’s ‘furious pace’ after agent breached government site",
+        "link": "https://cointelegraph.com/news/australia-pm-warns-of-ais-furious-pace-after-agent-breached-government-site?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-09-25T12:44:20.360Z"
+  },
+  {
     "id": "digest-2026-09-24",
     "date": "2026-09-24",
     "title": "Crypto Market Recap — September 24, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-08-27T18:16:06.421Z"
-  },
-  {
-    "id": "digest-2026-08-26",
-    "date": "2026-08-26",
-    "title": "Crypto Market Recap — August 26, 2026",
-    "summary": "Bitcoin is trading at $78,928, up 0.5% over the last 24 hours. Ethereum is trading at $2,461, up 0.8% over the last 24 hours. Solana is trading at $97.01, up 0.4% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 78927.77,
-        "change": 0.51
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 2461.21,
-        "change": 0.76
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 97.01,
-        "change": 0.43
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Tornado Cash developer Roman Storm’s retrial delayed to April 2027",
-        "link": "https://cointelegraph.com/news/roman-storm-retrial-delayed-april-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin ETFs tear through 2026 outflows in 7-day hot streak",
-        "link": "https://cointelegraph.com/news/bitcoin-etf-august-inflows-surge-past-3-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "US banking groups plan nationwide blockchain network for 2027",
-        "link": "https://cointelegraph.com/news/us-banking-groups-nationwide-blockchain-network-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "World Liberty Financial launches USD1 natively on Canton Network",
-        "link": "https://cointelegraph.com/news/world-liberty-financial-launches-usd1-natively-on-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin enters ‘initial phase’ of new bull market, but $83K remains key: CryptoQuant",
-        "link": "https://cointelegraph.com/markets/bitcoin-enters-initial-phase-of-new-bull-market-but-83k-remains-key-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Solana transactions hit record 4.2B as SOL rallies 40%",
-        "link": "https://cointelegraph.com/news/solana-record-transactions-rwa-sol-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Strategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report",
-        "link": "https://cointelegraph.com/news/strategy-financing-risk-not-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-08-26T07:56:38.302Z"
   }
 ]
