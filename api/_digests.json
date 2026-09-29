@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-09-29",
+    "date": "2026-09-29",
+    "title": "Crypto Market Recap — September 29, 2026",
+    "summary": "Bitcoin is trading at $84,345, up 1.1% over the last 24 hours. Ethereum is trading at $2,726, up 1.4% over the last 24 hours. Solana is trading at $121.35, up 2.1% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 84344.62,
+        "change": 1.06
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2726.27,
+        "change": 1.45
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 121.35,
+        "change": 2.14
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Peter Brandt says Bitcoin may hit $600K by 2029, calls XRP a ‘fool coin’",
+        "link": "https://cointelegraph.com/magazine/peter-brandt-says-bitcoin-may-hit-600k-by-2029-calls-xrp-a-fool-coin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin ETF inflows leave institutional demand unclear: CoinShares",
+        "link": "https://cointelegraph.com/markets/bitcoin-etf-mixed-read-institutional-demand-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "ECB puts AI agent payments on the digital euro drawing board",
+        "link": "https://cointelegraph.com/news/ecb-private-firms-ai-agents-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Ethereum schedules Glamsterdam upgrade on Sepolia for Oct. 6",
+        "link": "https://cointelegraph.com/news/ethereum-glamsterdam-upgrade-sepolia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "US crypto ETF inflows cool after $3.3B week but streaks hold",
+        "link": "https://cointelegraph.com/markets/us-crypto-etf-inflows-cool-bitcoin-ether-solana-xrp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin bounces to $84K after US 30-year bond yield sets 24-year high",
+        "link": "https://cointelegraph.com/markets/bitcoin-bounces-to-84k-after-us-30-year-bond-yield-sets-24-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Greece gets first MiCA entrants as watchdog denies Binance-Lagarde claim",
+        "link": "https://cointelegraph.com/news/greece-first-mica-entrants-hcmc-binance-lagarde?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-09-29T14:01:42.920Z"
+  },
+  {
     "id": "digest-2026-09-28",
     "date": "2026-09-28",
     "title": "Crypto Market Recap — September 28, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-08-31T15:03:20.739Z"
-  },
-  {
-    "id": "digest-2026-08-30",
-    "date": "2026-08-30",
-    "title": "Crypto Market Recap — August 30, 2026",
-    "summary": "Bitcoin is trading at $78,613, up 0.5% over the last 24 hours. Ethereum is trading at $2,465, up 0.3% over the last 24 hours. Solana is trading at $105.57, down 0.0% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 78612.63,
-        "change": 0.48
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 2464.8,
-        "change": 0.29
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 105.57,
-        "change": -0.04
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Russia’s Sber eyes USDT loans, questions digital ruble demand",
-        "link": "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Real Trump Coins denies launching GOLD token, blames ‘bad actors’",
-        "link": "https://cointelegraph.com/news/real-trump-coins-denies-gold-token-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Polygon discloses security flaws fixed in recent hard forks",
-        "link": "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Stellar tokenized RWA market more than quadruples to nearly $4B",
-        "link": "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
-        "link": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Trump-promoted brand touts GOLD before token collapse",
-        "link": "https://cointelegraph.com/news/trump-linked-account-list-gold-token-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Stablecoins not credible for payments at scale, BIS chief says",
-        "link": "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-08-30T12:50:08.403Z"
   }
 ]
