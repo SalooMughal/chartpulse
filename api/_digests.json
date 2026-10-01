@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-10-01",
+    "date": "2026-10-01",
+    "title": "Crypto Market Recap — October 1, 2026",
+    "summary": "Bitcoin is trading at $83,885, up 0.4% over the last 24 hours. Ethereum is trading at $2,694, up 0.4% over the last 24 hours. Solana is trading at $117.74, down 0.3% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 83885.31,
+        "change": 0.39
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2694.19,
+        "change": 0.38
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 117.74,
+        "change": -0.27
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Bitget’s $388M hack pushes Q3 crypto security losses past $1B",
+        "link": "https://cointelegraph.com/news/bitget-hack-q3-industry-losses-1-26-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "LATAM stablecoin liquidity may depend on few providers, investor says",
+        "link": "https://cointelegraph.com/news/latam-stablecoin-liquidity-may-depend-on-few-providers-investor-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Stablecoins can drain from banks and nations at lightning speed",
+        "link": "https://cointelegraph.com/magazine/stablecoins-can-drain-from-banks-and-nations-at-lightning-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Tokenized assets don’t always mirror traditional markets, Dune finds",
+        "link": "https://cointelegraph.com/news/tokenized-assets-traditional-markets-dune-rwa-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin trapped below $86K as PCE changes cloud inflation reading",
+        "link": "https://cointelegraph.com/markets/bitcoin-rally-lower-us-inflation-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Binance’s EU services face scrutiny over licensing exemption: Report",
+        "link": "https://cointelegraph.com/news/europe-binance-questions-esma-tighter-mica-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Chainalysis beats most Celsius claims, but ‘audit’ lawsuit survives",
+        "link": "https://cointelegraph.com/news/celsius-chainalysis-lawsuit-audit-claim-survives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-10-01T14:25:37.803Z"
+  },
+  {
     "id": "digest-2026-09-30",
     "date": "2026-09-30",
     "title": "Crypto Market Recap — September 30, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-09-02T12:05:18.992Z"
-  },
-  {
-    "id": "digest-2026-09-01",
-    "date": "2026-09-01",
-    "title": "Crypto Market Recap — September 1, 2026",
-    "summary": "Bitcoin is trading at $77,957, down 0.8% over the last 24 hours. Ethereum is trading at $2,451, down 0.7% over the last 24 hours. Solana is trading at $102.28, down 0.7% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 77957.46,
-        "change": -0.77
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 2451.1,
-        "change": -0.66
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 102.28,
-        "change": -0.74
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Lazarus Group-linked addresses move $30M through Hyperliquid",
-        "link": "https://cointelegraph.com/news/lazarus-group-move-30m-hyperliquid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "London Stock Exchange partners with Kraken parent for tokenized UK stocks: FT",
-        "link": "https://cointelegraph.com/news/london-stock-exchange-partners-kraken-for-tokenized-uk-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitfinex Securities lists tokenized notes tied to Strategy, Metaplanet",
-        "link": "https://cointelegraph.com/news/bitfinex-tokenized-strategy-metaplanet-notes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Singapore weighs recognizing some foreign-issued stablecoins",
-        "link": "https://cointelegraph.com/news/singapore-weighs-foreign-regulated-stablecoins-mas-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Trump Jr.-linked 1789 Capital leads Polymarket’s $1B raise: Report",
-        "link": "https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "BlackRock drives $217M Bitcoin ETF rebound as altcoin funds continue streaks",
-        "link": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-inflow-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Thailand SEC proposes retail access to regulated overseas crypto derivatives",
-        "link": "https://cointelegraph.com/news/thailand-sec-retail-overseas-crypto-derivatives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-09-01T12:32:19.431Z"
   }
 ]
