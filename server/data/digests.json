@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-10-02",
+    "date": "2026-10-02",
+    "title": "Crypto Market Recap — October 2, 2026",
+    "summary": "Bitcoin is trading at $86,893, up 2.4% over the last 24 hours. Ethereum is trading at $2,755, up 1.8% over the last 24 hours. Solana is trading at $122.67, up 3.6% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 86892.89,
+        "change": 2.41
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2755.32,
+        "change": 1.84
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 122.67,
+        "change": 3.62
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Furious debate about THORChain vs NEAR shows idealism has limits",
+        "link": "https://cointelegraph.com/magazine/furious-debate-about-thorchain-vs-near-shows-idealism-has-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Circle urges EU to revise stablecoin reserve rules in MiCA review",
+        "link": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B",
+        "link": "https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin treasuries may struggle to match Strategy, says Ammous",
+        "link": "https://cointelegraph.com/news/bitcoin-treasuries-struggle-strategy-says-ammous?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "CONNECT recap: Arthur Hayes on money printing, Wall Street moves onchain",
+        "link": "https://cointelegraph.com/news/connect-recap-arthur-hayes-money-printing-wall-street-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin reaches for $87K as short liquidations top $120M",
+        "link": "https://cointelegraph.com/markets/bitcoin-87k-order-book-liquidity-wall-shifts-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Aave founder says V3 unaffected after third-party adapter exploit drains $305K",
+        "link": "https://cointelegraph.com/news/aave-v3-third-party-adapter-exploit-305k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-10-02T13:49:23.265Z"
+  },
+  {
     "id": "digest-2026-10-01",
     "date": "2026-10-01",
     "title": "Crypto Market Recap — October 1, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-09-03T12:04:36.695Z"
-  },
-  {
-    "id": "digest-2026-09-02",
-    "date": "2026-09-02",
-    "title": "Crypto Market Recap — September 2, 2026",
-    "summary": "Bitcoin is trading at $76,735, down 0.9% over the last 24 hours. Ethereum is trading at $2,378, down 1.6% over the last 24 hours. Solana is trading at $97.97, down 2.0% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 76734.93,
-        "change": -0.86
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 2378.39,
-        "change": -1.61
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 97.97,
-        "change": -1.97
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Thailand adopts crypto Travel Rule with self-custodial wallet checks",
-        "link": "https://cointelegraph.com/news/thailand-crypto-travel-rule-self-custodial-wallet-checks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Crypto industry urges SEC to avoid blanket novel ETF restrictions",
-        "link": "https://cointelegraph.com/news/crypto-industry-sec-novel-etf-restrictions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin ETFs notch best month of 2026 as BTC gains 25% in August",
-        "link": "https://cointelegraph.com/markets/bitcoin-etf-best-month-2026-btc-up-25-august?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "HYPE treasury firm Hyperliquid Strategies boosts equity facility to $2.5B",
-        "link": "https://cointelegraph.com/news/hyperliquid-strategies-equity-facility-2-5-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Core DAO plans emergency hard fork after validators drew excess rewards",
-        "link": "https://cointelegraph.com/news/core-dao-emergency-hard-fork-excess-validator-rewards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Crypto-backed PAC scales back ad spending in Massachusetts primary",
-        "link": "https://cointelegraph.com/news/crypto-pac-protect-progress-spending-massachusetts-primary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Binance expands TradFi push with options on 1,000 US stocks, ETFs",
-        "link": "https://cointelegraph.com/news/binance-adds-options-on-1000-us-stocks-and-etfs-in-tradfi-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-09-02T12:05:18.992Z"
   }
 ]
