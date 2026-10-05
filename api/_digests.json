@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-10-05",
+    "date": "2026-10-05",
+    "title": "Crypto Market Recap — October 5, 2026",
+    "summary": "Bitcoin is trading at $85,207, down 1.5% over the last 24 hours. Ethereum is trading at $2,696, down 1.1% over the last 24 hours. Solana is trading at $119.32, down 1.9% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 85206.93,
+        "change": -1.5
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2696.17,
+        "change": -1.12
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 119.32,
+        "change": -1.85
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Bitcoin price fails to break higher after best weekly close in eight months",
+        "link": "https://cointelegraph.com/markets/bitcoin-price-fails-to-break-higher-after-best-weekly-close-in-eight-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Metaplanet reveals net income strategy to fuel Bitcoin accumulation",
+        "link": "https://cointelegraph.com/news/metaplanet-net-income-strategy-bitcoin-accumulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Strategy opts for bigger spending on STRC buybacks over BTC purchases",
+        "link": "https://cointelegraph.com/news/strategy-848k-bitcoin-strc-buybacks-outpace-btc-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "China P2P stablecoin wallets grew 43x despite crypto restrictions: Chainalysis",
+        "link": "https://cointelegraph.com/news/china-stablecoin-p2p-wallets-crypto-restrictions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Too big to pause: Could an AI slowdown crash the economy?",
+        "link": "https://cointelegraph.com/features/too-big-to-pause-the-economic-stakes-of-an-ai-slowdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Vivek Ramaswamy’s gubernatorial run lacks the crypto rhetoric of his presidential bid",
+        "link": "https://cointelegraph.com/news/vivek-ramaswamy-crypto-gubernatorial-campaign?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "BTC price fights to reclaim 2026 open: Three things to know in Bitcoin this week",
+        "link": "https://cointelegraph.com/markets/btc-price-fights-to-reclaim-2026-open-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-10-05T15:57:24.325Z"
+  },
+  {
     "id": "digest-2026-10-04",
     "date": "2026-10-04",
     "title": "Crypto Market Recap — October 4, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-09-06T11:38:00.472Z"
-  },
-  {
-    "id": "digest-2026-09-05",
-    "date": "2026-09-05",
-    "title": "Crypto Market Recap — September 5, 2026",
-    "summary": "Bitcoin is trading at $79,660, down 0.0% over the last 24 hours. Ethereum is trading at $2,455, down 0.0% over the last 24 hours. Solana is trading at $102.54, up 0.6% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 79659.52,
-        "change": -0.02
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 2455.41,
-        "change": -0.05
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 102.54,
-        "change": 0.58
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
-        "link": "https://cointelegraph.com/news/poland-upholds-crypto-bill-veto-zondacrypto-scandal-widens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin ETF inflows hit $3.8B in strongest three-week stretch of 2026",
-        "link": "https://cointelegraph.com/markets/bitcoin-etf-inflows-3-8-billion-strongest-three-week-run-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Surprise nonfarm payrolls print sends Bitcoin back below 80K",
-        "link": "https://cointelegraph.com/markets/surprise-labor-market-print-sends-bitcoin-back-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Pineapple Financial puts $1B in mortgage records on Injective",
-        "link": "https://cointelegraph.com/news/pineapple-financial-puts-1b-in-mortgage-records-on-injective?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "FinCEN ties $13B in crypto scams to non-US operations",
-        "link": "https://cointelegraph.com/news/fincen-crypto-overseas-scam-centers-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Crypto Biz: AI took a back seat when Bitcoin started climbing",
-        "link": "https://cointelegraph.com/news/crypto-biz-bitcoin-miners-strategy-strive-bitmine-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "QuFi launches post-quantum verification platform with Bitcoin testnet proof",
-        "link": "https://cointelegraph.com/news/qufi-launches-post-quantum-verification-platform-with-bitcoin-testnet-proof?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-09-05T11:14:42.276Z"
   }
 ]
