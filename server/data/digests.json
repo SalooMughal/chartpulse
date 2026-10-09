@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-10-09",
+    "date": "2026-10-09",
+    "title": "Crypto Market Recap — October 9, 2026",
+    "summary": "Bitcoin is trading at $82,997, up 1.6% over the last 24 hours. Ethereum is trading at $2,488, up 0.6% over the last 24 hours. Solana is trading at $110, up 0.4% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 82997.44,
+        "change": 1.6
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2488.39,
+        "change": 0.63
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 110,
+        "change": 0.42
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Dragonfly partner rejects ‘bunker mode’ doomerism, calls for proactive blockchain measures",
+        "link": "https://cointelegraph.com/news/dragonfly-bunker-mode-doomerism-proactive-blockchain-measures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "France is world’s most dangerous place for Bitcoiners: 90 attacks in 7 months",
+        "link": "https://cointelegraph.com/magazine/france-is-worlds-most-dangerous-place-for-bitcoiners-90-attacks-in-7-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "ESMA seeks evidence tokenized collateral can be cashed out in crisis",
+        "link": "https://cointelegraph.com/news/esma-tokenized-collateral-eu-clearinghouses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "UK sanctions three crypto exchanges tied to Russian illicit funds",
+        "link": "https://cointelegraph.com/news/uk-sanctions-crypto-exchanges-russian-illicit-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "French lawmakers back stablecoin swap tax in 2027 budget bill",
+        "link": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin speculators move 55K BTC to exchanges amid $1.1B liquidations",
+        "link": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-crypto-liquidation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin, Ether ETFs’ October outflows swell toward $1B",
+        "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-october-outflows-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-10-09T14:20:18.966Z"
+  },
+  {
     "id": "digest-2026-10-08",
     "date": "2026-10-08",
     "title": "Crypto Market Recap — October 8, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-09-10T12:12:23.396Z"
-  },
-  {
-    "id": "digest-2026-09-09",
-    "date": "2026-09-09",
-    "title": "Crypto Market Recap — September 9, 2026",
-    "summary": "Bitcoin is trading at $79,368, up 1.2% over the last 24 hours. Ethereum is trading at $2,501, up 0.7% over the last 24 hours. Solana is trading at $104.45, up 1.0% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 79368,
-        "change": 1.17
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 2501.36,
-        "change": 0.66
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 104.45,
-        "change": 1.04
-      }
-    ],
-    "headlines": [
-      {
-        "title": "What could happen if the CLARITY Act fails to pass in 2026",
-        "link": "https://cointelegraph.com/news/clarity-act-fails-passage-next-session-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Metaplanet’s executive stock pool sparks shareholder backlash as CEO addresses MMXX ties",
-        "link": "https://cointelegraph.com/news/metaplanets-executive-stock-pool-backlash-ceo-mmxx-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin SOPR metric sees longest profit run of 2026 as new analysis challenges bear market",
-        "link": "https://cointelegraph.com/markets/bitcoin-sopr-metric-sees-longest-profit-run-of-2026-as-new-analysis-challenges-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Silvergate ex-CEO blames Biden pressure for bank’s 2023 wind-down",
-        "link": "https://cointelegraph.com/news/silvergate-ex-ceo-biden-pressure-bank-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Iran eases currency rules to bypass US sanctions with crypto: Report",
-        "link": "https://cointelegraph.com/news/iran-central-bank-encourages-crypto-evade-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Jack Dorsey’s Block seeks US trust bank charter for Bitcoin, stablecoin",
-        "link": "https://cointelegraph.com/news/block-us-trust-bank-charter-bitcoin-stablecoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Gemini receives Singapore payment license for crypto services",
-        "link": "https://cointelegraph.com/news/gemini-singapore-mpi-license-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-09-09T12:18:45.688Z"
   }
 ]
