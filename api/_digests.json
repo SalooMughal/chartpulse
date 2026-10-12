@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-10-12",
+    "date": "2026-10-12",
+    "title": "Crypto Market Recap — October 12, 2026",
+    "summary": "Bitcoin is trading at $82,783, down 1.1% over the last 24 hours. Ethereum is trading at $2,530, down 0.2% over the last 24 hours. Solana is trading at $108.73, down 2.2% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 82783.37,
+        "change": -1.07
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2529.71,
+        "change": -0.18
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 108.73,
+        "change": -2.23
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Bitcoin drops 2.2% as Ukraine, Iran strikes send oil toward one-month high",
+        "link": "https://cointelegraph.com/markets/bitcoin-drops-22-as-ukraine-iran-strikes-send-oil-toward-one-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "XRP treasury Evernorth’s shares rise 5% at Nasdaq opening print",
+        "link": "https://cointelegraph.com/news/xrp-treasury-evernorth-rise-nasdaq-opening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Ledger implant tests Bitcoin ETFs as safer custodial solutions than hardware wallets",
+        "link": "https://cointelegraph.com/news/ledger-implant-bitcoin-etfs-hardware-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Strategy adds 250 Bitcoin as holdings reach 848,250 BTC",
+        "link": "https://cointelegraph.com/news/michael-saylor-strategy-250-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Australia proposes leverage caps for crypto-settled derivatives",
+        "link": "https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "BTC price support holds ahead of US CPI data: Three things Bitcoin traders need to know this week",
+        "link": "https://cointelegraph.com/markets/btc-price-support-holds-ahead-of-us-cpi-data-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Kraken parent clears Dubai’s final hurdle for dirham trading rollout",
+        "link": "https://cointelegraph.com/news/kraken-receives-vara-approval-uae-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-10-12T16:41:48.278Z"
+  },
+  {
     "id": "digest-2026-10-11",
     "date": "2026-10-11",
     "title": "Crypto Market Recap — October 11, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-09-13T12:42:25.924Z"
-  },
-  {
-    "id": "digest-2026-09-12",
-    "date": "2026-09-12",
-    "title": "Crypto Market Recap — September 12, 2026",
-    "summary": "Bitcoin is trading at $77,275, up 0.1% over the last 24 hours. Ethereum is trading at $2,534, up 0.7% over the last 24 hours. Solana is trading at $102.01, down 0.4% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 77275.04,
-        "change": 0.09
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 2533.88,
-        "change": 0.7
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 102.01,
-        "change": -0.43
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin Suisse to shift up to half of Swiss jobs abroad",
-        "link": "https://cointelegraph.com/news/bitcoin-suisse-to-shift-up-to-half-of-swiss-jobs-abroad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Hyperliquid’s biggest risk is regulation, says Ran Neuner",
-        "link": "https://cointelegraph.com/news/hyperliquids-biggest-risk-is-regulation-says-ran-neuner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin",
-        "link": "https://cointelegraph.com/news/anchorage-digital-adds-institutional-access-to-frgmnts-fusd-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin spikes toward $80K as US CPI data delivers new 22-year high in bond yields",
-        "link": "https://cointelegraph.com/markets/bitcoin-spikes-toward-80k-as-us-cpi-data-delivers-new-22-year-high-in-bond-yields?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Metaplanet cuts Series 10 stock pool by 41%, plans Hong Kong subsidiary",
-        "link": "https://cointelegraph.com/news/metaplanet-executive-stock-pool-hong-kong-subsidiary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Trading stocks against BONER is the latest trend for DeFi degens",
-        "link": "https://cointelegraph.com/magazine/trading-stocks-against-boner-is-the-latest-trend-for-defi-degens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin ETF outflows accelerate as investors pull $449M in three days",
-        "link": "https://cointelegraph.com/markets/bitcoin-etfs-282m-biggest-outflow-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-09-12T11:35:24.523Z"
   }
 ]
