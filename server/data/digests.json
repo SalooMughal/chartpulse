@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-10-14",
+    "date": "2026-10-14",
+    "title": "Crypto Market Recap — October 14, 2026",
+    "summary": "Bitcoin is trading at $82,779, down 0.4% over the last 24 hours. Ethereum is trading at $2,482, down 0.5% over the last 24 hours. Solana is trading at $105.57, down 1.1% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 82779.49,
+        "change": -0.39
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2482.28,
+        "change": -0.54
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 105.57,
+        "change": -1.09
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Kraken parent to buy Lithuanian Saldo Bank amid TradFi expansion",
+        "link": "https://cointelegraph.com/news/krakens-parent-buy-lithuanian-saldo-bank-tradfi-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Can crypto users trust the supply chain behind hardware wallets?",
+        "link": "https://cointelegraph.com/news/hardware-wallet-supply-chain-risk-ledger-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Coins.ph says Philippine central bank license intact amid revocation claims",
+        "link": "https://cointelegraph.com/news/coinsph-says-bsp-license-intact-amid-claims-of-potential-revocation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "CryptoQuant’s 3 charts keeping Bitcoin’s ‘Uptober’ thesis valid",
+        "link": "https://cointelegraph.com/markets/cryptoquant-charts-bitcoin-uptober-thesis-valid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Sam Bankman-Fried’s lawyer lays out ex-FTX CEO’s Supreme Court case",
+        "link": "https://cointelegraph.com/news/ftx-sam-bankman-fried-lawyer-supreme-court-appeal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin will become ‘less volatile’ and larger than gold: ‘The Bitcoin Standard’ author",
+        "link": "https://cointelegraph.com/news/bitcoin-less-volatile-larger-gold-bitcoin-standard-author?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE",
+        "link": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-professional-investors-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-10-14T12:50:15.382Z"
+  },
+  {
     "id": "digest-2026-10-13",
     "date": "2026-10-13",
     "title": "Crypto Market Recap — October 13, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-09-15T12:38:16.457Z"
-  },
-  {
-    "id": "digest-2026-09-14",
-    "date": "2026-09-14",
-    "title": "Crypto Market Recap — September 14, 2026",
-    "summary": "Bitcoin is trading at $78,198, up 1.8% over the last 24 hours. Ethereum is trading at $2,496, up 0.8% over the last 24 hours. Solana is trading at $101.34, up 2.1% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 78197.7,
-        "change": 1.82
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 2496.26,
-        "change": 0.82
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 101.34,
-        "change": 2.1
-      }
-    ],
-    "headlines": [
-      {
-        "title": "HYPE price could suffer as Binance takes its revenue: Alice Liu",
-        "link": "https://cointelegraph.com/magazine/hype-price-could-suffer-as-binance-takes-its-revenue-alice-liu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Fragmented regulations limit stablecoin adoption in international finance: WTO head",
-        "link": "https://cointelegraph.com/news/fragmented-regulations-limit-stablecoin-adoption-in-international-finance-wto-director?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "EU cyber rules put crypto wallet makers on 24-hour reporting clock",
-        "link": "https://cointelegraph.com/news/eu-cyber-rules-put-crypto-wallet-24-hour-reporting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "CLARITY Act vote meets Fed rate hike: Five things to know in Bitcoin this week",
-        "link": "https://cointelegraph.com/markets/clarity-act-vote-meets-fed-rate-hike-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Symbiosis says recovered 15 BTC from bridge hack, offers 20% bounty",
-        "link": "https://cointelegraph.com/news/symbiosis-recovered-15-btc-bridge-hack-20-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "UK FCA seeks views on fund rule exemptions for tokenized gold",
-        "link": "https://cointelegraph.com/news/uk-fca-weighs-fund-rules-exemption-for-tokenized-gold-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin ETFs shed $463M in weekly reversal as Ether ETFs gain $197M",
-        "link": "https://cointelegraph.com/markets/bitcoin-etfs-shed-463m-ether-etfs-gain-197m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-09-14T13:59:23.430Z"
   }
 ]
