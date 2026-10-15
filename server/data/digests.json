@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-10-15",
+    "date": "2026-10-15",
+    "title": "Crypto Market Recap — October 15, 2026",
+    "summary": "Bitcoin is trading at $80,660, down 1.1% over the last 24 hours. Ethereum is trading at $2,345, down 3.0% over the last 24 hours. Solana is trading at $101.88, down 2.2% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 80660.18,
+        "change": -1.11
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2345.07,
+        "change": -3.04
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 101.88,
+        "change": -2.21
+      }
+    ],
+    "headlines": [
+      {
+        "title": "HEX token sellers erase $160M following reports of founder Richard Schueler arrest",
+        "link": "https://cointelegraph.com/news/hex-token-erases-160m-reports-founder-schuelers-arrest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Ledger’s answer to wallet tampering costs $849 and ships next year",
+        "link": "https://cointelegraph.com/news/ledger-new-hardware-device-asia-wallet-tampering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "White House crypto council chief Patrick Witt steps down",
+        "link": "https://cointelegraph.com/news/white-house-crypto-council-director-steps-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Starknet opens vote on potential Ethereum L2 exit over quantum risks",
+        "link": "https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitget, Liquid exploits push Q3 crypto hacks toward $1.2B",
+        "link": "https://cointelegraph.com/news/bitget-liquid-exploits-push-crypto-hacks-near-12b-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin dips to $80.1K as KOSPI closes at its lowest since April",
+        "link": "https://cointelegraph.com/markets/bitcoin-dips-korea-kospi-lowest-close-since-april?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Thailand crypto ETFs may see slow start despite new rules: CoinShares",
+        "link": "https://cointelegraph.com/news/thailand-crypto-etfs-slow-start-new-rules-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Babylon advances native Bitcoin lending proposal on Aave V4",
+        "link": "https://cointelegraph.com/news/babylon-native-bitcoin-collateral-aave-v4-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-10-15T12:37:29.997Z"
+  },
+  {
     "id": "digest-2026-10-14",
     "date": "2026-10-14",
     "title": "Crypto Market Recap — October 14, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-09-16T12:34:40.299Z"
-  },
-  {
-    "id": "digest-2026-09-15",
-    "date": "2026-09-15",
-    "title": "Crypto Market Recap — September 15, 2026",
-    "summary": "Bitcoin is trading at $76,914, down 1.6% over the last 24 hours. Ethereum is trading at $2,477, down 1.5% over the last 24 hours. Solana is trading at $100.97, down 1.5% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 76914.39,
-        "change": -1.61
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 2476.78,
-        "change": -1.54
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 100.97,
-        "change": -1.51
-      }
-    ],
-    "headlines": [
-      {
-        "title": "US House crypto tax package omits mining, staking reward deferral",
-        "link": "https://cointelegraph.com/news/us-house-crypto-tax-bill-mining-staking-reward-deferral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Ethereum, Base wallet standards talks fail, Ethlabs researcher says",
-        "link": "https://cointelegraph.com/news/ethereum-base-wallet-standards-collaboration-breaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin short-term holders hit 30-day profit streak as bull-market odds improve: CryptoQuant",
-        "link": "https://cointelegraph.com/markets/bitcoin-short-term-holders-hit-30-day-profit-streak-as-bull-market-odds-improve-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "US seeks $61M in USDT allegedly tied to sanctioned Iranian oil sales",
-        "link": "https://cointelegraph.com/news/doj-61m-usdt-forfeiture-iranian-oil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Solana more than triples transaction size limit with mainnet upgrade",
-        "link": "https://cointelegraph.com/news/solana-transaction-size-limit-4096-bytes-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "CLARITY Act odds fall to 16% as key Democrats resist GOP’s ‘final’ offer",
-        "link": "https://cointelegraph.com/news/clarity-act-odds-fall-democrats-gop-final-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "CoinEx to cease operation after 9 years, citing ‘significant’ crypto contraction",
-        "link": "https://cointelegraph.com/news/coinex-cease-operation-citing-significant-crypto-contraction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-09-15T12:38:16.457Z"
   }
 ]
