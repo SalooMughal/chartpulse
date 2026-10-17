@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-10-17",
+    "date": "2026-10-17",
+    "title": "Crypto Market Recap — October 17, 2026",
+    "summary": "Bitcoin is trading at $81,441, down 0.1% over the last 24 hours. Ethereum is trading at $2,432, up 0.5% over the last 24 hours. Solana is trading at $104.49, up 0.2% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 81441.1,
+        "change": -0.07
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2431.57,
+        "change": 0.48
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 104.49,
+        "change": 0.16
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
+        "link": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Lagarde says euro-area economy is resilient, digital euro imminent",
+        "link": "https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitget to discontinue services for some users in one-off exercise",
+        "link": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race",
+        "link": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Stablecoin remittances cost 84% less than traditional transfers, report finds",
+        "link": "https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
+        "link": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints",
+        "link": "https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-10-17T11:33:49.113Z"
+  },
+  {
     "id": "digest-2026-10-16",
     "date": "2026-10-16",
     "title": "Crypto Market Recap — October 16, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-09-18T12:12:28.732Z"
-  },
-  {
-    "id": "digest-2026-09-17",
-    "date": "2026-09-17",
-    "title": "Crypto Market Recap — September 17, 2026",
-    "summary": "Bitcoin is trading at $76,910, up 1.0% over the last 24 hours. Ethereum is trading at $2,463, up 1.9% over the last 24 hours. Solana is trading at $101.14, up 2.6% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 76910.22,
-        "change": 1
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 2462.78,
-        "change": 1.91
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 101.14,
-        "change": 2.61
-      }
-    ],
-    "headlines": [
-      {
-        "title": "State hackers drive 420% surge in onchain malware, Chainalysis finds",
-        "link": "https://cointelegraph.com/news/onchain-malware-writes-surge-420-north-korea-iran-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Zcash gains 20% as Paradigm founder reveals firm made ZEC investment",
-        "link": "https://cointelegraph.com/markets/zcash-zec-price-paradigm-investment-privacy-coins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Revolut says no direct contact from hackers after $3M public ransom demand",
-        "link": "https://cointelegraph.com/news/revolut-data-breach-monero-ransom-no-direct-contact?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Polymarket users referred to prosecutors in South Korea: Report",
-        "link": "https://cointelegraph.com/news/south-korea-polymarket-users-prosecutors-gambling-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin treasuries buy just 5.9K BTC in three months as paper losses linger",
-        "link": "https://cointelegraph.com/markets/bitcoin-treasuries-buy-just-59k-btc-in-three-months-as-paper-losses-linger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "BitMEX faces Celsius lawsuit ahead of exchange closure",
-        "link": "https://cointelegraph.com/news/celsius-estate-bitmex-6360-btc-liquidation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "OpenAI discloses 6 new cases of ‘misaligned’ AI behavior",
-        "link": "https://cointelegraph.com/news/openai-discloses-6-new-cases-of-misaligned-ai-behavior?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-09-17T12:34:01.503Z"
   }
 ]
