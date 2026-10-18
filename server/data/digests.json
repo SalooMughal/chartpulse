@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-10-18",
+    "date": "2026-10-18",
+    "title": "Crypto Market Recap — October 18, 2026",
+    "summary": "Bitcoin is trading at $81,953, up 0.7% over the last 24 hours. Ethereum is trading at $2,414, up 0.6% over the last 24 hours. Solana is trading at $103.83, up 0.5% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 81953.4,
+        "change": 0.71
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2414.2,
+        "change": 0.61
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 103.83,
+        "change": 0.51
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
+        "link": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
+        "link": "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Tether backs AIsa as strategic investor, completing seed extension round",
+        "link": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
+        "link": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
+        "link": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Lagarde says euro-area economy is resilient, digital euro under development",
+        "link": "https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitget to discontinue services for some users in one-off exercise",
+        "link": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-10-18T12:02:06.128Z"
+  },
+  {
     "id": "digest-2026-10-17",
     "date": "2026-10-17",
     "title": "Crypto Market Recap — October 17, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-09-19T11:54:55.096Z"
-  },
-  {
-    "id": "digest-2026-09-18",
-    "date": "2026-09-18",
-    "title": "Crypto Market Recap — September 18, 2026",
-    "summary": "Bitcoin is trading at $77,953, up 2.1% over the last 24 hours. Ethereum is trading at $2,504, up 2.4% over the last 24 hours. Solana is trading at $105.5, up 3.9% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 77953.07,
-        "change": 2.1
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 2503.65,
-        "change": 2.38
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 105.5,
-        "change": 3.9
-      }
-    ],
-    "headlines": [
-      {
-        "title": "HYPE hits record above $90 as Hyperliquid launches manual borrowing",
-        "link": "https://cointelegraph.com/markets/hype-ath-above-90-hyperliquid-manual-borrowing-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Dragonfly’s Qureshi calls for end to Zcash dev fund after 2028",
-        "link": "https://cointelegraph.com/news/dragonflys-qureshi-end-zcash-dev-fund-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin adds to bull-market hopes as price metric prints fourth-ever bullish cross",
-        "link": "https://cointelegraph.com/markets/bitcoin-adds-to-bull-market-hopes-as-price-metric-prints-fourth-ever-bullish-cross?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Stablecoin payments firm dtcpay closes $25M round with SBI backing",
-        "link": "https://cointelegraph.com/news/dtcpay-25m-series-a-sbi-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Binance brushes off Lagarde MiCA speculation, reaffirms Europe commitment",
-        "link": "https://cointelegraph.com/news/binance-cites-speculation-report-ecb-chief-mica-intervention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin cycle bottom may already be in at $58K, says analyst James Check",
-        "link": "https://cointelegraph.com/markets/bitcoin-cycle-bottom-58k-james-check?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Zcash targets November for NU7 mainnet upgrade with 25-second blocks",
-        "link": "https://cointelegraph.com/news/zcash-nu7-november-mainnet-activation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-09-18T12:12:28.732Z"
   }
 ]
