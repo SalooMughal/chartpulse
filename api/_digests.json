@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-10-20",
+    "date": "2026-10-20",
+    "title": "Crypto Market Recap — October 20, 2026",
+    "summary": "Bitcoin is trading at $81,417, down 0.5% over the last 24 hours. Ethereum is trading at $2,390, down 0.6% over the last 24 hours. Solana is trading at $104.24, down 0.7% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 81416.67,
+        "change": -0.51
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2390.06,
+        "change": -0.62
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 104.24,
+        "change": -0.69
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
+        "link": "https://cointelegraph.com/news/tx-ustx-stablecoin-rwa-liquidity-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Lloyds and Barclays among UK banks named in crypto transfer complaints, advocacy group says",
+        "link": "https://cointelegraph.com/news/uk-banks-crypto-transfer-complaints-stand-with-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Netflix FTX trailer was ‘enough to upset me’ in first 30 seconds: former FTX COO",
+        "link": "https://cointelegraph.com/news/netflix-ftx-trailer-upset-first-30-seconds-ftx-coo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Kazakhstan court orders curbs on Coinbase, BingX and four others",
+        "link": "https://cointelegraph.com/news/kazakhstan-court-limits-coinbase-bingx-four?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "XRP 30-day exchange inflows pass 6B tokens as whales move to the sidelines",
+        "link": "https://cointelegraph.com/markets/xrp-30-day-exchange-inflows-pass-6b-tokens-as-whales-move-to-the-sidelines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Mt. Gox pushes creditor repayment deadline to 2027 in sixth extension",
+        "link": "https://cointelegraph.com/news/mt-gox-creditor-repayment-deadline-extended-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitget plans Thai crypto exchange acquisition weeks after $388M hack",
+        "link": "https://cointelegraph.com/news/bitget-plans-thai-crypto-exchange-acquisition-weeks-after-388m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "JPMorgan projects Bitcoin to outperform US stocks and gold over next decade",
+        "link": "https://cointelegraph.com/markets/jpmorgan-bitcoin-outperform-stocks-gold-annual-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-10-20T12:41:06.414Z"
+  },
+  {
     "id": "digest-2026-10-19",
     "date": "2026-10-19",
     "title": "Crypto Market Recap — October 19, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-09-21T14:03:36.711Z"
-  },
-  {
-    "id": "digest-2026-09-20",
-    "date": "2026-09-20",
-    "title": "Crypto Market Recap — September 20, 2026",
-    "summary": "Bitcoin is trading at $80,461, down 1.0% over the last 24 hours. Ethereum is trading at $2,579, down 2.0% over the last 24 hours. Solana is trading at $108.62, down 2.2% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 80461.43,
-        "change": -0.95
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 2579.4,
-        "change": -1.99
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 108.62,
-        "change": -2.17
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Trump says US will form ‘AI Force’ and appoint AI czar: Reports",
-        "link": "https://cointelegraph.com/news/trump-says-us-will-form-ai-force-and-appoint-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Grayscale’s Zcash ETF files for 3-for-1 forward share split",
-        "link": "https://cointelegraph.com/news/grayscales-zcash-etf-files-for-3-for-1-forward-share-split?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Anthropic tabs Accenture as embedded evaluator to help with AI slowdown proposal",
-        "link": "https://cointelegraph.com/news/anthropic-tabs-accenture-as-embedded-evaluator-to-help-with-ai-slowdown-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "REX launches 2x leveraged ETF tied to Bitcoin treasury firm Strive",
-        "link": "https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Kalshi joins Coinbase with own filing for US stock perpetual futures",
-        "link": "https://cointelegraph.com/news/kalshi-joins-coinbase-with-filing-for-us-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "VanEck criticizes Metaplanet over executive dilution despite compensation cuts",
-        "link": "https://cointelegraph.com/news/vaneck-labels-metaplanet-compensation-bad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bastion wins conditional OCC approval for national trust bank charter",
-        "link": "https://cointelegraph.com/news/bastion-wins-conditional-occ-approval-for-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Hong Kong jails ex-banker over $1.6B false credit, cryptocurrency bribes: Report",
-        "link": "https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-09-20T12:18:01.035Z"
   }
 ]
