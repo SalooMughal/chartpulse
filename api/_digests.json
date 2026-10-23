@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-10-23",
+    "date": "2026-10-23",
+    "title": "Crypto Market Recap — October 23, 2026",
+    "summary": "Bitcoin is trading at $81,627, up 0.4% over the last 24 hours. Ethereum is trading at $2,400, up 0.6% over the last 24 hours. Solana is trading at $104.56, up 1.0% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 81627.36,
+        "change": 0.39
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2400.21,
+        "change": 0.6
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 104.56,
+        "change": 0.99
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Bitcoin consolidates after 3% loss as AI fears stoke fresh stock-market weakness",
+        "link": "https://cointelegraph.com/markets/bitcoin-consolidates-after-3-loss-as-ai-fears-stoke-fresh-stock-market-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Was crypto self-custody ever designed for beginners?",
+        "link": "https://cointelegraph.com/news/self-custody-crypto-beginners-mainstream-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
+        "link": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bybit secures first full Dubai license for spot trading services",
+        "link": "https://cointelegraph.com/news/bybit-first-full-dubai-spot-trading-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "HSBC launches Hong Kong dollar stablecoin for retail payments",
+        "link": "https://cointelegraph.com/news/hsbc-launches-redcoin-hong-kong-dollar-stablecoin-payme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Malaysia, Thailand join Singapore’s cross-border stablecoin push",
+        "link": "https://cointelegraph.com/news/malaysia-thailand-join-singapores-cross-border-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin ETFs bleed $635M as October slides back into the red",
+        "link": "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-10-23T12:35:19.513Z"
+  },
+  {
     "id": "digest-2026-10-22",
     "date": "2026-10-22",
     "title": "Crypto Market Recap — October 22, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-09-24T12:41:53.683Z"
-  },
-  {
-    "id": "digest-2026-09-23",
-    "date": "2026-09-23",
-    "title": "Crypto Market Recap — September 23, 2026",
-    "summary": "Bitcoin is trading at $85,509, down 0.8% over the last 24 hours. Ethereum is trading at $2,724, down 1.1% over the last 24 hours. Solana is trading at $116.93, down 1.4% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 85509.24,
-        "change": -0.8
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 2723.76,
-        "change": -1.08
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 116.93,
-        "change": -1.37
-      }
-    ],
-    "headlines": [
-      {
-        "title": "EU watchdogs warn quantum computers could pick crypto’s locks",
-        "link": "https://cointelegraph.com/news/eu-watchdogs-quantum-computers-crypto-locks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "CFTC chair pushes tokenization as SEC opens door to onchain stocks",
-        "link": "https://cointelegraph.com/news/cftc-selig-mass-tokenization-sec-onchain-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin bull market ‘confirmed’ but $90K presents profit-taking risk: Analysis",
-        "link": "https://cointelegraph.com/markets/bitcoin-bull-market-confirmed-but-90k-presents-profit-taking-risk-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Raiffeisen to offer crypto trading across 11 European markets via Bitpanda",
-        "link": "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "BitMEX ends crypto trading, keeps withdrawals open after closure",
-        "link": "https://cointelegraph.com/news/bitmex-ends-crypto-trading-withdrawals-open?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Zcash’s November upgrade could freeze funds in legacy Sprout pool",
-        "link": "https://cointelegraph.com/news/zcash-nu7-upgrade-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin ETFs take in $1.7B in 2 days as BTC tops holder cost basis",
-        "link": "https://cointelegraph.com/markets/bitcoin-etf-inflow-2-days-holder-profitable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-09-23T12:43:42.795Z"
   }
 ]
