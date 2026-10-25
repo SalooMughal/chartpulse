@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-10-25",
+    "date": "2026-10-25",
+    "title": "Crypto Market Recap — October 25, 2026",
+    "summary": "Bitcoin is trading at $80,244, down 0.7% over the last 24 hours. Ethereum is trading at $2,326, down 1.2% over the last 24 hours. Solana is trading at $100.61, down 1.6% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 80244.19,
+        "change": -0.65
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2326.02,
+        "change": -1.25
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 100.61,
+        "change": -1.58
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
+        "link": "https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
+        "link": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "IRS plans lower tax disclosure penalties, including for crypto: Forbes",
+        "link": "https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+        "link": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
+        "link": "https://cointelegraph.com/news/us-senator-probe-bo-hines-trump-crypto-adviser-tether-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "SEC flags tokenization as high-risk area in 2027 market examinations",
+        "link": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin seeks support above $81K as Brent crude oil hits highest level since March",
+        "link": "https://cointelegraph.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-10-25T12:32:25.423Z"
+  },
+  {
     "id": "digest-2026-10-24",
     "date": "2026-10-24",
     "title": "Crypto Market Recap — October 24, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-09-26T12:12:36.178Z"
-  },
-  {
-    "id": "digest-2026-09-25",
-    "date": "2026-09-25",
-    "title": "Crypto Market Recap — September 25, 2026",
-    "summary": "Bitcoin is trading at $84,410, up 0.0% over the last 24 hours. Ethereum is trading at $2,715, up 1.0% over the last 24 hours. Solana is trading at $120.89, up 3.3% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 84410,
-        "change": 0.03
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 2715.23,
-        "change": 1.04
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 120.89,
-        "change": 3.31
-      }
-    ],
-    "headlines": [
-      {
-        "title": "SlowMist has yet to confirm crypto theft from iPhone Safari attack",
-        "link": "https://cointelegraph.com/news/no-confirmed-crypto-theft-iphone-safari-attack-slowmist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "IBIT options price trading more calmly after Bitcoin rebound",
-        "link": "https://cointelegraph.com/markets/ibit-options-trading-bitcoins-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Magic Eden scare puts 3,832 NFTs in whitehat protective custody",
-        "link": "https://cointelegraph.com/news/magic-eden-nft-whitehat-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "KelpDAO sues LayerZero, CEO over $292M rsETH bridge exploit",
-        "link": "https://cointelegraph.com/news/kelpdao-layerzero-lawsuit-rseth-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin ETF inflows slow to $191M as six-day streak reaches $2.8B",
-        "link": "https://cointelegraph.com/markets/bitcoin-etf-six-day-streak-2-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Samourai Wallet co-founder faces transfer after 30-day jail ordeal",
-        "link": "https://cointelegraph.com/news/samourai-wallet-co-founder-30-day-prison-transfer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Australian PM warns of AI’s ‘furious pace’ after agent breached government site",
-        "link": "https://cointelegraph.com/news/australia-pm-warns-of-ais-furious-pace-after-agent-breached-government-site?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-09-25T12:44:20.360Z"
   }
 ]
