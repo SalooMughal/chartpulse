@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-10-28",
+    "date": "2026-10-28",
+    "title": "Crypto Market Recap — October 28, 2026",
+    "summary": "Bitcoin is trading at $80,544, down 0.3% over the last 24 hours. Ethereum is trading at $2,331, down 0.7% over the last 24 hours. Solana is trading at $101, down 0.2% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 80544,
+        "change": -0.32
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2331,
+        "change": -0.68
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 101,
+        "change": -0.21
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
+        "link": "https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Cybersecurity’s Black October: How to protect yourself",
+        "link": "https://cointelegraph.com/magazine/cybersecuritys-black-october-how-to-protect-yourself?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "DTCC unit launches tokenization services",
+        "link": "https://cointelegraph.com/news/dtcc-subsidiary-launches-tokenization-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Settlement concerns prompt Euronext to halt CoinShares’ Zcash ETP ahead of debut",
+        "link": "https://cointelegraph.com/news/euronext-suspends-coinshares-zcash-etp-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Mirae Asset Securities issues tokenized notes on Solana",
+        "link": "https://cointelegraph.com/news/mirae-asset-securities-tokenized-notes-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over",
+        "link": "https://cointelegraph.com/markets/bitcoin-price-eyes-82k-as-morgan-stanley-strategist-says-most-of-correction-is-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K",
+        "link": "https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-10-28T13:58:38.720Z"
+  },
+  {
     "id": "digest-2026-10-27",
     "date": "2026-10-27",
     "title": "Crypto Market Recap — October 27, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-09-29T14:01:42.920Z"
-  },
-  {
-    "id": "digest-2026-09-28",
-    "date": "2026-09-28",
-    "title": "Crypto Market Recap — September 28, 2026",
-    "summary": "Bitcoin is trading at $82,912, down 1.8% over the last 24 hours. Ethereum is trading at $2,658, down 1.1% over the last 24 hours. Solana is trading at $117.6, down 3.6% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 82912.28,
-        "change": -1.83
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 2657.73,
-        "change": -1.13
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 117.6,
-        "change": -3.58
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Bitget CEO says $388M hack exploited third-party security vulnerability",
-        "link": "https://cointelegraph.com/news/bitget-388m-hack-third-party-security-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "MiCA focus shifts from rulemaking to supervision, ESMA chair says",
-        "link": "https://cointelegraph.com/news/mica-shift-rulemaking-to-supervision-esma-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Altseason is coming — and traders are more discerning this time",
-        "link": "https://cointelegraph.com/magazine/altseason-is-coming-and-traders-are-more-discerning-this-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Strategy buys 1,665 Bitcoin for $143M as BTC stack hits 847,666",
-        "link": "https://cointelegraph.com/news/strategy-1665-bitcoin-buy-holdings-847666-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "BTC price eyes best Q3 in nine years: Three things to know in Bitcoin this week",
-        "link": "https://cointelegraph.com/markets/btc-price-eyes-best-q3-in-nine-years-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitget resumes Bitcoin withdrawals as hacker swaps ETH via THORChain",
-        "link": "https://cointelegraph.com/news/bitget-btc-withdrawal-hacker-eth-swap-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Hong Kong regulators expand financial reporting oversight to licensed crypto firms",
-        "link": "https://cointelegraph.com/news/hong-kong-sfc-afrc-crypto-financial-reporting-mou?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-09-28T15:22:46.115Z"
   }
 ]
