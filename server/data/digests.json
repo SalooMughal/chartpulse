@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-10-31",
+    "date": "2026-10-31",
+    "title": "Crypto Market Recap — October 31, 2026",
+    "summary": "Bitcoin is trading at $77,319, up 0.2% over the last 24 hours. Ethereum is trading at $2,246, up 0.2% over the last 24 hours. Solana is trading at $95.65, down 0.5% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 77318.88,
+        "change": 0.18
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2245.94,
+        "change": 0.22
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 95.65,
+        "change": -0.52
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Blockchain investigator Chainalysis hit by cybersecurity incident",
+        "link": "https://cointelegraph.com/news/blockchain-investigator-chainalysis-hit-by-cybersecurity-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Binance $6.3B record hack sparks pre-election political clashes",
+        "link": "https://cointelegraph.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Binance hackers raced to move billions before it could be frozen",
+        "link": "https://cointelegraph.com/magazine/binance-hackers-raced-to-move-billions-before-could-be-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B",
+        "link": "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Coinbase leads crypto stock selloff following $6.3B Binance hack",
+        "link": "https://cointelegraph.com/markets/coinbase-leads-crypto-stock-selloff-shares-tumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
+        "link": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Recap: How Binance’s record $6.3B hack unfolded",
+        "link": "https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "As it happened: Binance’s record $6.3B crypto hack",
+        "link": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-10-31T13:36:14.027Z"
+  },
+  {
     "id": "digest-2026-10-30",
     "date": "2026-10-30",
     "title": "Crypto Market Recap — October 30, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-10-02T13:49:23.265Z"
-  },
-  {
-    "id": "digest-2026-10-01",
-    "date": "2026-10-01",
-    "title": "Crypto Market Recap — October 1, 2026",
-    "summary": "Bitcoin is trading at $83,885, up 0.4% over the last 24 hours. Ethereum is trading at $2,694, up 0.4% over the last 24 hours. Solana is trading at $117.74, down 0.3% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 83885.31,
-        "change": 0.39
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 2694.19,
-        "change": 0.38
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 117.74,
-        "change": -0.27
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Bitget’s $388M hack pushes Q3 crypto security losses past $1B",
-        "link": "https://cointelegraph.com/news/bitget-hack-q3-industry-losses-1-26-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "LATAM stablecoin liquidity may depend on few providers, investor says",
-        "link": "https://cointelegraph.com/news/latam-stablecoin-liquidity-may-depend-on-few-providers-investor-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Stablecoins can drain from banks and nations at lightning speed",
-        "link": "https://cointelegraph.com/magazine/stablecoins-can-drain-from-banks-and-nations-at-lightning-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Tokenized assets don’t always mirror traditional markets, Dune finds",
-        "link": "https://cointelegraph.com/news/tokenized-assets-traditional-markets-dune-rwa-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin trapped below $86K as PCE changes cloud inflation reading",
-        "link": "https://cointelegraph.com/markets/bitcoin-rally-lower-us-inflation-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Binance’s EU services face scrutiny over licensing exemption: Report",
-        "link": "https://cointelegraph.com/news/europe-binance-questions-esma-tighter-mica-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Chainalysis beats most Celsius claims, but ‘audit’ lawsuit survives",
-        "link": "https://cointelegraph.com/news/celsius-chainalysis-lawsuit-audit-claim-survives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-10-01T14:25:37.803Z"
   }
 ]
