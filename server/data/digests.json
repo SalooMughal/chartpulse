@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-11-03",
+    "date": "2026-11-03",
+    "title": "Crypto Market Recap — November 3, 2026",
+    "summary": "Bitcoin is trading at $77,247, up 0.7% over the last 24 hours. Ethereum is trading at $2,281, up 1.4% over the last 24 hours. Solana is trading at $93.18, up 1.5% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 77247.35,
+        "change": 0.75
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2281.23,
+        "change": 1.4
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 93.18,
+        "change": 1.47
+      }
+    ],
+    "headlines": [
+      {
+        "title": "What’s at stake for crypto as the US votes in the 2026 midterms?",
+        "link": "https://cointelegraph.com/news/us-midterms-2026-stake-crypto-election-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Moscow Exchange to launch Bitcoin, Ether and USDT trading in December",
+        "link": "https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "NEAR token sinks 7% as proposal to cut annual token issuance passes",
+        "link": "https://cointelegraph.com/markets/near-sinks-7-proposal-cut-annual-token-issuance-passes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Binance’s net inflows turn positive at $2.3B as withdrawals expand",
+        "link": "https://cointelegraph.com/news/binances-daily-inflows-positive-18b-withdrawals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "France postpones 2027 budget vote, crypto exit-tax proposals scrapped",
+        "link": "https://cointelegraph.com/news/france-postpones-2027-budget-vote-reject-crypto-exit-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin price threatens $77.7K support loss with recent buyers underwater",
+        "link": "https://cointelegraph.com/markets/bitcoin-price-support-loss-recent-buyers-underwater?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "ARK buys $17M in Coinbase, Circle shares while trimming Bullish",
+        "link": "https://cointelegraph.com/news/ark-buys-coinbase-circle-trims-bullish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-11-03T15:03:09.212Z"
+  },
+  {
     "id": "digest-2026-11-02",
     "date": "2026-11-02",
     "title": "Crypto Market Recap — November 2, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-10-05T15:57:24.325Z"
-  },
-  {
-    "id": "digest-2026-10-04",
-    "date": "2026-10-04",
-    "title": "Crypto Market Recap — October 4, 2026",
-    "summary": "Bitcoin is trading at $85,126, up 0.5% over the last 24 hours. Ethereum is trading at $2,695, up 0.3% over the last 24 hours. Solana is trading at $121.29, up 1.4% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 85126.24,
-        "change": 0.45
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 2694.74,
-        "change": 0.29
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 121.29,
-        "change": 1.42
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Japan adds Garantex to list of Russia sanctions over Ukraine war",
-        "link": "https://cointelegraph.com/news/japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
-        "link": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Russia’s Finance Ministry pays wages in digital rubles for first time",
-        "link": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "NEAR Intents recovers entire stolen $3.8M after ultimatum to exploiter",
-        "link": "https://cointelegraph.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Community banks sue OCC over trust bank charters of crypto firms",
-        "link": "https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Trump expected to appoint Jay Clayton as new AI czar: Reports",
-        "link": "https://cointelegraph.com/news/trump-is-expected-to-appoint-jay-clayton-as-new-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO",
-        "link": "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-10-04T13:09:57.515Z"
   }
 ]
