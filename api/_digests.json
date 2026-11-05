@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-11-05",
+    "date": "2026-11-05",
+    "title": "Crypto Market Recap — November 5, 2026",
+    "summary": "Bitcoin is trading at $76,527, down 4.9% over the last 24 hours. Ethereum is trading at $2,293, down 5.3% over the last 24 hours. Solana is trading at $90.82, down 4.9% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 76527.3,
+        "change": -4.85
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2292.74,
+        "change": -5.35
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 90.82,
+        "change": -4.92
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Blockchain is ‘perfect solution’ for AI agent trust, VeChain CEO says",
+        "link": "https://cointelegraph.com/news/blockchain-is-perfect-solution-for-ai-agent-trust-vechain-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Can decentralized phone networks power the AI revolution?",
+        "link": "https://cointelegraph.com/magazine/can-decentralized-phone-networks-power-the-ai-revolution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Trump’s memecoin ventures derailed CLARITY Act, Scaramucci says",
+        "link": "https://cointelegraph.com/news/scaramucci-trump-memecoins-clarity-act-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Thailand to block Bitget in December over unlicensed crypto trading",
+        "link": "https://cointelegraph.com/news/thailand-block-bitget-december-unlicensed-crypto-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin win rate vs. S&P 500 recovers as post-midterm history favors stocks",
+        "link": "https://cointelegraph.com/markets/bitcoin-win-rate-sp-500-us-midterms-stocks-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "South Korea seeks 4th crypto tax delay, targets 2029 start",
+        "link": "https://cointelegraph.com/news/south-korea-crypto-tax-fourth-delay-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "France budget rejection sidelines stablecoin tax, wallet reporting",
+        "link": "https://cointelegraph.com/news/france-rejects-budget-revenue-sidelines-crypto-amendments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-11-05T15:25:09.094Z"
+  },
+  {
     "id": "digest-2026-11-04",
     "date": "2026-11-04",
     "title": "Crypto Market Recap — November 4, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-10-07T14:27:27.583Z"
-  },
-  {
-    "id": "digest-2026-10-06",
-    "date": "2026-10-06",
-    "title": "Crypto Market Recap — October 6, 2026",
-    "summary": "Bitcoin is trading at $86,269, up 0.6% over the last 24 hours. Ethereum is trading at $2,711, up 0.0% over the last 24 hours. Solana is trading at $120.77, up 0.0% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 86269.45,
-        "change": 0.61
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 2710.55,
-        "change": 0.04
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 120.77,
-        "change": 0
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Ethereum’s Glamsterdam upgrade launches on Sepolia testnet",
-        "link": "https://cointelegraph.com/news/ethereums-glamsterdam-upgrade-launches-on-sepolia-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "OKX exchange raises fresh capital at $25B valuation",
-        "link": "https://cointelegraph.com/news/okx-exchange-raises-capital-25b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Capital starting to rotate back to crypto from AI: Raoul Pal",
-        "link": "https://cointelegraph.com/features/weaker-dollar-crypto-green-light-raoul-pal-trade-secrets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "US crypto rules need to survive the next election",
-        "link": "https://cointelegraph.com/opinion/us-crypto-rules-need-to-survive-the-next-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Paxos’ $3B USDG stablecoin launches on Arbitrum",
-        "link": "https://cointelegraph.com/news/paxos-3b-usdg-stablecoin-launches-arbitrum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Polymarket overhauls smart contracts with new Protocol V2 rollout",
-        "link": "https://cointelegraph.com/news/polymarket-smart-contract-overhaul-protocol-v2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Hong Kong officials double down on end-2026 deadline for crypto licensing bill",
-        "link": "https://cointelegraph.com/news/hong-kong-govt-end-2026-deadline-crypto-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-10-06T14:08:50.793Z"
   }
 ]
