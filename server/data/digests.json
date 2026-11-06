@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-11-06",
+    "date": "2026-11-06",
+    "title": "Crypto Market Recap — November 6, 2026",
+    "summary": "Bitcoin is trading at $75,343, down 0.8% over the last 24 hours. Ethereum is trading at $2,221, down 0.6% over the last 24 hours. Solana is trading at $90.65, up 1.6% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 75342.67,
+        "change": -0.82
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2221.31,
+        "change": -0.6
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 90.65,
+        "change": 1.63
+      }
+    ],
+    "headlines": [
+      {
+        "title": "What Democrats’ US midterm sweep means for the CLARITY Act",
+        "link": "https://cointelegraph.com/magazine/clarity-act-faces-new-test-under-democratic-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
+        "link": "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved",
+        "link": "https://cointelegraph.com/news/ethereum-devs-fork-glamsterdam-hoodi-smart-contract-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Solana’s Shanghai event halted over unauthorized promotion: Report",
+        "link": "https://cointelegraph.com/news/solana-shanghai-event-halted-unauthorized-promotion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Binance hackers had 8 weeks of access before $6.3B exploit, Security Alliance estimates",
+        "link": "https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash",
+        "link": "https://cointelegraph.com/markets/bitcoin-holds-ai-regulation-fears-kospi-halted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Greece approves 10% tax on crypto gains starting in 2027",
+        "link": "https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-11-06T14:58:29.608Z"
+  },
+  {
     "id": "digest-2026-11-05",
     "date": "2026-11-05",
     "title": "Crypto Market Recap — November 5, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-10-08T14:32:41.598Z"
-  },
-  {
-    "id": "digest-2026-10-07",
-    "date": "2026-10-07",
-    "title": "Crypto Market Recap — October 7, 2026",
-    "summary": "Bitcoin is trading at $83,091, down 2.9% over the last 24 hours. Ethereum is trading at $2,564, down 4.9% over the last 24 hours. Solana is trading at $116.09, down 3.8% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 83091.37,
-        "change": -2.86
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 2564.27,
-        "change": -4.93
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 116.09,
-        "change": -3.81
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Chasing 100x tokens is game of ‘irrational exuberance,’ says Polymarket CEO",
-        "link": "https://cointelegraph.com/news/chasing-100x-tokens-irrational-exuberance-polymarket-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Crypto card access doesn’t match global demand, Tangem says",
-        "link": "https://cointelegraph.com/news/crypto-card-access-doesnt-match-global-demand-tangem-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Trump-backed WLFI plans USD1 payments for online businesses",
-        "link": "https://cointelegraph.com/news/trump-backed-wlfi-plans-usd1-payments-for-online-businesses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Wall Street wealth creation model is unsustainable for most participants: Hyperliquid CEO",
-        "link": "https://cointelegraph.com/news/wall-street-wealth-creation-unsustainable-hyperliquid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "‘Old money’ has stronger Bitcoin ‘diamond hands,’ says BingX exec",
-        "link": "https://cointelegraph.com/news/bingx-old-money-bitcoin-diamond-hands-token2049?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Crypto liquidations hit $550M as Bitcoin price dips below $84K",
-        "link": "https://cointelegraph.com/markets/crypto-liquidations-hit-550m-as-bitcoin-price-dips-below-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin ETFs rebound with $119M inflow as Ether extends losses",
-        "link": "https://cointelegraph.com/markets/bitcoin-etf-rebound-119m-inflow-ether-extend-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-10-07T14:27:27.583Z"
   }
 ]
