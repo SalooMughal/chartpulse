@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-11-07",
+    "date": "2026-11-07",
+    "title": "Crypto Market Recap — November 7, 2026",
+    "summary": "Bitcoin is trading at $75,832, up 0.1% over the last 24 hours. Ethereum is trading at $2,243, up 0.3% over the last 24 hours. Solana is trading at $89.87, down 0.2% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 75831.75,
+        "change": 0.13
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2242.75,
+        "change": 0.33
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 89.87,
+        "change": -0.17
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Bitcoin holders have received eCash — What can you do with it?",
+        "link": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "US sanctions Canadian money-exchange firms over Iran ties",
+        "link": "https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Suspicious prediction market activity seen before election poll release: NYT",
+        "link": "https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Nvidia may face a more hostile post-election Washington: Report",
+        "link": "https://cointelegraph.com/news/nvidia-may-be-facing-a-more-hostile-post-election-washington-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "US Treasury cuts off MEXC over alleged $16B in illicit transactions",
+        "link": "https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
+        "link": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Binance hack is ‘cyber war,’ TRM Labs executive says",
+        "link": "https://cointelegraph.com/interview/trm-labs-binance-hack-interview?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-11-07T13:56:51.633Z"
+  },
+  {
     "id": "digest-2026-11-06",
     "date": "2026-11-06",
     "title": "Crypto Market Recap — November 6, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-10-09T14:20:18.966Z"
-  },
-  {
-    "id": "digest-2026-10-08",
-    "date": "2026-10-08",
-    "title": "Crypto Market Recap — October 8, 2026",
-    "summary": "Bitcoin is trading at $82,666, down 0.7% over the last 24 hours. Ethereum is trading at $2,530, down 1.6% over the last 24 hours. Solana is trading at $112.41, down 3.3% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 82666.1,
-        "change": -0.73
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 2530.46,
-        "change": -1.65
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 112.41,
-        "change": -3.3
-      }
-    ],
-    "headlines": [
-      {
-        "title": "‘No going back’ for institutions moving toward tokenized onchain future, says Fidelity",
-        "link": "https://cointelegraph.com/news/institutions-tokenized-onchain-future-no-going-back-fidelity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Crypto lending rises again… but have they solved the risks?",
-        "link": "https://cointelegraph.com/magazine/crypto-lending-rises-again-but-have-they-solved-the-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "EU lawmakers push crypto onto anti-corruption agenda",
-        "link": "https://cointelegraph.com/news/eu-lawmakers-crypto-anti-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Sui’s Hashi to launch with $500M in Bitcoin finance commitments",
-        "link": "https://cointelegraph.com/news/sui-hashi-bitcoin-finance-commitments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "US government moves $770M of seized Bitcoin to Coinbase Prime",
-        "link": "https://cointelegraph.com/news/us-government-moves-770m-seized-bitcoin-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin monthly ‘new money’ inflows near $5B as BTC price rally stalls",
-        "link": "https://cointelegraph.com/markets/bitcoin-monthly-new-money-inflows-near-5b-as-btc-price-rally-stalls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "ESMA gives crypto firms 3 months to exit non-compliant stablecoins",
-        "link": "https://cointelegraph.com/news/esma-unauthorised-stablecoins-three-month-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-10-08T14:32:41.598Z"
   }
 ]
