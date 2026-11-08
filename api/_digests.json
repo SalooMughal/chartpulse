@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-11-08",
+    "date": "2026-11-08",
+    "title": "Crypto Market Recap — November 8, 2026",
+    "summary": "Bitcoin is trading at $75,831, up 0.1% over the last 24 hours. Ethereum is trading at $2,234, down 0.1% over the last 24 hours. Solana is trading at $89.14, down 0.6% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 75830.78,
+        "change": 0.1
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2234.34,
+        "change": -0.1
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 89.14,
+        "change": -0.59
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Binance France emails announce closure of its users’ accounts on Dec. 31",
+        "link": "https://cointelegraph.com/news/binance-france-emails-announce-closure-of-its-users-accounts-on-dec-31?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Amsterdam protesters break into Microsoft data center construction site: Report",
+        "link": "https://cointelegraph.com/news/amsterdam-data-center-protesters-break-into-construction-site-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Binance’s  finance chief Kaiser Ng to leave company, report says",
+        "link": "https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
+        "link": "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin holders have received eCash — What can you do with it?",
+        "link": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "US sanctions Canadian money-exchange firms over Iran ties",
+        "link": "https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Suspicious prediction market activity seen before election poll release: NYT",
+        "link": "https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-11-08T14:15:38.669Z"
+  },
+  {
     "id": "digest-2026-11-07",
     "date": "2026-11-07",
     "title": "Crypto Market Recap — November 7, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-10-10T13:36:33.227Z"
-  },
-  {
-    "id": "digest-2026-10-09",
-    "date": "2026-10-09",
-    "title": "Crypto Market Recap — October 9, 2026",
-    "summary": "Bitcoin is trading at $82,997, up 1.6% over the last 24 hours. Ethereum is trading at $2,488, up 0.6% over the last 24 hours. Solana is trading at $110, up 0.4% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 82997.44,
-        "change": 1.6
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 2488.39,
-        "change": 0.63
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 110,
-        "change": 0.42
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Dragonfly partner rejects ‘bunker mode’ doomerism, calls for proactive blockchain measures",
-        "link": "https://cointelegraph.com/news/dragonfly-bunker-mode-doomerism-proactive-blockchain-measures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "France is world’s most dangerous place for Bitcoiners: 90 attacks in 7 months",
-        "link": "https://cointelegraph.com/magazine/france-is-worlds-most-dangerous-place-for-bitcoiners-90-attacks-in-7-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "ESMA seeks evidence tokenized collateral can be cashed out in crisis",
-        "link": "https://cointelegraph.com/news/esma-tokenized-collateral-eu-clearinghouses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "UK sanctions three crypto exchanges tied to Russian illicit funds",
-        "link": "https://cointelegraph.com/news/uk-sanctions-crypto-exchanges-russian-illicit-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "French lawmakers back stablecoin swap tax in 2027 budget bill",
-        "link": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin speculators move 55K BTC to exchanges amid $1.1B liquidations",
-        "link": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-crypto-liquidation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin, Ether ETFs’ October outflows swell toward $1B",
-        "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-october-outflows-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-10-09T14:20:18.966Z"
   }
 ]
