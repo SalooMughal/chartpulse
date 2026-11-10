@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-11-10",
+    "date": "2026-11-10",
+    "title": "Crypto Market Recap — November 10, 2026",
+    "summary": "Bitcoin is trading at $73,944, down 1.7% over the last 24 hours. Ethereum is trading at $2,062, down 3.3% over the last 24 hours. Solana is trading at $83.28, down 3.9% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 73944.23,
+        "change": -1.75
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 2062.23,
+        "change": -3.28
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 83.28,
+        "change": -3.86
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Poland’s lower house backs sanctions bill covering crypto freezes",
+        "link": "https://cointelegraph.com/news/poland-bill-freeze-sanctions-crypto-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin’s ‘best buying opportunity ever’ has arrived: Mark Moss",
+        "link": "https://cointelegraph.com/magazine/bitcoins-best-buying-opportunity-ever-has-arrived-mark-moss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin may benefit as global tightening slows, Binance Research says",
+        "link": "https://cointelegraph.com/markets/bitcoin-price-global-tightening-binance-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Coinbase, Kalshi join lawsuit backing CFTC over US stock perp futures",
+        "link": "https://cointelegraph.com/news/coinbase-kalshi-cftc-stock-perpetual-futures-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Binance warns iOS flaw could expose crypto wallet keys",
+        "link": "https://cointelegraph.com/news/binance-warns-ios-flaw-could-expose-crypto-wallet-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Ex-employee sues Ethereum Foundation and Vitalik Buterin over firing",
+        "link": "https://cointelegraph.com/news/ex-employee-sues-ethereum-foundation-vitalik-buterin-over-firing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin price eyes $74K as Fed rate-hike bets hit 96% after Waller speech",
+        "link": "https://cointelegraph.com/markets/bitcoin-price-eyes-74k-fed-rate-hike-expected-after-waller-speech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-11-10T15:32:39.707Z"
+  },
+  {
     "id": "digest-2026-11-09",
     "date": "2026-11-09",
     "title": "Crypto Market Recap — November 9, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-10-12T16:41:48.278Z"
-  },
-  {
-    "id": "digest-2026-10-11",
-    "date": "2026-10-11",
-    "title": "Crypto Market Recap — October 11, 2026",
-    "summary": "Bitcoin is trading at $82,987, up 0.1% over the last 24 hours. Ethereum is trading at $2,500, down 0.2% over the last 24 hours. Solana is trading at $109.3, down 0.6% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 82986.85,
-        "change": 0.09
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 2499.76,
-        "change": -0.16
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 109.3,
-        "change": -0.63
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Coldcard says it’s investigating how phishing link appeared on its X account",
-        "link": "https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Ledger confirms unauthorized hardware implant; losses may exceed $86M",
-        "link": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
-        "link": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Justin Sun says Tron’s post-quantum cryptography has gone live on testnet",
-        "link": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Tech chief says EU can fend off rogue AI risk: Report",
-        "link": "https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
-        "link": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "US plans to seize $1B in crypto linked to Iran this week: Scott Bessent",
-        "link": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-10-11T13:59:11.949Z"
   }
 ]
