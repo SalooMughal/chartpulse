@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-11-15",
+    "date": "2026-11-15",
+    "title": "Crypto Market Recap — November 15, 2026",
+    "summary": "Bitcoin is trading at $64,650, up 0.8% over the last 24 hours. Ethereum is trading at $1,809, up 2.3% over the last 24 hours. Solana is trading at $71.12, up 1.2% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 64649.74,
+        "change": 0.83
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1809.46,
+        "change": 2.32
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 71.12,
+        "change": 1.24
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Enterprise blockchain is going to come back from the dead",
+        "link": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+        "link": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Coinone warns of phishing, identity theft after customer data breach",
+        "link": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+        "link": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Microsoft confirms global outage resolved, rules out cyberattack",
+        "link": "https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
+        "link": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
+        "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-11-15T14:42:34.817Z"
+  },
+  {
     "id": "digest-2026-11-14",
     "date": "2026-11-14",
     "title": "Crypto Market Recap — November 14, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-10-17T11:33:49.113Z"
-  },
-  {
-    "id": "digest-2026-10-16",
-    "date": "2026-10-16",
-    "title": "Crypto Market Recap — October 16, 2026",
-    "summary": "Bitcoin is trading at $82,228, up 0.1% over the last 24 hours. Ethereum is trading at $2,466, up 1.1% over the last 24 hours. Solana is trading at $106.17, up 0.8% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 82228.47,
-        "change": 0.12
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 2465.75,
-        "change": 1.08
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 106.17,
-        "change": 0.79
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Solana’s Liu says Shanghai event postponed over registration surge",
-        "link": "https://cointelegraph.com/news/solana-shanghai-postponed-exceeding-event-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "CONNECT recap: Liquidity is tokenization’s next challenge, everyday stablecoins",
-        "link": "https://cointelegraph.com/news/connect-recap-tokenizations-next-challenge-is-building-liquidity-gsr-executive-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin may seek 20-month trend line reclaim before new record highs: CryptoQuant",
-        "link": "https://cointelegraph.com/markets/bitcoin-seeks-20-month-trend-line-reclaim-before-new-record-highs-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Capital B reports $78M H1 loss driven by Bitcoin impairment charge",
-        "link": "https://cointelegraph.com/news/capital-b-78m-h1-loss-bitcoin-impairment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Judge rejects CFTC, Gemini bid to undo $5M settlement",
-        "link": "https://cointelegraph.com/news/judge-rejects-cftc-gemini-5m-settlement-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "OpenAI model helped itself to testnet crypto, then kept quiet about it",
-        "link": "https://cointelegraph.com/news/openai-model-spent-testnet-eth-without-authorization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Balaji’s ‘Singapore of social media’ begins with a wave of bans",
-        "link": "https://cointelegraph.com/news/balajis-singapore-of-social-media-begins-with-a-wave-of-bans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-10-16T12:21:50.763Z"
   }
 ]
