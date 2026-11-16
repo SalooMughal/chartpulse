@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-11-16",
+    "date": "2026-11-16",
+    "title": "Crypto Market Recap — November 16, 2026",
+    "summary": "Bitcoin is trading at $64,581, down 1.1% over the last 24 hours. Ethereum is trading at $1,822, down 0.7% over the last 24 hours. Solana is trading at $71.1, down 2.2% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 64580.7,
+        "change": -1.12
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1822.24,
+        "change": -0.67
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 71.1,
+        "change": -2.24
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Bitcoin price fails to hold $65K as US stocks drop further on AI nerves",
+        "link": "https://cointelegraph.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Zelle picks Solana for ZelleUSD stablecoin and international payments",
+        "link": "https://cointelegraph.com/news/zelle-solana-zelleusd-stablecoin-international-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Lighter pauses withdrawals after reported $10M account theft",
+        "link": "https://cointelegraph.com/news/lighter-dex-pauses-withdrawals-10m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Banks are banning AI agents over security... and competition concerns",
+        "link": "https://cointelegraph.com/magazine/banks-are-banning-ai-agents-over-security-and-competition-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Strategy buys $33M in Bitcoin, spends $228M on STRC buybacks",
+        "link": "https://cointelegraph.com/news/strategy-buy-485-bitcoin-228-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Binance Pay Later offers credit backed by Bitcoin, Ether and BNB holdings",
+        "link": "https://cointelegraph.com/news/binance-pay-later-crypto-backed-credit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "HKMA, Swift explore tokenized deposits for cross-border bank payments",
+        "link": "https://cointelegraph.com/news/hkma-swift-tokenized-deposits-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-11-16T16:57:45.142Z"
+  },
+  {
     "id": "digest-2026-11-15",
     "date": "2026-11-15",
     "title": "Crypto Market Recap — November 15, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-10-18T12:02:06.128Z"
-  },
-  {
-    "id": "digest-2026-10-17",
-    "date": "2026-10-17",
-    "title": "Crypto Market Recap — October 17, 2026",
-    "summary": "Bitcoin is trading at $81,441, down 0.1% over the last 24 hours. Ethereum is trading at $2,432, up 0.5% over the last 24 hours. Solana is trading at $104.49, up 0.2% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 81441.1,
-        "change": -0.07
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 2431.57,
-        "change": 0.48
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 104.49,
-        "change": 0.16
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
-        "link": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Lagarde says euro-area economy is resilient, digital euro imminent",
-        "link": "https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitget to discontinue services for some users in one-off exercise",
-        "link": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race",
-        "link": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Stablecoin remittances cost 84% less than traditional transfers, report finds",
-        "link": "https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
-        "link": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints",
-        "link": "https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-10-17T11:33:49.113Z"
   }
 ]
