@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-11-17",
+    "date": "2026-11-17",
+    "title": "Crypto Market Recap — November 17, 2026",
+    "summary": "Bitcoin is trading at $63,731, down 1.7% over the last 24 hours. Ethereum is trading at $1,777, down 2.3% over the last 24 hours. Solana is trading at $72.09, up 0.8% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 63731.19,
+        "change": -1.67
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1777.38,
+        "change": -2.29
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 72.09,
+        "change": 0.81
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings",
+        "link": "https://cointelegraph.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Solana Foundation takes majority interest in crypto data firm CoinGecko",
+        "link": "https://cointelegraph.com/news/coingecko-solana-foundation-majority-stake?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin to $1M by 2030? ‘Almost certainly not,’ says Dragonfly’s Qureshi",
+        "link": "https://cointelegraph.com/magazine/bitcoin-to-1m-by-2030-almost-certainly-not-says-dragonflys-qureshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "ARK sells $85M in Nvidia shares ahead of chipmaker’s Q3 earnings results",
+        "link": "https://cointelegraph.com/news/ark-crypto-stock-purchases-nvidia-staking-etf-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Revolut plans four blockchain-based funds for private markets, chair says",
+        "link": "https://cointelegraph.com/news/revolut-four-blockchain-funds-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "US senators seek SEC answers on tokenized stock money laundering risks",
+        "link": "https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "BlackRock’s Bitcoin ETF snaps $2.35B outflow streak amid extreme fear",
+        "link": "https://cointelegraph.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-11-17T16:50:59.431Z"
+  },
+  {
     "id": "digest-2026-11-16",
     "date": "2026-11-16",
     "title": "Crypto Market Recap — November 16, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-10-19T14:37:48.893Z"
-  },
-  {
-    "id": "digest-2026-10-18",
-    "date": "2026-10-18",
-    "title": "Crypto Market Recap — October 18, 2026",
-    "summary": "Bitcoin is trading at $81,953, up 0.7% over the last 24 hours. Ethereum is trading at $2,414, up 0.6% over the last 24 hours. Solana is trading at $103.83, up 0.5% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 81953.4,
-        "change": 0.71
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 2414.2,
-        "change": 0.61
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 103.83,
-        "change": 0.51
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
-        "link": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
-        "link": "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Tether backs AIsa as strategic investor, completing seed extension round",
-        "link": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
-        "link": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
-        "link": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Lagarde says euro-area economy is resilient, digital euro under development",
-        "link": "https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitget to discontinue services for some users in one-off exercise",
-        "link": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-10-18T12:02:06.128Z"
   }
 ]
