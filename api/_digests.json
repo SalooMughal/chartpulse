@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-11-18",
+    "date": "2026-11-18",
+    "title": "Crypto Market Recap — November 18, 2026",
+    "summary": "Bitcoin is trading at $62,503, down 3.7% over the last 24 hours. Ethereum is trading at $1,752, down 3.9% over the last 24 hours. Solana is trading at $72.64, down 3.3% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 62503.32,
+        "change": -3.65
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1751.59,
+        "change": -3.87
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 72.64,
+        "change": -3.29
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Bitcoin Covenants Part 6: FE Covenants — Enforcing covenants through cryptographically restricted signing keys",
+        "link": "https://cointelegraph.com/research/bitcoin-covenants-part-6-fe-covenants-enforcing-covenants-through-cryptographically-restricted-signing-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "CoinShares sells all treasury ETH, halves SOL holdings for buybacks",
+        "link": "https://cointelegraph.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Sanctions fears loom over Russia’s regulated crypto trading launch",
+        "link": "https://cointelegraph.com/news/sanctions-fears-russia-crypto-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "How to preserve wealth and access funds during a national emergency",
+        "link": "https://cointelegraph.com/magazine/how-to-preserve-wealth-and-access-it-during-a-national-emergency?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Tokenized Nvidia market cap surges 159% amid Jensen Huang’s exit",
+        "link": "https://cointelegraph.com/news/tokenized-nvidia-cap-rises-158-stock-loses-750b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitwise seeks Texas Stock Exchange listing for Zcash ETF",
+        "link": "https://cointelegraph.com/news/bitwise-zcash-etf-texas-stock-exchange-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin steadies after Nvidia’s earnings beat as $60K bids stand out",
+        "link": "https://cointelegraph.com/markets/bitcoin-60k-liquidity-stocks-gain-nvidia-1158b-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-11-18T16:24:31.394Z"
+  },
+  {
     "id": "digest-2026-11-17",
     "date": "2026-11-17",
     "title": "Crypto Market Recap — November 17, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-10-20T12:41:06.414Z"
-  },
-  {
-    "id": "digest-2026-10-19",
-    "date": "2026-10-19",
-    "title": "Crypto Market Recap — October 19, 2026",
-    "summary": "Bitcoin is trading at $81,812, down 0.2% over the last 24 hours. Ethereum is trading at $2,388, down 0.8% over the last 24 hours. Solana is trading at $103.72, down 0.3% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 81812.4,
-        "change": -0.24
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 2387.73,
-        "change": -0.82
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 103.72,
-        "change": -0.26
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Made an ‘honest’ mistake with crypto taxes? New bill offers way out",
-        "link": "https://cointelegraph.com/magazine/made-an-honest-mistake-with-crypto-taxes-new-bill-offers-way-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Public companies object to OKX-ICE’s tokenized stock plan",
-        "link": "https://cointelegraph.com/news/public-companies-object-okx-ice-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Strategy buys $22M in Bitcoin, repurchases $193M in STRC",
-        "link": "https://cointelegraph.com/news/strategy-btc-22-million-buy-strc-buyback-193-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "World Liberty’s USD1 stablecoin sheds $400M in market cap in two weeks",
-        "link": "https://cointelegraph.com/news/world-liberty-usd1-stablecoin-market-cap-drops-400-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "BingX, YouHodler added to ESMA MiCA register in latest update",
-        "link": "https://cointelegraph.com/news/bingx-youhodler-esma-mica-register-friday-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "France advances stablecoin tax, eyes self-custodial wallets and exit tax proposals",
-        "link": "https://cointelegraph.com/news/france-stablecoin-tax-eyes-self-custodial-wallets-exit-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Stocks rebound into key tech earnings: Three things to know in Bitcoin this week",
-        "link": "https://cointelegraph.com/markets/stocks-rebound-into-key-tech-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-10-19T14:37:48.893Z"
   }
 ]
