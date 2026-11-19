@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-11-19",
+    "date": "2026-11-19",
+    "title": "Crypto Market Recap — November 19, 2026",
+    "summary": "Bitcoin is trading at $62,962, down 0.0% over the last 24 hours. Ethereum is trading at $1,775, up 0.0% over the last 24 hours. Solana is trading at $73.43, down 0.2% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 62962.46,
+        "change": -0.03
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1775.35,
+        "change": 0.04
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 73.43,
+        "change": -0.16
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Anthropic shares expected to open 26.5% above $83 IPO price",
+        "link": "https://cointelegraph.com/markets/anthropic-shares-expected-to-open-above-83-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Ethereum’s new DeFi security tool raises questions over censorship",
+        "link": "https://cointelegraph.com/magazine/ethereums-new-defi-security-tool-raises-questions-over-censorship?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Hong Kong adds Hyperliquid to list of ‘suspicious’ crypto platforms",
+        "link": "https://cointelegraph.com/news/hyperliquid-hong-kong-regulators-alert-list?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "GTA VI publisher racks up nearly 3x Nvidia’s tokenized stock volume",
+        "link": "https://cointelegraph.com/news/gta-vi-launch-tokenized-ttwo-trade-triple-nvidia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Sweden’s H100 could tap Bitcoin trading pool to fund share buybacks",
+        "link": "https://cointelegraph.com/news/swedens-h100-13m-q3-loss-share-buyback-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "IOSCO warns quantum upgrades could slow blockchains, leave security gaps",
+        "link": "https://cointelegraph.com/news/iosco-quantum-blockchain-upgrades-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Singapore settles $77.5M tokenized bill sale with wholesale CBDC",
+        "link": "https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-11-19T16:30:40.277Z"
+  },
+  {
     "id": "digest-2026-11-18",
     "date": "2026-11-18",
     "title": "Crypto Market Recap — November 18, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-10-21T12:54:04.904Z"
-  },
-  {
-    "id": "digest-2026-10-20",
-    "date": "2026-10-20",
-    "title": "Crypto Market Recap — October 20, 2026",
-    "summary": "Bitcoin is trading at $81,417, down 0.5% over the last 24 hours. Ethereum is trading at $2,390, down 0.6% over the last 24 hours. Solana is trading at $104.24, down 0.7% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 81416.67,
-        "change": -0.51
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 2390.06,
-        "change": -0.62
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 104.24,
-        "change": -0.69
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
-        "link": "https://cointelegraph.com/news/tx-ustx-stablecoin-rwa-liquidity-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Lloyds and Barclays among UK banks named in crypto transfer complaints, advocacy group says",
-        "link": "https://cointelegraph.com/news/uk-banks-crypto-transfer-complaints-stand-with-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Netflix FTX trailer was ‘enough to upset me’ in first 30 seconds: former FTX COO",
-        "link": "https://cointelegraph.com/news/netflix-ftx-trailer-upset-first-30-seconds-ftx-coo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Kazakhstan court orders curbs on Coinbase, BingX and four others",
-        "link": "https://cointelegraph.com/news/kazakhstan-court-limits-coinbase-bingx-four?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "XRP 30-day exchange inflows pass 6B tokens as whales move to the sidelines",
-        "link": "https://cointelegraph.com/markets/xrp-30-day-exchange-inflows-pass-6b-tokens-as-whales-move-to-the-sidelines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Mt. Gox pushes creditor repayment deadline to 2027 in sixth extension",
-        "link": "https://cointelegraph.com/news/mt-gox-creditor-repayment-deadline-extended-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitget plans Thai crypto exchange acquisition weeks after $388M hack",
-        "link": "https://cointelegraph.com/news/bitget-plans-thai-crypto-exchange-acquisition-weeks-after-388m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "JPMorgan projects Bitcoin to outperform US stocks and gold over next decade",
-        "link": "https://cointelegraph.com/markets/jpmorgan-bitcoin-outperform-stocks-gold-annual-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-10-20T12:41:06.414Z"
   }
 ]
