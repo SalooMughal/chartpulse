@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-11-21",
+    "date": "2026-11-21",
+    "title": "Crypto Market Recap — November 21, 2026",
+    "summary": "Bitcoin is trading at $60,111, up 2.2% over the last 24 hours. Ethereum is trading at $1,691, up 4.4% over the last 24 hours. Solana is trading at $70.27, up 2.3% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 60110.6,
+        "change": 2.2
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1690.85,
+        "change": 4.42
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 70.27,
+        "change": 2.26
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
+        "link": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
+        "link": "https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
+        "link": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
+        "link": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims",
+        "link": "https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin falls below $60K for first time since July amid broader market selloff",
+        "link": "https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "US Senate advances prediction market restrictions with DEATH BETS Act",
+        "link": "https://cointelegraph.com/news/us-senate-advances-prediction-market-restrictions-with-death-bets-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-11-21T15:18:40.389Z"
+  },
+  {
     "id": "digest-2026-11-20",
     "date": "2026-11-20",
     "title": "Crypto Market Recap — November 20, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-10-23T12:35:19.513Z"
-  },
-  {
-    "id": "digest-2026-10-22",
-    "date": "2026-10-22",
-    "title": "Crypto Market Recap — October 22, 2026",
-    "summary": "Bitcoin is trading at $81,651, down 2.8% over the last 24 hours. Ethereum is trading at $2,399, down 2.9% over the last 24 hours. Solana is trading at $104.14, down 2.6% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 81651.32,
-        "change": -2.82
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 2399.04,
-        "change": -2.94
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 104.14,
-        "change": -2.55
-      }
-    ],
-    "headlines": [
-      {
-        "title": "The UK needs a workable route to regulated DeFi access",
-        "link": "https://cointelegraph.com/opinion/uk-crypto-rules-regulated-defi-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "CoinDCX pledges no user losses after $16M transfers draw scrutiny",
-        "link": "https://cointelegraph.com/news/coindcx-suspicious-outflows-wallet-compromised-2025-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls",
-        "link": "https://cointelegraph.com/markets/bitcoin-corrects-below-82k-after-tesla-q3-results-kospi-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Starknet voters back research into life beyond Ethereum",
-        "link": "https://cointelegraph.com/news/starknet-vote-post-quantum-l1-research-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "PHP flaw draws millions of exploit attempts, Cloudflare CEO warns",
-        "link": "https://cointelegraph.com/news/cloudflare-millions-exploit-attempts-php-vulnerability-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
-        "link": "https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Move over memecoins: Crypto ‘meme games’ coming, bagholders and all",
-        "link": "https://cointelegraph.com/news/move-over-memecoins-crypto-meme-games-coming-bagholders-and-all?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-10-22T12:56:04.848Z"
   }
 ]
