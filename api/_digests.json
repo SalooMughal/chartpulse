@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-11-24",
+    "date": "2026-11-24",
+    "title": "Crypto Market Recap — November 24, 2026",
+    "summary": "Bitcoin is trading at $59,998, down 1.9% over the last 24 hours. Ethereum is trading at $1,682, down 1.5% over the last 24 hours. Solana is trading at $69.5, down 3.4% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 59998.35,
+        "change": -1.95
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1682.47,
+        "change": -1.52
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 69.5,
+        "change": -3.39
+      }
+    ],
+    "headlines": [
+      {
+        "title": "CFTC sets new prediction market rules as more firms seek US entry",
+        "link": "https://cointelegraph.com/news/cftc-new-prediction-market-rules-firms-seek-us-entry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong",
+        "link": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-fund-stablecoins-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price",
+        "link": "https://cointelegraph.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "How South Korea’s proposed 20% cap could change who runs Upbit",
+        "link": "https://cointelegraph.com/news/how-south-koreas-proposed-20-cap-could-change-who-runs-upbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "USDT buyers face 22% VAT when Moscow Exchange opens crypto trading",
+        "link": "https://cointelegraph.com/news/russia-usdt-buyer-face-22-tax-december-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Swiss central bank, UBS and SIX study ledger for tokenized settlement",
+        "link": "https://cointelegraph.com/news/swiss-central-bank-ubs-six-explore-ledger-tokenized-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Sky lender proposes buyback of up to $50M to fund stUSDS withdrawals",
+        "link": "https://cointelegraph.com/news/sky-community-proposes-50m-buybacks-stusds-liquidity-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Grayscale calls Bitcoin ‘oversold’ at $62K but warns of AI risks",
+        "link": "https://cointelegraph.com/markets/bitcoin-oversold-ai-risks-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-11-24T18:50:55.234Z"
+  },
+  {
     "id": "digest-2026-11-23",
     "date": "2026-11-23",
     "title": "Crypto Market Recap — November 23, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-10-26T14:11:39.646Z"
-  },
-  {
-    "id": "digest-2026-10-25",
-    "date": "2026-10-25",
-    "title": "Crypto Market Recap — October 25, 2026",
-    "summary": "Bitcoin is trading at $80,244, down 0.7% over the last 24 hours. Ethereum is trading at $2,326, down 1.2% over the last 24 hours. Solana is trading at $100.61, down 1.6% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 80244.19,
-        "change": -0.65
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 2326.02,
-        "change": -1.25
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 100.61,
-        "change": -1.58
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
-        "link": "https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
-        "link": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "IRS plans lower tax disclosure penalties, including for crypto: Forbes",
-        "link": "https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
-        "link": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
-        "link": "https://cointelegraph.com/news/us-senator-probe-bo-hines-trump-crypto-adviser-tether-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "SEC flags tokenization as high-risk area in 2027 market examinations",
-        "link": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin seeks support above $81K as Brent crude oil hits highest level since March",
-        "link": "https://cointelegraph.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-10-25T12:32:25.423Z"
   }
 ]
