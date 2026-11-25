@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-11-25",
+    "date": "2026-11-25",
+    "title": "Crypto Market Recap — November 25, 2026",
+    "summary": "Bitcoin is trading at $59,551, down 0.3% over the last 24 hours. Ethereum is trading at $1,674, down 0.2% over the last 24 hours. Solana is trading at $69.32, down 0.4% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 59551.08,
+        "change": -0.32
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1674.3,
+        "change": -0.2
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 69.32,
+        "change": -0.36
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%",
+        "link": "https://cointelegraph.com/markets/bitcoin-falls-57k-us-tariff-pce-data-nasdaq-drops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Nvidia agrees to $290M settlement over crypto mining revenue disclosures",
+        "link": "https://cointelegraph.com/news/nvidia-agrees-290m-settlement-crypto-mining-revenue-disclosures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "FCC authorizes SpaceX to deploy 1M satellites for orbital AI data centers",
+        "link": "https://cointelegraph.com/news/fcc-authorizes-spacex-1m-satellites-orbital-ai-data-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Ex-FTX COO calls out Netflix over CZ’s ‘Asian mafia’ portrayal",
+        "link": "https://cointelegraph.com/news/ftx-coo-netflix-portrayal-binance-founder-racist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Ukraine passes bill to legalize crypto and tax profits at 23%",
+        "link": "https://cointelegraph.com/news/ukraine-passes-bill-crypto-regulation-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization",
+        "link": "https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Hong Kong launches tokenized debt platform with 24-hour settlement",
+        "link": "https://cointelegraph.com/news/hong-kong-central-bank-platform-tokenized-debt-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-11-25T17:56:01.201Z"
+  },
+  {
     "id": "digest-2026-11-24",
     "date": "2026-11-24",
     "title": "Crypto Market Recap — November 24, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-10-27T13:09:42.805Z"
-  },
-  {
-    "id": "digest-2026-10-26",
-    "date": "2026-10-26",
-    "title": "Crypto Market Recap — October 26, 2026",
-    "summary": "Bitcoin is trading at $79,588, down 0.6% over the last 24 hours. Ethereum is trading at $2,310, down 0.7% over the last 24 hours. Solana is trading at $100.76, down 0.5% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 79587.54,
-        "change": -0.58
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 2310.48,
-        "change": -0.7
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 100.76,
-        "change": -0.46
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
-        "link": "https://cointelegraph.com/news/strategy-skips-btc-buy-205-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "HOOD’s prediction markets to add $1.7B to revenue, exceed crypto by 2028: Bernstein",
-        "link": "https://cointelegraph.com/news/prediction-markets-17b-robinhood-exceed-crypto-revenue-2028-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger",
-        "link": "https://cointelegraph.com/news/aviva-investors-launches-tokenized-share-class-of-sterling-fund-on-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week",
-        "link": "https://cointelegraph.com/markets/btc-price-risks-80k-loss-into-fomc-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Securitize’s tokenized stock value halves as Circle widens lead",
-        "link": "https://cointelegraph.com/markets/securitizes-tokenized-stock-circle-lead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin ETFs break 2-week outflow streak with $301M comeback",
-        "link": "https://cointelegraph.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Musk warns over 200 AI neoclouds face ‘guppy-level death’",
-        "link": "https://cointelegraph.com/news/musk-warns-over-200-ai-neoclouds-face-guppy-level-death?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-10-26T14:11:39.646Z"
   }
 ]
