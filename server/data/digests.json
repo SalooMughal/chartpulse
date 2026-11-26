@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-11-26",
+    "date": "2026-11-26",
+    "title": "Crypto Market Recap — November 26, 2026",
+    "summary": "Bitcoin is trading at $60,371, down 0.0% over the last 24 hours. Ethereum is trading at $1,692, up 0.1% over the last 24 hours. Solana is trading at $70.86, up 0.7% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 60370.96,
+        "change": -0.02
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1691.76,
+        "change": 0.08
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 70.86,
+        "change": 0.7
+      }
+    ],
+    "headlines": [
+      {
+        "title": "BIS chief Pablo Hernández de Cos set to become next ECB president: FT",
+        "link": "https://cointelegraph.com/news/bis-chief-pablo-hernndez-de-cos-next-ecb-president?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "How EU brokers could lose access to Kyrgyz crypto exchanges",
+        "link": "https://cointelegraph.com/news/how-eu-brokers-could-lose-access-to-kyrgyz-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Nasdaq exec pushes for common EU rules on tokenized securities",
+        "link": "https://cointelegraph.com/news/nasdaq-exec-eu-wide-legal-framework-tokenized-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "7 bizarre things crypto whales spent a fortune on",
+        "link": "https://cointelegraph.com/magazine/7-bizarre-things-crypto-whales-spent-a-fortune-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Vitalik Buterin calls for verifiable chips as hardware wallet threats evolve",
+        "link": "https://cointelegraph.com/news/vitalik-buterin-verifiable-chips-hardware-wallet-threats-evolve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Standard Chartered’s Zodia Custody suffers data breach",
+        "link": "https://cointelegraph.com/news/standard-chartered-zodia-suffers-data-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin price eyes $61K as Talos warns of thin Thanksgiving liquidity",
+        "link": "https://cointelegraph.com/markets/bitcoin-price-talos-warns-thin-thanksgiving-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-11-26T17:40:58.897Z"
+  },
+  {
     "id": "digest-2026-11-25",
     "date": "2026-11-25",
     "title": "Crypto Market Recap — November 25, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-10-28T13:58:38.720Z"
-  },
-  {
-    "id": "digest-2026-10-27",
-    "date": "2026-10-27",
-    "title": "Crypto Market Recap — October 27, 2026",
-    "summary": "Bitcoin is trading at $80,080, up 0.1% over the last 24 hours. Ethereum is trading at $2,327, up 0.3% over the last 24 hours. Solana is trading at $100.58, down 0.2% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 80079.97,
-        "change": 0.09
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 2327.26,
-        "change": 0.3
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 100.58,
-        "change": -0.18
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Luxor raises $16M from CMT Digital amid AI-Bitcoin miner convergence",
-        "link": "https://cointelegraph.com/news/luxor-raises-16m-ai-bitcoin-miner-convergence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin price analysis sees ‘strong rally’ as old coins become dormant",
-        "link": "https://cointelegraph.com/markets/bitcoin-price-analysis-sees-strong-rally-as-old-coins-become-dormant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Zcash co-founder calls to stop funding ‘over $125M’ grants program",
-        "link": "https://cointelegraph.com/news/zcash-co-founder-ending-zcg-funding-125m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bloom bot hackers loot $953K faster than you can microwave popcorn",
-        "link": "https://cointelegraph.com/news/bloom-bot-hackers-953k-faster-popcorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Binance files for Brazil crypto license ahead of Friday deadline",
-        "link": "https://cointelegraph.com/news/binance-brazil-crypto-license-oct-30-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin ETFs claw back $110M after $774M exit",
-        "link": "https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "RedotPay weighs confidential US IPO filing by year-end: Bloomberg",
-        "link": "https://cointelegraph.com/news/redotpay-weighs-confidential-us-ipo-filing-by-year-end-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-10-27T13:09:42.805Z"
   }
 ]
