@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-11-27",
+    "date": "2026-11-27",
+    "title": "Crypto Market Recap — November 27, 2026",
+    "summary": "Bitcoin is trading at $59,867, down 1.0% over the last 24 hours. Ethereum is trading at $1,669, down 1.1% over the last 24 hours. Solana is trading at $71.97, up 1.5% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 59866.65,
+        "change": -1.04
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1669.14,
+        "change": -1.09
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 71.97,
+        "change": 1.47
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Bitcoin price drops below $59K as Anthropic joins tech stock rebound",
+        "link": "https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "What was Coinbase worth while Nasdaq was closed?",
+        "link": "https://cointelegraph.com/news/what-was-coinbase-worth-while-nasdaq-was-closed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Binance to launch tokenized IPO program after regulatory approval: Yi He",
+        "link": "https://cointelegraph.com/news/binance-ipo-program-regulatory-approval-yi-he?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Brazil’s stock exchange pushes stablecoin launch back to 2027",
+        "link": "https://cointelegraph.com/news/brazil-b3-stablecoin-tokenization-launch-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Austria-supervised crypto firms report 20.4B euros in H1 trading volume",
+        "link": "https://cointelegraph.com/news/austria-supervised-crypto-firms-report-204b-h1-volume?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin supply metric hits 11-year low as new ‘capitulation’ signal arrives",
+        "link": "https://cointelegraph.com/markets/bitcoin-supply-metric-new-capitulation-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bluefin to shut down perps, refocus on spot trading and tokenized RWAs",
+        "link": "https://cointelegraph.com/news/bluefin-shut-down-perps-refocus-spot-trading-tokenized-rwas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-11-27T17:25:40.613Z"
+  },
+  {
     "id": "digest-2026-11-26",
     "date": "2026-11-26",
     "title": "Crypto Market Recap — November 26, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-10-29T14:13:01.319Z"
-  },
-  {
-    "id": "digest-2026-10-28",
-    "date": "2026-10-28",
-    "title": "Crypto Market Recap — October 28, 2026",
-    "summary": "Bitcoin is trading at $80,544, down 0.3% over the last 24 hours. Ethereum is trading at $2,331, down 0.7% over the last 24 hours. Solana is trading at $101, down 0.2% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 80544,
-        "change": -0.32
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 2331,
-        "change": -0.68
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 101,
-        "change": -0.21
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
-        "link": "https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Cybersecurity’s Black October: How to protect yourself",
-        "link": "https://cointelegraph.com/magazine/cybersecuritys-black-october-how-to-protect-yourself?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "DTCC unit launches tokenization services",
-        "link": "https://cointelegraph.com/news/dtcc-subsidiary-launches-tokenization-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Settlement concerns prompt Euronext to halt CoinShares’ Zcash ETP ahead of debut",
-        "link": "https://cointelegraph.com/news/euronext-suspends-coinshares-zcash-etp-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Mirae Asset Securities issues tokenized notes on Solana",
-        "link": "https://cointelegraph.com/news/mirae-asset-securities-tokenized-notes-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over",
-        "link": "https://cointelegraph.com/markets/bitcoin-price-eyes-82k-as-morgan-stanley-strategist-says-most-of-correction-is-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K",
-        "link": "https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-10-28T13:58:38.720Z"
   }
 ]
