@@ -1,5 +1,90 @@
 [
   {
+    "id": "digest-2026-11-28",
+    "date": "2026-11-28",
+    "title": "Crypto Market Recap — November 28, 2026",
+    "summary": "Bitcoin is trading at $59,456, down 0.7% over the last 24 hours. Ethereum is trading at $1,651, down 0.6% over the last 24 hours. Solana is trading at $70.55, down 1.5% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
+    "summarySource": "template",
+    "prices": [
+      {
+        "sym": "BTC",
+        "name": "Bitcoin",
+        "price": 59456.48,
+        "change": -0.67
+      },
+      {
+        "sym": "ETH",
+        "name": "Ethereum",
+        "price": 1650.7,
+        "change": -0.61
+      },
+      {
+        "sym": "SOL",
+        "name": "Solana",
+        "price": 70.55,
+        "change": -1.45
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Justin Sun calls for Trump family-linked WLFI token to be delisted",
+        "link": "https://cointelegraph.com/news/justin-sun-calls-for-trump-family-linked-wlfi-token-to-be-delisted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "ASEAN+3 agrees on initiative to explore crypto payments cooperation",
+        "link": "https://cointelegraph.com/news/asean3-agrees-on-initiative-to-explore-crypto-payments-cooperation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Binance plans Asia hub in Bhutan, receives preliminary approval",
+        "link": "https://cointelegraph.com/news/binance-receives-in-principle-approval-plans-asia-hub-in-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Franklin Templeton makes room for HYPE in crypto index ETF",
+        "link": "https://cointelegraph.com/news/franklin-templeton-hype-crypto-index-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin whales pile into BTC despite shrinking profit cushion",
+        "link": "https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "China sets March 2027 rollout for blockchain identity regulations",
+        "link": "https://cointelegraph.com/news/china-march-2027-rollout-blockchain-identity-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      },
+      {
+        "title": "Bitcoin price drops below $59K as Anthropic joins tech stock rebound",
+        "link": "https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph"
+      }
+    ],
+    "events": [],
+    "openSignals": [
+      {
+        "symbol": "BTC/USDT",
+        "market": "futures",
+        "direction": "LONG",
+        "entry": "62,400 - 62,900"
+      },
+      {
+        "symbol": "ETH/USDT",
+        "market": "futures",
+        "direction": "SHORT",
+        "entry": "2,420 - 2,450"
+      }
+    ],
+    "generatedAt": "2026-11-28T16:07:24.948Z"
+  },
+  {
     "id": "digest-2026-11-27",
     "date": "2026-11-27",
     "title": "Crypto Market Recap — November 27, 2026",
@@ -2463,90 +2548,5 @@
       }
     ],
     "generatedAt": "2026-10-30T14:04:28.294Z"
-  },
-  {
-    "id": "digest-2026-10-29",
-    "date": "2026-10-29",
-    "title": "Crypto Market Recap — October 29, 2026",
-    "summary": "Bitcoin is trading at $80,235, down 1.2% over the last 24 hours. Ethereum is trading at $2,323, down 1.4% over the last 24 hours. Solana is trading at $100.54, down 1.7% over the last 24 hours. As always, manage risk: size positions from your stop loss, not from conviction.",
-    "summarySource": "template",
-    "prices": [
-      {
-        "sym": "BTC",
-        "name": "Bitcoin",
-        "price": 80234.72,
-        "change": -1.25
-      },
-      {
-        "sym": "ETH",
-        "name": "Ethereum",
-        "price": 2322.9,
-        "change": -1.44
-      },
-      {
-        "sym": "SOL",
-        "name": "Solana",
-        "price": 100.54,
-        "change": -1.73
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Canton Foundation grants RedStone 15.8M Canton Coin for pricing standard",
-        "link": "https://cointelegraph.com/news/canton-foundation-redstone-coin-pricing-standard?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Brazil’s Halloween eve crypto deadline brings more tricks than treats",
-        "link": "https://cointelegraph.com/news/brazil-crypto-license-filing-deadline-hurdles-uncertainty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron?",
-        "link": "https://cointelegraph.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Polygon expands Open Money Stack to Solana, after Tron rollout",
-        "link": "https://cointelegraph.com/news/polygon-brings-open-money-stack-payments-services-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Chainalysis traces North Korean crypto cash-outs through Garantex",
-        "link": "https://cointelegraph.com/news/chainalysis-dprk-crypto-cash-out-network-ofac-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "Unlimit founder backs Phase blockchain with $45M as mainnet launches",
-        "link": "https://cointelegraph.com/news/unlimit-founder-phase-blockchain-mainnet-launches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      },
-      {
-        "title": "HTX agrees to halt unlawful UK crypto promotions after FCA case",
-        "link": "https://cointelegraph.com/news/htx-halt-unlawful-uk-crypto-promotions-fca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph"
-      }
-    ],
-    "events": [],
-    "openSignals": [
-      {
-        "symbol": "BTC/USDT",
-        "market": "futures",
-        "direction": "LONG",
-        "entry": "62,400 - 62,900"
-      },
-      {
-        "symbol": "ETH/USDT",
-        "market": "futures",
-        "direction": "SHORT",
-        "entry": "2,420 - 2,450"
-      }
-    ],
-    "generatedAt": "2026-10-29T14:13:01.319Z"
   }
 ]
